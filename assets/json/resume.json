@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Hamza Kyamanywa",
+    "label": "Full Stack Software Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "untilhamza@gmail.com",
+    "phone": "+821098999793",
+    "url": "https://untilhamza.github.io/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "address": "2712 Broadway St",
@@ -171,14 +171,19 @@
   ],
   "references": [
     {
-      "name": "Professor John Doe",
+      "name": "Prof. Beelee Chua Ph.D.",
       "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Professor of Electrical Engineering at Korea University, Seoul, South Korea."
     },
     {
-      "name": "Professor John Doe",
+      "name": "Prof. Seung-Won Jung Ph.D",
       "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "reference": "Professor of Electrical Engineering at Korea University, Seoul, South Korea."
+    },
+     {
+      "name": "Park Junghyun",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "CEO of Bebridge Inc. Seoul, South Korea."
     }
   ],
   "projects": [

@@ -2,96 +2,118 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Hamza Kyamanywa
     - name: Date of Birth
-      value: 14th March 1879
+      value: 30th October 1998
     - name: Languages
-      value: English, German
+      value: English, Korea, Luganda
+    - name: Nationality
+      value: Uganda
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor of Science in Electrical Engineering
+      institution: Korea University, Seoul, South Korea
+      year: "2019 - 2023"
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: GPA
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - 4.02/4.5 - Magna Cum Laude
+        - title: Relevant Coursework
+          contents:
+            - Data Structures and Algorithms
+            - Databases
+            - Internet Programming
+            - C/C++ Programming
+            - Fundamentals of Data Science
+            - Computational Thinking
+        - title: Thesis
+          contents:
+            - Distilled Model Soups
+    - title: "Korean Language Course"
+      institution: "Sunmoon University, Cheonan, South Korea"
+      year: "2018 - 2019"
       description:
-        - Description 1.
-        - Description 2.
+        - title: Achievements
+          contents:
+            - "Test of Proficiency in Korean (TOPIK): 5/6"
+            - Bypassed Intermediate Level 3 and advancing directly to Advanced Level 2
+            - Won 3 best student awards
+        - title: Activities
+          contents:
+            - Class President of the 2018 Global Korea Scholars
+    - title: "Bachelor of Science in Electrical Engineering"
+      institution: "Makerere University, Kampala, Uganda"
+      year: "2017 - 2018"
+      description:
+        - title: GPA
+          contents:
+            - "4.3/5 (One semester)"
+        - title: Activities
+          contents:
+            - Unified Class President representing the Electrical, Telecommunications, and Computer Engineering departments in my inaugural year
 
-- title: Experience
+- title: "Professional Experience"
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Software Engineer
+      institution: Bebridge Inc, Seoul South Korea
+      year: 2022 - present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - "Full stack development"
+        - "Backend API development"
+        - "Frontend app development"
+        - title: "Skills"
+          type: "list"
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+            - "Languages: Python, JavaScript"
+            - "Frameworks: Django, React, NextJS, Langchain"
+            - "Databases: MySQL, MongoDB, Firebase"
+            - "Other: Agile/SCRUM, Git, AWS, GCP"
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Open Source Contributions
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/langchain-ai/langchain">Langchain</a>
+      year: 2023
+      description: A framework for developing applications powered by language models (69.9 K stars).
+    - title: <a href="https://github.com/pytube/pytube">pytube</a>
+      year: 2023
+      description: A dependency-free Python library (and command-line utility) for downloading YouTube videos. (9.6 K stars).
+    - title: <a href="https://github.com/codex-team/editor.js">Editor.JS</a>
+      year: 2022
+      description: An open-source text editor that outputs clean JSON (25.1 K stars).
+    - title: <a href="https://github.com/mdn">MDN</a>
+      year: 2021
+      description: An open-source, collaborative project that documents web platform technologies (8.3 K stars).
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - year: "2018 - 2023"
       items:
-        - Description 1.
-        - Description 2.
+        - "Korea Global Scholarships"
+    - year: "2017 - 2018"
+      items:
+        - "Ugandan Government Scholarship"
+    - year: "2019"
+      items:
+        - "Korea University Academic Excellence Award"
+
+# - title: Academic Interests
+#   type: nested_list
+#   contents:
+#     - title: Topic 1.
+#       items:
+#         - Description 1.
+#         - Description 2.
+#     - title: Topic 2.
+#       items:
+#         - Description 1.
+#         - Description 2.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Guitar, Soccer, Sound Engineering

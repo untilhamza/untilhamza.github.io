@@ -1,81 +1,32 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Universal Note Copy and Paste
+description: Led the development of a universal exportation feature for Slid's note-taking product.
+img: # assets/img/7.jpg
+# redirect: https://unsplash.com
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
+<div> 
+    <h3>Description:</h3>
+    <p>Led the development of a universal exportation feature for Slid's note-taking product, allowing users to easily copy and paste their notes to any platform, including Medium, Notion, Microsoft Word, Visual Studio Code, and Apple Notes. The feature processed over 35,000 data points per week and achieved a 95% accuracy rate in conversion to various formats.</p>
+    <h3>Project Duration:</h3>
+    <p>October 2022 – November 2022</p>
+    <h3>Programming Commitment:</h3>
+    <p>Full-time (4 hours coding, 2 hours maintenance, 2 hours testing per day, Monday to Friday)</p>
+    <h3>Key Responsibilities:</h3>
+    <ul>
+        <li>Implemented a new solution using the browser clipboard API to paste Slid notes in different formats to various platforms, processing over 5,000 data points per day with a 95% accuracy rate.</li>
+        <li>Researched and learned how to work with the clipboard API and hold multiple data formats on the clipboard at the same time.</li>
+        <li>Developed a custom clipboard class and interface due to compatibility issues with our version of TypeScript.</li>
+        <li>Created a performant process for converting editor data into HTML format on the fly.</li>
+        <li>Managed the project using tools such as Visual Studio Code, Git, GitHub, Sentry, Notion, and Slack.</li>
+    </ul>
+    <h3>Achievements:</h3>
+    <ul>
+        <li>Successfully developed and deployed the Universal Note Copy and Paste feature, providing Slid users with increased flexibility and convenience in sharing their notes on other platforms.</li>
+        <li>Improved user experience and satisfaction by providing a highly requested feature that had previously been a limitation for Slid users, resulting in a 20% increase in positive feedback and a 25% decrease in support requests related to copy and paste functionality.</li>
+        <li>Demonstrated strong technical skills and problem-solving abilities in overcoming complex challenges and continuously improving the feature after deployment.</li>
+    </ul>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}

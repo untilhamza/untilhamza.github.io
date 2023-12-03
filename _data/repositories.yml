@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - untilhamza
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - untilhamza/Real-time-transcription-with-Google-speech-to-text-API
+  # - untilhamza/siren-thoughts
+  - untilhamza/Booking-Web-App
+  - untilhamza/gochul
+  - untilhamza/finding-shortest-paths-using-Dijkstra-s-algorithm
+  - untilhamza/solving-a-maze

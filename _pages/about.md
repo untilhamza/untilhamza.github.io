@@ -71,6 +71,7 @@ Interested in LLMs, software innovation, or just a friendly chat about the lates
 - 🤝  I've contributed to the following open source projects :-
   - [Langchain](https://github.com/langchain-ai/langchain) A framework for developing applications powered by language models.[[discord]](https://discord.com/invite/5Fgux4em9W)
   - [MemGPT](https://github.com/cpacker/MemGPT) Long term memory for LLM agents [[paper]](https://arxiv.org/abs/2310.08560) [[discord]](https://discord.com/invite/9GEQrxmVyE)
+  - [Vercel AI](https://github.com/vercel/ai) Library for building AI-powered user interfaces.
   - [Redux Toolkit](https://github.com/reduxjs/redux-toolkit) The standard way to write Redux logic[[discord]](https://discord.com/invite/0ZcbPKXt5bZ6au5t)
   - [EditorJs](https://github.com/editor-js) A block-style editor with a universal JSON output
   - [MDN](https://github.com/editor-js) Official documentation of the web

@@ -38,33 +38,43 @@ I am the founder and president of Jenga Code Labs - a nonprofit focused on equip
 I am interested in how things work internally - be it software or machines. I love opening open source libraries looking inside understanding how they work and occasionally contributing improvements. I picked up this habit from childhood as I was found breaking my toys to see what was inside.
 In my free time, you will find me either coding, playing guitar, playing FIFA, or soccer. -->
 
-#### Welcome to My Journey
+#### Welcome to My Personal Website
 
-Born in the heart of Uganda and currently innovating in South Korea, I am a full-stack software engineer and AI enthusiast with a story to tell.
+I am a Ugandan a full-stack software engineer and AI enthusiast currently living and working in Seoul, South Korea.
 
-#### Education & Professional Milestones
+#### Education & Professional Career
 
-A proud recipient of the Ugandan Government Scholarship and the [Global Korea Scholarship](http://www.niied.go.kr/user/nd35203.do), I graduated magna cum laude in Electrical Engineering from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do). My professional journey has led me to [Bebridge Inc](https://home.slid.cc), where I blend technology and creativity. As a part-time AI researcher at Neural Securify AI Group, I dive deep into Generative AI and Responsible AI.
+I am a proud recipient of the Ugandan Government Scholarship (2017) and the [Global Korea Scholarship](http://www.niied.go.kr/user/nd35203.do) (2018 - 2023). I graduated magna cum laude in Electrical Engineering from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do), Seoul South Korea (class of 2023). My professional journey has led me to [Bebridge Inc](https://home.slid.cc), where I blend technology and creativity. I am also a volunteer AI researcher with Neural Securify AI Group, where I dive deep into Generative AI and Responsible AI.
 
 <!-- , working on projects like [Project Name]. -->
 
-#### Making an Impact
+#### None profits
 
-At Jenga Code Labs, which I founded and preside over, we empower international students in Korea with coding skills, enhancing their career trajectories.
+I founded Jenga Code Labs in my final year at Korea University. Our mission is _Empowering foreign students in Korea to overcome social and professional barriers by equipping them coding skill to enhance their career trajectories_.
 
  <!-- Our recent [Event Name] was a testament to our growing impact. -->
 
-#### A Curious Mind
+<!-- #### A Curious Mind
 
-My fascination with the inner workings of software and machinery is more than a passion – it's a lifelong quest for understanding. From dismantling toys as a child to dissecting open source libraries, every challenge is an opportunity to learn and innovate.
+My fascination with the inner workings of software and machinery is more than a passion – it's a lifelong quest for understanding. From dismantling toys as a child to dissecting open source libraries, every challenge is an opportunity to learn and innovate. -->
 
-#### Life Beyond Code
+<!-- #### Life Beyond Code
 
-When not immersed in code, I find joy in strumming my guitar, strategizing in FIFA, and embracing the teamwork and excitement of soccer.
+When not immersed in code, I find joy in strumming my guitar, strategizing in FIFA, and embracing the teamwork and excitement of soccer. -->
 
 #### Let's Connect
 
-Interested in AI, software innovation, or just a friendly chat about the latest in tech? Reach out to me at [untilhamza@gmail.com](mailto:untilhamza@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/untilhamza) or [GitHub](https://github.com/untilhamza).
+Interested in LLMs, software innovation, or just a friendly chat about the latest in tech? Reach out to me at [untilhamza@gmail.com](mailto:untilhamza@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/untilhamza) or [GitHub](https://github.com/untilhamza).
+
+#### Open Source
+
+- 🤝  I've contributed to the following open source projects :-
+  - [Langchain](https://github.com/langchain-ai/langchain) A framework for developing applications powered by language models.[[discord]](https://discord.com/invite/5Fgux4em9W)
+  - [MemGPT](https://github.com/cpacker/MemGPT) Long term memory for LLM agents [[paper]](https://arxiv.org/abs/2310.08560) [[discord]](https://discord.com/invite/9GEQrxmVyE)
+  - [Redux Toolkit](https://github.com/reduxjs/redux-toolkit) The standard way to write Redux logic[[discord]](https://discord.com/invite/0ZcbPKXt5bZ6au5t)
+  - [EditorJs](https://github.com/editor-js) A block-style editor with a universal JSON output
+  - [MDN](https://github.com/editor-js) Official documentation of the web
+  - [Pytube](https://github.com/editor-js) Lightweight library for downloading YouTube Videos
 
 #### TL;DR
 
@@ -76,11 +86,7 @@ Interested in AI, software innovation, or just a friendly chat about the latest 
 - :microscope: My research interests are in **Generative AI**, **Large Language Models** and **Responsible AI**.
 - :briefcase: [My Resume](/assets/pdf/231202_Kyamanywa-Hamza-stanford-resume-resume.pdf)
   <!-- - 🧠  I'm learning Django -->
-- 🤝  I've contributed to the following open source projects :-
-  - [Langchain](https://github.com/editor-js)
-  - [EditorJs](https://github.com/editor-js)
-  - [MDN](https://github.com/editor-js)
-  - [Pytube](https://github.com/editor-js)
+
 - ⚡ Fun fact **I speak a language from every continent!** 🌎
 
 <!-- ### Skills
@@ -115,7 +121,9 @@ Interested in AI, software innovation, or just a friendly chat about the latest 
 - **Other:** Agile/SCRUM, Git, AWS, GCP
 
 <br/>
+
 ### Career Philosophy
+
 <details>
 <summary><b>Expand:</b> </summary>
    <p>I owe all my opportunities to education. I was only able to move from Uganda to South Korea because of a scholarship from the Korean Government. I believe that education is the ultimate equalizer and distributor of opportunities. I had no right to study at a Korea university, let alone to work in Korea as an engineer, but education made this possible. Now, thanks to this opportunity I speak a new language - Korean, I have learned a new culture and I’ve explored a new country and continent. I have also realized my childhood dream of becoming an electrical engineer and also pursued my passion in software engineering. This effect of education can be significantly multiplied if integrated with technology. My work as a software engineer at Bebridge Inc. has brought me close enough to witness this firsthand. I have seen what a simple tool like Slid can do for online learners studying from videos, infact I used it myself before I went to work there. I also saw how much more useful it became when we began building AI features on top of it. I am convinced through this experience that through education we can change the lives of multitudes of people from around the world, and with technology and AI we can empower them to learn faster and more efficiently at a rate not seen before. We can level the world with EdTech! This belief in the power of education and knowledge sharing is part of the reason I founded Jenga CodeLabs.</p>

@@ -85,7 +85,7 @@ Interested in LLMs, software innovation, or just a friendly chat about the lates
 - 📫 You can reach me at [untilhamza@gmail.com](mailto:untilhamza@gmail.com)
 - 🚀  I'm currently working on [empowering life long learners](http://www.slid.cc)
 - :microscope: My research interests are in **Generative AI**, **Large Language Models** and **Responsible AI**.
-- :briefcase: [My Resume](/assets/pdf/231202_Kyamanywa-Hamza-stanford-resume-resume.pdf)
+- :briefcase: [My Resume](/assets/pdf/240619_Kyamanywa-Hamza-NVIDIA-resume.pdf)
   <!-- - 🧠  I'm learning Django -->
 
 - ⚡ Fun fact **I speak a language from every continent!** 🌎

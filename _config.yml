@@ -67,7 +67,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: untilhamza # your GitHub user name
 gitlab_username: # your GitLab user name
-x_username: untilhamza # your X handle
+x_username: hamza_kyamanywa # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: untilhamza # your LinkedIn user name
 telegram_username: # your Telegram user name
@@ -94,7 +94,7 @@ lastfm_id: # your lastfm id
 spotify_id: #31zhkmixlf3hxgj3c23tlvr7neya # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-instagram_id: #untilhamza # your instagram id
+instagram_id: untilhamza # your instagram id
 facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: #836885952219447306 # your discord id (18-digit unique numerical identifier)
@@ -172,7 +172,7 @@ collections:
     permalink: /projects/:path/
 
 announcements:
-  enabled: false
+  enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 

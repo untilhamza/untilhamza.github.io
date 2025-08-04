@@ -92,7 +92,7 @@ Interested in LLMs, software innovation, or just a friendly chat about the lates
   <!-- - 📄 [My Resume](https://untilhamza.github.io/assets/resume/Hamza_Kyamanywa_-_Full_Stack_Software_Engineer.pdf) -->
   <!-- - 🖥️  See my portfolio at [here](http://untilhamza.github.io/) -->
 - 📫 You can reach me at [untilhamza@gmail.com](mailto:untilhamza@gmail.com)
-- 🚀  I'm currently working on [empowering life long learners](http://www.slid.cc)
+- 🚀  I'm currently working on a [privacy first video learning technology ](http://www.hovernotes.io)
 - :microscope: My research interests are in **Generative AI**, **Large Language Models** and **Responsible AI**.
 - :briefcase: [My Resume](/assets/pdf/240619_Kyamanywa-Hamza-NVIDIA-resume.pdf)
   <!-- - 🧠  I'm learning Django -->

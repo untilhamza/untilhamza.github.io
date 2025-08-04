@@ -1,50 +1,51 @@
 ---
 layout: page
-title: Smart Live Text
-description: Led the development of an advanced real-time transcription feature
+title: HoverNotes
+description: Privacy-first AI video learning platform eliminating context-switching
 img: # assets/img/12.jpg
 importance: 1
 category: work
-# related_publications: einstein1956investigations, einstein1950meaning
-# NOTE: projects can have related publications, so think about it when you work on projects at Slid
 ---
-
-<!-- NOTE: Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    --- -->
 
 <div>
     <h3>Description:</h3>
-    <p>Led the development of an advanced real-time transcription feature called "Smart Live Text" for use with Slid's note-taking product. The feature enables users to easily take notes while watching videos in our Chrome extension, with a 85% accuracy rate.</p>
+    <p>Founded and leading technical development of HoverNotes, a groundbreaking privacy-first AI video note-taking platform that eliminates context-switching in video-based learning. The platform features a sophisticated three-tier architecture (browser extension + web app + AI backend) enabling note-taking on any video platform while maintaining complete user privacy through local Obsidian vault storage.</p>
+    
     <h3>Project Duration:</h3>
-    <p>November 2022– December 2022 </p>
-    <h3>Programming Commitment:</h3>
-    <p>Full-time (4 hours coding, 2 hours maintenance, 2 hours testing per day, Monday to Friday)</p>
-    <h3>Key Responsibilities:</h3>
+    <p>January 2025 – Present (Founder & Technical Lead)</p>
+    
+    <h3>Key Technical Achievements:</h3>
     <ul>
-        <li>Researched and developed a solution for real-time transcription of audio from video to text using JavaScript, Chrome extension, Node.js, and Google Cloud’s speech to text API.</li>
-        <li>Built and demoed a prototype to the project manager, achieving an 84% accuracy rate in initial testing.</li>
-        <li>Implemented the transcription tool and deployed it to production using AWS EC2 servers with a load balancer, achieving seamless integration with Slid's note-taking product.</li>
-        <li>Conducted extensive testing and debugging to ensure the tool was accurate and reliable.</li>
-        <li>Worked with the project manager to establish project timelines and deliverables, consistently meeting all deadlines and exceeding expectations.</li>
-        <li>Led the development team to successfully integrate the transcription tool with the Slid platform.</li>
-        <li>Participated in user testing and gathered feedback to inform future iterations of the tool, resulting in a satisfaction rate of 95% among surveyed users.</li>
-        <li>Contributed to comprehensive documentation and provided technical support for the tool as needed.</li>
-        <li>Utilized tools such as Visual Studio Code, Git, GitHub, Sentry, Notion, and Slack to manage the project and collaborate with team members.</li>
+        <li><strong>Universal Video Integration:</strong> Built advanced video detection system working across all platforms (YouTube, Udemy, LinkedIn Learning, Bilibili, etc.) using DOM mutation observers and cross-origin message passing</li>
+        <li><strong>Privacy-First Architecture:</strong> Implemented local-first storage with direct Obsidian vault integration using Chrome's File System Access API - zero cloud data collection</li>
+        <li><strong>Browser Extension Mastery:</strong> Chrome Manifest V3 implementation with advanced permission management, service workers, and floating iframe-based editor</li>
+        <li><strong>AI-Enhanced Learning:</strong> Integrated multi-modal processing with real-time streaming note generation and LangGraph reasoning agents</li>
+        <li><strong>Global Scale Engineering:</strong> 45+ language localization with AI note generation adapted to linguistic nuances and cultural learning styles</li>
+        <li><strong>Screenshot Integration:</strong> Automated video frame capture with precise timestamp correlation and organized storage</li>
     </ul>
-    <h3>Achievements:</h3>
+    
+    <h3>Technical Stack:</h3>
     <ul>
-        <li>The Advanced Smart Live Text feature received widespread acclaim from users, resulting in a 5% increase in user retention and a 9% increase in revenue for Slid.</li>
-        <li>Demonstrated exceptional technical expertise and project management skills in leading the development of this innovative feature.</li>
-        <li>Contributed significantly to the overall success of the company by providing a highly requested and innovative solution to a complex problem, resulting in a 7% increase in surveyed user satisfaction and a 3% increase in market share.</li>
+        <li><strong>Frontend:</strong> Next.js 15, React 19, TypeScript, Lexical Editor (Meta's rich text framework)</li>
+        <li><strong>Browser Extension:</strong> Manifest V3, File System Access API, tabCapture API, Cross-origin messaging</li>
+        <li><strong>Backend:</strong> Python FastAPI, LangGraph, Docker, PostgreSQL</li>
+        <li><strong>AI/ML:</strong> Custom reasoning agents, Multi-modal video processing, Real-time transcription</li>
+        <li><strong>Infrastructure:</strong> Hetzner Cloud, Docker Compose, Nginx, SSL/TLS automation</li>
+    </ul>
+    
+    <h3>Business Impact:</h3>
+    <ul>
+        <li>Addressing the $68B online education market with privacy-first solution as data protection becomes critical</li>
+        <li>First platform combining universal video compatibility + AI enhancement + complete privacy</li>
+        <li>Eliminated context-switching between video watching and note-taking applications</li>
+        <li>Empowering learners with complete control over their educational data</li>
+    </ul>
+    
+    <h3>Innovation Highlights:</h3>
+    <ul>
+        <li><strong>Technical Innovation:</strong> Single extension working universally across all video platforms without platform-specific code</li>
+        <li><strong>Privacy Leadership:</strong> Local-first architecture in era of cloud-dependent note-taking solutions</li>
+        <li><strong>AI Enhancement:</strong> Multi-modal processing beyond simple transcription available in existing tools</li>
+        <li><strong>User Experience:</strong> Seamless note-taking overlay that never interrupts video learning flow</li>
     </ul>
 </div>

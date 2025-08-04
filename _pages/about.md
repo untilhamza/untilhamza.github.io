@@ -6,11 +6,11 @@ subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.JPG
+  image: prof_pic_2.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Software Engineer</p>
-    <p>Bebridge Inc</p>
+    <p>Technical Founder @ HoverNotes</p>
+    <p>AI Lead @ GoGymi</p>
     <p>Seoul, South Korea</p>
 
 news: false # includes a list of news items
@@ -40,11 +40,20 @@ In my free time, you will find me either coding, playing guitar, playing FIFA, o
 
 #### Welcome to My Personal Website
 
-I am a Ugandan a full-stack software engineer and AI enthusiast currently living and working in Seoul, South Korea.
+I am a Technical Founder and  AI Engineer specializing in full-stack + AI development with 4+ years of hands-on experience building revolutionary educational technology. Currently founding HoverNotes while freelancing as Technical Lead at GoGymi.
 
 #### Education & Professional Career
 
-I am a proud recipient of the Ugandan Government Scholarship (2017) and the [Global Korea Scholarship](http://www.niied.go.kr/user/nd35203.do) (2018 - 2023). I graduated magna cum laude in Electrical Engineering from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do), Seoul South Korea (class of 2023). My professional journey has led me to [Bebridge Inc](https://home.slid.cc), where I blend technology and creativity. I am also a volunteer AI researcher with Neural Securify AI Group, where I dive deep into Generative AI and Responsible AI.
+I am a proud recipient of the Ugandan Government Scholarship (2017) and the [Global Korea Scholarship](http://www.niied.go.kr/user/nd35203.do) (2018 - 2023). I graduated cum laude in Electrical Engineering from [Korea University](https://www.korea.edu/mbshome/mbs/en/index.do), Seoul South Korea (class of 2023) with a 4.02/4.5 GPA.
+
+**Current Roles:**
+- **Technical Founder @ HoverNotes**: Building privacy-first AI video learning platform with universal video integration, local Obsidian storage, and 45+ language support
+- **AI Lead @ GoGymi**: Architecting Textutor AI platform for essay correction and grading, processing 1000+ daily submissions
+
+**Previous Experience:**
+- **Principal AI Engineer @ Slid (2022-2025)**: Pioneered revolutionary features including Auto Notes System (60% cost optimization), Smart Live Text (25% premium subscription increase), AI Sliddy chatbot, and multi-agent transcript correction systems
+
+**Research:** Co-authored paper in SN Computer Science (Springer Nature) on responsible AI and explainable machine learning.
 
 <!-- , working on projects like [Project Name]. -->
 
@@ -115,11 +124,16 @@ Interested in LLMs, software innovation, or just a friendly chat about the lates
 
 ### Skills
 
-- **Languages:** Python, JavaScript, C++
-- **Frameworks:** Django, React, NextJS, Flask, Bootstrap, NestJs, Tailwind
-- **Machine Learning:** Langchain, Pytorch, Keras
-- **Databases:** MySQL, MongoDB, Firebase, Postgress, Supabase
-- **Other:** Agile/SCRUM, Git, AWS, GCP
+- **Languages:** TypeScript, Python, JavaScript, C++
+- **Frontend:** React 19, Next.js 15, React Native, Chrome Extensions (Manifest V3), Tailwind CSS, Bootstrap
+- **Backend:** FastAPI, Node.js, NestJS, Express, Django, Flask
+- **AI/ML:** LangChain, LangGraph, GPT-4, Claude, Gemini, PyTorch, Keras, SHAP, LIME, Vector Databases
+- **Real-time:** WebRTC, WebSocket, Speech-to-Text (STT), Real-time Transcription
+- **Databases:** PostgreSQL, MongoDB, Redis, MySQL, Firebase, Supabase, Vector DBs
+- **Infrastructure:** Docker, Kubernetes, AWS, GCP, Multi-region Deployment, CDN
+- **Browser APIs:** File System Access API, Clipboard API, Screen Capture API, Media APIs
+- **Architecture:** Microservices, Multi-agent Systems, Event-driven, Serverless
+- **Other:** Git, Agile/SCRUM, Anti-detection Systems, Performance Optimization
 
 <br/>
 

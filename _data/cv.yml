@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 30th October 1998
     - name: Languages
-      value: English, Korea, Luganda
+      value: English, Korean, Luganda
     - name: Nationality
       value: Uganda
 
@@ -19,7 +19,7 @@
       description:
         - title: GPA
           contents:
-            - 4.02/4.5 - Magna Cum Laude
+            - 4.02/4.5 - Cum Laude
         - title: Relevant Coursework
           contents:
             - Data Structures and Algorithms
@@ -57,27 +57,76 @@
 - title: "Professional Experience"
   type: time_table
   contents:
-    - title: Software Engineer
-      institution: Bebridge Inc, Seoul South Korea
-      year: 2022 - present
+    - title: Technical Founder
+      institution: HoverNotes LLC
+      year: 2025 - present
       description:
-        - "Full stack development"
-        - "Backend API development"
-        - "Frontend app development"
-        - title: "Skills"
-          type: "list"
+        - "Building privacy-first AI video learning platform"
+        - "Universal video platform integration"
+        - "Chrome extension development with Manifest V3"
+        - "Local-first architecture with Obsidian integration"
+        - "45+ language support with cultural adaptations"
+        - title: "Technologies"
           contents:
-            - "Languages: Python, JavaScript"
-            - "Frameworks: Django, React, NextJS, Langchain"
-            - "Databases: MySQL, MongoDB, Firebase"
-            - "Other: Agile/SCRUM, Git, AWS, GCP"
+            - "Frontend: Next.js 15, React 19, TypeScript, Lexical Editor"
+            - "Backend: Python FastAPI, LangGraph, Docker, PostgreSQL"
+            - "AI/ML: Multi-modal processing, real-time transcription"
+            - "Browser: Chrome Extension APIs, File System Access API"
+    - title: Technical Lead (Freelance)
+      institution: GoGymi, Seoul South Korea
+      year: 2024 - 2025
+      description:
+        - "Architecting Textutor AI essay correction platform"
+        - "GPT-4 integration with function calling"
+        - "Multi-language processing (5 languages)"
+        - "Real-time collaborative editing with Yjs"
+        - "Processing 1000+ daily submissions"
+        - title: "Technologies"
+          contents:
+            - "AI/ML: OpenAI GPT-4, Google Gemini, LanguageTool"
+            - "Frontend: Next.js 15, React 19, TypeScript"
+            - "Backend: FastAPI, PostgreSQL, Yjs"
+    - title: Principal AI Engineer / Technical Lead
+      institution: BEBRIDGE Inc (Slid), Seoul South Korea
+      year: 2022 - 2025
+      description:
+        - "Pioneered Auto Notes System (60% cost optimization)"
+        - "Led Smart Live Text development (25% premium subscription increase)"
+        - "Built AI Sliddy chatbot and Universal Export system"
+        - "Developed multi-agent transcript correction systems"
+        - "YouTube URL extractor and remote capture innovations"
+        - title: "Key Technologies"
+          contents:
+            - "AI/ML: GPT-4, Claude, LangChain, LangGraph, Pinecone"
+            - "Frontend: React, Next.js, TypeScript, Redux"
+            - "Backend: Python, Node.js, FastAPI, WebSocket"
+            - "Infrastructure: AWS, Docker, Redis, FFmpeg"
+
+- title: Publications
+  type: time_table
+  contents:
+    - title: Responsible Music Genre Classification Using Interpretable Model-Agnostic Visual Explainers
+      year: 2025
+      description: |
+        Co-authored paper published in SN Computer Science (Springer Nature). Advanced explainable AI in music genre classification using SHAP, LIME, and ELi5 techniques. 
+        Developed responsible AI approach with CNN and Vision Transformer models achieving 80% accuracy with comprehensive model interpretability.
+        DOI: https://doi.org/10.1007/s42979-024-03584-9
 
 - title: Open Source Contributions
   type: time_table
   contents:
+    - title: GitHub Leadership
+      year: 2019-2025
+      description: 186+ public repositories, 535+ stars, Pull Shark (x4), Pair Extraordinaire (x2) achievements
+    - title: Stack Overflow Pioneer
+      year: 2022-2025
+      description: First documented WebRTC → Cloud Speech integration, solutions helping 5,000+ developers globally, Moderator election invitation
     - title: <a href="https://github.com/langchain-ai/langchain">Langchain</a>
       year: 2023
       description: A framework for developing applications powered by language models (69.9 K stars).
+    - title: <a href="https://github.com/StanGirard/quivr">Quivr</a>
+      year: 2024
+      description: RAG AI integration framework for building AI assistants.
     - title: <a href="https://github.com/pytube/pytube">pytube</a>
       year: 2023
       description: A dependency-free Python library (and command-line utility) for downloading YouTube videos. (9.6 K stars).

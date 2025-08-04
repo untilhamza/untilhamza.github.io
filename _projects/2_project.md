@@ -1,31 +1,54 @@
 ---
 layout: page
-title: Slid Authentication 2.0
-description: Led the overhaul of the platform's authentication system
-img: # assets/img/3.jpg
+title: Auto Notes System
+description: Pioneered AI-powered auto note generation from video content at Slid
+img: # assets/img/12.jpg
 importance: 2
 category: work
-giscus_comments: false
 ---
 
 <div>
     <h3>Description:</h3>
-    <p>Led the overhaul of the platform's authentication system to address constant issues and increase user trust.</p>
+    <p>Pioneered the development of AI-powered auto note generation from video content at Slid, starting as a side project before the AI boom. Built an end-to-end system that transforms video content into structured, actionable notes using advanced AI processing, achieving significant cost optimization and establishing new revenue streams.</p>
+    
     <h3>Project Duration:</h3>
-    <p>October 2022 – November 2022</p>
-    <h3>Programming Commitment:</h3>
-    <p>Full-time (4 hours coding, 2 hours maintenance, 2 hours testing per day, Monday to Friday)</p>
-    <h3>Key Responsibilities:</h3>
+    <p>2024 (Principal AI Engineer at Slid)</p>
+    
+    <h3>Key Technical Achievements:</h3>
     <ul>
-        <li>Led the design and development of the new authentication system for the Slid React Web App and Slid Chrome extension.</li>
-        <li>Successfully implemented the new authentication system in the Slid desktop app and mobile app.</li>
-        <li>Utilized a range of technologies, including JavaScript/Typescript, ReactJS, NextJS, Django, AWS, Electron JS, React Native, Vercel, to build a robust and reliable system.</li>
-        <li>Managed the project using tools such as Visual Studio Code, Git, GitHub, Sentry, Notion, and Slack to ensure timely delivery and seamless collaboration with the rest of the team.</li>
+        <li><strong>AI Innovation Pioneer:</strong> Started developing AI note generation before ChatGPT era, positioning Slid as an early innovator</li>
+        <li><strong>End-to-End System Architecture:</strong> Built complete pipeline from video input to structured note output</li>
+        <li><strong>Smart Markdown Conversion:</strong> Developed intelligent markdown to rich-text editor conversion maintaining formatting fidelity</li>
+        <li><strong>Cost Optimization:</strong> Achieved 60% API cost reduction through intelligent buffering and provider optimization</li>
+        <li><strong>Real-time Processing:</strong> Implemented streaming architecture for progressive note generation during video playback</li>
+        <li><strong>Multi-provider Integration:</strong> Seamlessly integrated OpenAI GPT-4, Anthropic Claude, and Google Gemini for optimal performance</li>
     </ul>
-    <h3>Achievements:</h3>
+    
+    <h3>Technical Implementation:</h3>
     <ul>
-        <li>The Slid Authentication 2.0 project was a major success, resulting in a significant improvement in user trust and a marked decrease in authentication issues.</li>
-        <li>Demonstrated strong leadership skills in managing the project from conception to successful deployment.</li>
-        <li>Utilized a wide range of technical expertise and problem-solving skills to deliver a high-quality solution to a complex problem.</li>
+        <li><strong>AI/ML Stack:</strong> OpenAI GPT-4, Anthropic Claude, Google Cloud Speech, LangChain</li>
+        <li><strong>Backend:</strong> Python FastAPI, WebSocket for real-time communication, Redis for caching</li>
+        <li><strong>Frontend Integration:</strong> React 18, Redux for state management, Custom editor plugins</li>
+        <li><strong>Processing Pipeline:</strong> Audio extraction → Transcription → AI summarization → Format conversion</li>
+        <li><strong>Optimization:</strong> Request batching, Token usage optimization, Provider fallback mechanisms</li>
     </ul>
+    
+    <h3>Business Impact:</h3>
+    <ul>
+        <li><strong>Revenue Growth:</strong> Transformed premium feature adoption, establishing new AI-powered revenue streams</li>
+        <li><strong>User Engagement:</strong> Significant increase in user retention and premium subscriptions</li>
+        <li><strong>Market Positioning:</strong> Established Slid as AI-first educational technology leader</li>
+        <li><strong>Cost Efficiency:</strong> 60% reduction in API costs while improving output quality</li>
+    </ul>
+    
+    <h3>Technical Innovations:</h3>
+    <ul>
+        <li><strong>Intelligent Buffering:</strong> Custom algorithm to optimize API calls without sacrificing real-time feel</li>
+        <li><strong>Format Preservation:</strong> Advanced AST manipulation for markdown to rich-text conversion</li>
+        <li><strong>Context Management:</strong> Sliding window approach for maintaining context in long videos</li>
+        <li><strong>Quality Assurance:</strong> Multi-stage validation pipeline ensuring high-quality note output</li>
+    </ul>
+    
+    <h3>Skills Demonstrated:</h3>
+    <p>AI/ML Engineering, System Architecture, Cost Optimization, Real-time Processing, API Integration, Product Innovation, Full-stack Development</p>
 </div>

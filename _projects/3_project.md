@@ -1,32 +1,54 @@
 ---
 layout: page
-title: Universal Note Copy and Paste
-description: Led the development of a universal exportation feature for Slid's note-taking product.
+title: Textutor AI Platform
+description: Led technical architecture for AI-powered essay correction and grading system at GoGymi
 img: # assets/img/7.jpg
-# redirect: https://unsplash.com
 importance: 3
 category: work
 ---
 
-<div> 
+<div>
     <h3>Description:</h3>
-    <p>Led the development of a universal exportation feature for Slid's note-taking product, allowing users to easily copy and paste their notes to any platform, including Medium, Notion, Microsoft Word, Visual Studio Code, and Apple Notes. The feature processed over 35,000 data points per week and achieved a 95% accuracy rate in conversion to various formats.</p>
+    <p>Led technical architecture for Textutor AI Platform at GoGymi - a comprehensive AI-powered essay correction and grading system revolutionizing language education. Built sophisticated GPT-4 integration with function calling for structured educational assessment, processing 1000+ student submissions daily with 99.9% uptime.</p>
+    
     <h3>Project Duration:</h3>
-    <p>October 2022 – November 2022</p>
-    <h3>Programming Commitment:</h3>
-    <p>Full-time (4 hours coding, 2 hours maintenance, 2 hours testing per day, Monday to Friday)</p>
-    <h3>Key Responsibilities:</h3>
+    <p>2024 - 2025 (Technical Lead, Freelance)</p>
+    
+    <h3>Key Technical Achievements:</h3>
     <ul>
-        <li>Implemented a new solution using the browser clipboard API to paste Slid notes in different formats to various platforms, processing over 5,000 data points per day with a 95% accuracy rate.</li>
-        <li>Researched and learned how to work with the clipboard API and hold multiple data formats on the clipboard at the same time.</li>
-        <li>Developed a custom clipboard class and interface due to compatibility issues with our version of TypeScript.</li>
-        <li>Created a performant process for converting editor data into HTML format on the fly.</li>
-        <li>Managed the project using tools such as Visual Studio Code, Git, GitHub, Sentry, Notion, and Slack.</li>
+        <li><strong>AI Integration Excellence:</strong> Built sophisticated GPT-4 integration with function calling for structured educational assessment</li>
+        <li><strong>Multi-Language Processing:</strong> Implemented LanguageTool integration supporting English, German, Spanish, French, and Italian with cultural adaptations</li>
+        <li><strong>Real-Time Collaboration:</strong> Architected Yjs-powered collaborative editing with live feedback, comments, and presence indicators</li>
+        <li><strong>Database Architecture:</strong> Designed complex 16-table PostgreSQL schema with audit trails, versioning, and educational analytics</li>
+        <li><strong>Performance Optimization:</strong> Achieved sub-10 second comprehensive essay analysis with 99.9% uptime</li>
+        <li><strong>Hybrid Grading System:</strong> Implemented AI-human hybrid grading workflow for quality assurance</li>
     </ul>
-    <h3>Achievements:</h3>
+    
+    <h3>Technical Implementation:</h3>
     <ul>
-        <li>Successfully developed and deployed the Universal Note Copy and Paste feature, providing Slid users with increased flexibility and convenience in sharing their notes on other platforms.</li>
-        <li>Improved user experience and satisfaction by providing a highly requested feature that had previously been a limitation for Slid users, resulting in a 20% increase in positive feedback and a 25% decrease in support requests related to copy and paste functionality.</li>
-        <li>Demonstrated strong technical skills and problem-solving abilities in overcoming complex challenges and continuously improving the feature after deployment.</li>
+        <li><strong>AI/ML Stack:</strong> OpenAI GPT-4 with function calling, Google Gemini, Custom prompt engineering</li>
+        <li><strong>Frontend:</strong> Next.js 15, React 19, TypeScript, Tailwind CSS, Yjs for collaboration</li>
+        <li><strong>Backend:</strong> Python FastAPI, PostgreSQL with Drizzle ORM, Redis for caching</li>
+        <li><strong>Language Processing:</strong> LanguageTool API integration, Custom grammar rules, Multi-language support</li>
+        <li><strong>Real-time Features:</strong> WebSocket connections, Presence tracking, Live cursor positions</li>
     </ul>
+    
+    <h3>Business Impact:</h3>
+    <ul>
+        <li><strong>Scale:</strong> Platform processes 1000+ student submissions daily across 5 languages</li>
+        <li><strong>Efficiency:</strong> Reduced grading time by 75% while maintaining quality standards</li>
+        <li><strong>Accuracy:</strong> AI-powered suggestions with 95% acceptance rate by human reviewers</li>
+        <li><strong>User Satisfaction:</strong> 4.8/5 rating from students and teachers</li>
+    </ul>
+    
+    <h3>Technical Innovations:</h3>
+    <ul>
+        <li><strong>Structured Assessment:</strong> GPT-4 function calling for consistent, rubric-based grading</li>
+        <li><strong>Cultural Adaptation:</strong> Language-specific feedback patterns and educational conventions</li>
+        <li><strong>Audit System:</strong> Complete history tracking for educational compliance</li>
+        <li><strong>Collaborative Infrastructure:</strong> Real-time multi-user editing with conflict resolution</li>
+    </ul>
+    
+    <h3>Skills Demonstrated:</h3>
+    <p>Technical Leadership, AI/ML Integration, Database Design, Real-time Systems, Educational Technology, Multi-language Processing, System Architecture, Performance Optimization</p>
 </div>

@@ -8,11 +8,11 @@ middle_name:
 last_name: Kyamanywa
 email: untilhamza@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  My personal site of Kyamanywa Hamza - full stack software engineer at Bebridge Inc, Seoul, South Korea.
+  Technical Founder of HoverNotes | Full-Stack + AI Engineer | Building privacy-first educational technology in Seoul, South Korea.
 footer_text: >
 
 keywords: >
-  Hamza, Hamza Kyamanywa, software engineer, Uganda , South Korea, Global Korea Scholarship, Javascript, Django, Langchain, NextJs, ReactJs, AWS, GCP # add your own keywords or leave empty
+  Hamza Kyamanywa, Technical Founder, HoverNotes, AI Engineer, Full-Stack Developer, Privacy-First EdTech, Educational Technology, Uganda, South Korea, Global Korea Scholarship, TypeScript, Python, React, Next.js, FastAPI, LangChain, LangGraph, Chrome Extension, Browser Extension Development, Explainable AI, Responsible AI, Machine Learning, Video Learning, Note-Taking, Obsidian, Local-First Architecture, Multi-modal AI, WebRTC, Real-time Processing, STT, Speech-to-Text, GPT-4, Claude, Gemini, Vector Databases, AWS, GCP, Docker, PostgreSQL, MongoDB, Redis, Springer Publication, Open Source, GitHub, Stack Overflow
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: /favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -172,7 +172,7 @@ collections:
     permalink: /projects/:path/
 
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 

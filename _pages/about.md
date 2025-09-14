@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Technical Founder @ HoverNotes</p>
-    <p>AI Lead @ GoGymi</p>
     <p>Seoul, South Korea</p>
 
 news: false # includes a list of news items
@@ -40,7 +39,7 @@ In my free time, you will find me either coding, playing guitar, playing FIFA, o
 
 #### Welcome to My Personal Website
 
-I am a Technical Founder and  AI Engineer specializing in full-stack + AI development with 4+ years of hands-on experience building revolutionary educational technology. Currently founding HoverNotes while freelancing as Technical Lead at GoGymi.
+I am a Technical Founder and AI Engineer specializing in full-stack + AI development with 4+ years of hands-on experience building revolutionary educational technology. Currently founding HoverNotes.
 
 #### Education & Professional Career
 
@@ -48,9 +47,9 @@ I am a proud recipient of the Ugandan Government Scholarship (2017) and the [Glo
 
 **Current Roles:**
 - **Technical Founder @ HoverNotes**: Building privacy-first AI video learning platform with universal video integration, local Obsidian storage, and 45+ language support
-- **AI Lead @ GoGymi**: Architecting Textutor AI platform for essay correction and grading, processing 1000+ daily submissions
 
 **Previous Experience:**
+- **Fullstack Engineer @ GoGymi (2024-2025)**: Architected Textutor AI platform for essay correction and grading (pre-launch)
 - **Principal AI Engineer @ Slid (2022-2025)**: Pioneered revolutionary features including Auto Notes System (60% cost optimization), Smart Live Text (25% premium subscription increase), AI Sliddy chatbot, and multi-agent transcript correction systems
 
 **Research:** Co-authored paper in SN Computer Science (Springer Nature) on responsible AI and explainable machine learning.

@@ -49,7 +49,7 @@ I am a proud recipient of the Ugandan Government Scholarship (2017) and the [Glo
 - **Technical Founder @ HoverNotes**: Building privacy-first AI video learning platform with universal video integration, local Obsidian storage, and 45+ language support
 
 **Previous Experience:**
-- **Fullstack Engineer @ GoGymi (2024-2025)**: Architected Textutor AI platform for essay correction and grading (pre-launch)
+- **Fullstack Engineer @ GoGymi (Jan-Sep 2025)**: Architected and built TexTutor AI-powered educational platform featuring multi-language grammar correction system, Stripe billing integration with subscription management, real-time collaborative editing with LiveBlocks, comprehensive authentication system, email infrastructure with multi-language support, and responsive React/Next.js dashboards for teachers and students (pre-launch)
 - **Principal AI Engineer @ Slid (2022-2025)**: Pioneered revolutionary features including Auto Notes System (60% cost optimization), Smart Live Text (25% premium subscription increase), AI Sliddy chatbot, and multi-agent transcript correction systems
 
 **Research:** Co-authored paper in SN Computer Science (Springer Nature) on responsible AI and explainable machine learning.

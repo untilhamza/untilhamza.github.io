@@ -1,168 +1,164 @@
-- title: General Information
-  type: map
+- title: Professional Summary
+  type: list
   contents:
-    - name: Full Name
-      value: Hamza Kyamanywa
-    - name: Date of Birth
-      value: 30th October 1998
-    - name: Languages
-      value: English, Korean, Luganda
-    - name: Nationality
-      value: Uganda
+    - Senior Fullstack Engineer with <strong>4+ years building scalable B2C mobile and web applications</strong> at a leading Korean EdTech company (50K+ MAU). Expertise in <strong>React Native, Node.js, MongoDB, and AWS</strong> with proven track record delivering high-impact features that <strong>increased user retention by 40%</strong> and drove <strong>25% premium subscription growth</strong>. <strong>Fluent in Korean (TOPIK 5)</strong> and English, with strong AI/LLM engineering capabilities. Award-winning engineer (<strong>2x Hero Awards</strong>) with rapid promotion from Level 2 to Level 4 in 18 months.
+
+- title: Technical Skills
+  type: nested_list
+  contents:
+    - title: Mobile & Frontend
+      items:
+        - "<strong>React Native (iOS/Android)</strong>, ReactJS, Next.js 15, React 19, TailwindCSS, Lexical Editor, EditorJS"
+    - title: Backend & APIs
+      items:
+        - "<strong>Node.js</strong>, FastAPI, Django, Express.js, RESTful APIs, WebSocket, Socket.io"
+    - title: Databases
+      items:
+        - "<strong>MongoDB</strong>, PostgreSQL, MySQL, Redis, Firebase, Supabase, Pinecone (Vector DB)"
+    - title: Cloud & DevOps
+      items:
+        - "<strong>AWS (Lambda, ECS, S3, EC2, EventBridge)</strong>, Docker, GCP, CI/CD, Serverless Architecture"
+    - title: Cross-Platform
+      items:
+        - "React Native, Electron, Chrome Extensions (Manifest V3), PWA, Desktop Apps"
+    - title: AI/ML
+      items:
+        - "LangChain, LangGraph, OpenAI API, Whisper, RAG, Vector Embeddings, Prompt Engineering"
+    - title: Languages
+      items:
+        - "<strong>Korean (Fluent - TOPIK 5)</strong>, English (TOEFL 111, IELTS 7.5), Luganda (Native)"
+    - title: Programming
+      items:
+        - "Python, JavaScript / TypeScript, C++, SQL"
+
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: Technical Founder
+      institution: HoverNotes (AI Video Note-Taking SaaS) | Remote, United States
+      year: Jul 2025 - Sep 2025
+      description:
+        - Founded and led technical development of <strong>privacy-first AI video note-taking platform</strong> and grew it to over from $0 to $1100 MRR in 4 months
+        - "<strong>Full-Stack Architecture:</strong> Built three-tier system (Chrome Extension + Next.js 15 Web App + Python AI Backend) with React 19, TypeScript, FastAPI, LangGraph agents, and Docker"
+        - "<strong>Privacy Innovation:</strong> Implemented local-first architecture with direct Obsidian vault integration and zero cloud storage"
+        - "<strong>Universal Video Compatibility:</strong> Engineered advanced video detection working across YouTube, Udemy, LinkedIn Learning, Bilibili, and all major platforms"
+        - "<strong>AI Integration:</strong> Built multi-modal processing with real-time streaming note generation using LangGraph reasoning agents"
+        - "<strong>Global Reach:</strong> Developed 45+ language localization with culturally-adapted AI note generation and phased market rollout strategy"
+        - "<strong>Tech Stack:</strong> Next.js 15, React 19, TypeScript, PostgreSQL, Drizzle ORM, Stripe, Supabase, Tailwind CSS, Docker, Python, FastAPI, Langchain, AWS (EC2, Route53, S3, Lambda)"
+
+    - title: Senior Full Stack Engineer (Freelance)
+      institution: GoGymi (EdTech SaaS Platform) | Remote, Switzerland
+      year: Jan 2025 - Sep 2025
+      description:
+        - Led full-stack development of TexTutor, an AI-powered educational SaaS platform for Swiss teachers and students
+        - "<strong>Full-Stack Architecture:</strong> Built complete platform using <strong>Next.js 15, React 19, PostgreSQL, TypeScript</strong> with comprehensive responsive design"
+        - "<strong>Billing & Monetization:</strong> Implemented <strong>Stripe subscription system</strong> with multi-tier plans, free trials, and automated workflows"
+        - "<strong>Multi-Language Platform:</strong> Delivered internationalization supporting 5 languages (EN/DE/ES/FR/IT) with localized billing"
+        - "<strong>Authentication & Security:</strong> Built complete user management with email verification, password reset, and secure session handling"
+        - "<strong>Rich Features:</strong> Implemented Lexical editor with collaborative features, LiveBlocks integration, and PDF export capabilities"
+        - "<strong>Tech Stack:</strong> Next.js 15, React 19, TypeScript, PostgreSQL, Drizzle ORM, Stripe, Supabase, Tailwind CSS, Docker"
+
+    - title: AI Engineer & Team Lead (Level 4)
+      institution: Bebridge Inc. (Slid - EdTech Platform, 50K+ MAU) | Seoul, South Korea
+      year: Jan 2024 - Jun 2025
+      description:
+        - Led AI innovation transforming Slid into industry-leading AI-powered educational platform with 50,000+ monthly active users
+        - "<strong>Mobile App Development:</strong> Spearheaded <strong>React Native iOS/Android app launch</strong> with server-side video processing, increasing user base by 21% and mobile retention by 40%"
+        - "<strong>AI Auto-Notes Pioneer:</strong> Built end-to-end LLM/Whisper-based auto-notes from video, increasing videos opened by 12% and overall retention by 25%"
+        - "<strong>Cost Optimization:</strong> Achieved 60% API cost reduction through intelligent buffering and multi-provider optimization"
+        - "<strong>Server-Side Video Processing:</strong> Developed FFmpeg-based screenshot solution on AWS Lambda overcoming mobile platform limitations"
+        - "<strong>AI Agent Systems:</strong> Built LangGraph multi-agent pipeline for transcript correction with custom reasoning tools"
+        - "<strong>Backend Innovation:</strong> Reverse-engineered YouTube video delivery for direct URL access, enabling mobile processing at scale"
+        - "<strong>Tech Stack:</strong> React Native, Python, FastAPI, <strong>AWS Lambda, EventBridge, S3</strong>, FFmpeg, LangGraph, OpenAI/Whisper APIs"
+
+    - title: Senior Software Engineer (Level 3) - R&D Team
+      institution: Bebridge Inc. | Seoul, South Korea
+      year: Jun 2023 - Dec 2023
+      description:
+        - "<strong>AI Sliddy Chat (Industry First):</strong> Built AI chat for notes before Notion AI, using LangChain, Pinecone vector DB, and streaming responses"
+        - "<strong>Semantic Search:</strong> Implemented RAG-based search increasing session duration by 25%"
+        - "<strong>LLM Video Summarization:</strong> Built scalable event-driven cloud engine achieving 1,500 MAU and 25% weekly retention"
+        - "<strong>Cost Reduction:</strong> Reduced summarization costs by 40% through result caching and API optimization"
+        - "<strong>Performance:</strong> Improved summarization speed by 66% via parallel processing and lazy evaluation"
+        - "<strong>Universal Export:</strong> Built multi-format export (Word, PDF, Markdown, Notion) with 96% accuracy, reducing support by 75%"
+        - "<strong>Open Source:</strong> Contributed to LangChain, Vercel AI SDK, and Quivr"
+        - "<strong>Recognition:</strong> Awarded Hero Award 2023, promoted to Level 4"
+
+    - title: Full Stack Engineer (Level 2)
+      institution: Bebridge Inc. | Seoul, South Korea
+      year: Jun 2022 - May 2023
+      description:
+        - "<strong>Real-Time Transcription:</strong> Pioneered WebRTC → Socket.io → Google Cloud Speech STT, increasing premium subscriptions by 51%"
+        - "<strong>Stack Overflow Impact:</strong> Solution helped 5,000+ developers with WebRTC/STT implementation"
+        - "<strong>Cost Optimization:</strong> Achieved 90% transcription cost reduction through provider evolution (Whisper → Google → Groq)"
+        - "<strong>Authentication System:</strong> Designed cross-platform auth using <strong>AWS Cognito</strong> for Web, Chrome Extension, Mobile (React Native), and Desktop"
+        - "<strong>Payment Integration:</strong> Built <strong>Stripe + Payple</strong> multi-gateway system with 35% checkout improvement and 98%+ success rate"
+        - "<strong>Cross-Platform Development:</strong> React Web App, <strong>React Native Mobile</strong>, Electron Desktop, Chrome Extension (200+ commits)"
+        - "<strong>Performance:</strong> Reduced load time by 57% through lazy loading and optimization"
+        - "<strong>Open Source:</strong> Contributed to EditorJS and Redux Toolkit"
+        - "<strong>Recognition:</strong> Awarded Hero Award 2022, promoted to Level 3"
 
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor of Science in Electrical Engineering
-      institution: Korea University, Seoul, South Korea
-      year: "2019 - 2023"
+    - title: Bachelor of Science in Electrical and Electronics Engineering
+      institution: Korea University, Seoul
+      year: March 2019 - February 2023
       description:
-        - title: GPA
-          contents:
-            - 4.02/4.5 - Cum Laude
-        - title: Relevant Coursework
-          contents:
-            - Data Structures and Algorithms
-            - Databases
-            - Internet Programming
-            - C/C++ Programming
-            - Fundamentals of Data Science
-            - Computational Thinking
-        - title: Thesis
-          contents:
-            - Distilled Model Soups
-    - title: "Korean Language Course"
-      institution: "Sunmoon University, Cheonan, South Korea"
-      year: "2018 - 2019"
-      description:
-        - title: Achievements
-          contents:
-            - "Test of Proficiency in Korean (TOPIK): 5/6"
-            - Bypassed Intermediate Level 3 and advancing directly to Advanced Level 2
-            - Won 3 best student awards
-        - title: Activities
-          contents:
-            - Class President of the 2018 Global Korea Scholars
-    - title: "Bachelor of Science in Electrical Engineering"
-      institution: "Makerere University, Kampala, Uganda"
-      year: "2017 - 2018"
-      description:
-        - title: GPA
-          contents:
-            - "4.3/5 (One semester)"
-        - title: Activities
-          contents:
-            - Unified Class President representing the Electrical, Telecommunications, and Computer Engineering departments in my inaugural year
+        - "<strong>GPA:</strong> 4.02/4.5 (Magna Cum Laude)"
+        - "<strong>Publication:</strong> 'Responsible Music Genre Classification using Interpretable Model-agnostic Visual Explainers' in Springer Nature Computer Science Journal (4th ICDSA 2023)"
+        - "<strong>Scholarships:</strong> Global Korea Scholarship (2018-2023), Ugandan Government Scholarship (2017)"
 
-- title: "Professional Experience"
+- title: Awards & Recognition
   type: time_table
   contents:
-    - title: Technical Founder
-      institution: HoverNotes LLC
-      year: 2025 - present
-      description:
-        - "Building privacy-first AI video learning platform"
-        - "Universal video platform integration"
-        - "Chrome extension development with Manifest V3"
-        - "Local-first architecture with Obsidian integration"
-        - "45+ language support with cultural adaptations"
-        - title: "Technologies"
-          contents:
-            - "Frontend: Next.js 15, React 19, TypeScript, Lexical Editor"
-            - "Backend: Python FastAPI, LangGraph, Docker, PostgreSQL"
-            - "AI/ML: Multi-modal processing, real-time transcription"
-            - "Browser: Chrome Extension APIs, File System Access API"
-    - title: Technical Lead (Freelance)
-      institution: GoGymi, Seoul South Korea
-      year: 2024 - 2025
-      description:
-        - "Architecting Textutor AI essay correction platform"
-        - "GPT-4 integration with function calling"
-        - "Multi-language processing (5 languages)"
-        - "Real-time collaborative editing with Yjs"
-        - "Processing 1000+ daily submissions"
-        - title: "Technologies"
-          contents:
-            - "AI/ML: OpenAI GPT-4, Google Gemini, LanguageTool"
-            - "Frontend: Next.js 15, React 19, TypeScript"
-            - "Backend: FastAPI, PostgreSQL, Yjs"
-    - title: Principal AI Engineer / Technical Lead
-      institution: BEBRIDGE Inc (Slid), Seoul South Korea
-      year: 2022 - 2025
-      description:
-        - "Pioneered Auto Notes System (60% cost optimization)"
-        - "Led Smart Live Text development (25% premium subscription increase)"
-        - "Built AI Sliddy chatbot and Universal Export system"
-        - "Developed multi-agent transcript correction systems"
-        - "YouTube URL extractor and remote capture innovations"
-        - title: "Key Technologies"
-          contents:
-            - "AI/ML: GPT-4, Claude, LangChain, LangGraph, Pinecone"
-            - "Frontend: React, Next.js, TypeScript, Redux"
-            - "Backend: Python, Node.js, FastAPI, WebSocket"
-            - "Infrastructure: AWS, Docker, Redis, FFmpeg"
-
-- title: Publications
-  type: time_table
-  contents:
-    - title: Responsible Music Genre Classification Using Interpretable Model-Agnostic Visual Explainers
-      year: 2025
-      description: |
-        Co-authored paper published in SN Computer Science (Springer Nature). Advanced explainable AI in music genre classification using SHAP, LIME, and ELi5 techniques. 
-        Developed responsible AI approach with CNN and Vision Transformer models achieving 80% accuracy with comprehensive model interpretability.
-        DOI: https://doi.org/10.1007/s42979-024-03584-9
+    - year: 2022, 2023
+      items:
+        - "<strong>Bebridge-Slid Hero Award</strong> (2 consecutive years) - Top performer company-wide"
+    - year: 2022 - 2023
+      items:
+        - "<strong>Rapid Promotion:</strong> Level 2 → Level 3 (2022) → Level 4 (2023) in 18 months"
+    - year: July 2020
+      items:
+        - "<strong>Korea University Academic Excellence Award</strong>"
+    - year: 2019 - 2020
+      items:
+        - "<strong>Korea University Dean's List</strong> (3 semesters)"
 
 - title: Open Source Contributions
   type: time_table
   contents:
-    - title: GitHub Leadership
-      year: 2019-2025
-      description: 186+ public repositories, 535+ stars, Pull Shark (x4), Pair Extraordinaire (x2) achievements
-    - title: Stack Overflow Pioneer
-      year: 2022-2025
-      description: First documented WebRTC → Cloud Speech integration, solutions helping 5,000+ developers globally, Moderator election invitation
-    - title: <a href="https://github.com/langchain-ai/langchain">Langchain</a>
-      year: 2023
-      description: A framework for developing applications powered by language models (69.9 K stars).
-    - title: <a href="https://github.com/StanGirard/quivr">Quivr</a>
-      year: 2024
-      description: RAG AI integration framework for building AI assistants.
-    - title: <a href="https://github.com/pytube/pytube">pytube</a>
-      year: 2023
-      description: A dependency-free Python library (and command-line utility) for downloading YouTube videos. (9.6 K stars).
+    - title: <a href="https://github.com/langchain-ai/langchain">LangChain</a>
+      year: 118K ⭐
+      description: Framework for LLM applications
     - title: <a href="https://github.com/codex-team/editor.js">Editor.JS</a>
-      year: 2022
-      description: An open-source text editor that outputs clean JSON (25.1 K stars).
-    - title: <a href="https://github.com/mdn">MDN</a>
-      year: 2021
-      description: An open-source, collaborative project that documents web platform technologies (8.3 K stars).
+      year: 25.1K ⭐
+      description: Block-style text editor
+    - title: <a href="https://github.com/reduxjs/redux-toolkit">Redux Toolkit</a>
+      year: 11.1K ⭐
+      description: Official Redux toolset
+    - title: <a href="https://github.com/vercel/ai">Vercel AI SDK</a>
+      year: 18.7K ⭐
+      description: AI-powered streaming UIs
+    - title: <a href="https://github.com/cpacker/MemGPT">MemGPT</a>
+      year: 18.9K ⭐
+      description: LLM agents with long-term memory
+    - title: <a href="https://github.com/pytube/pytube">Pytube</a>
+      year: 13.5K ⭐
+      description: YouTube video downloading library
 
-- title: Honors and Awards
-  type: time_table
+- title: References
+  type: nested_list
   contents:
-    - year: "2018 - 2023"
+    - title: Junghyun Park
       items:
-        - "Korea Global Scholarships"
-    - year: "2017 - 2018"
+        - "<strong>CEO & Founder, BEBRIDGE INC.</strong>"
+        - "Seoul, South Korea"
+        - "<a href='https://www.linkedin.com/in/jhyunpark/' target='_blank'>LinkedIn Profile</a>"
+        - "<em>Direct supervisor during tenure at Bebridge Inc. (Slid platform)</em>"
+    - title: Beelee Chua
       items:
-        - "Ugandan Government Scholarship"
-    - year: "2019"
-      items:
-        - "Korea University Academic Excellence Award"
-
-# - title: Academic Interests
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items:
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Guitar, Soccer, Sound Engineering
+        - "<strong>Associate Professor, Korea University</strong>"
+        - "Seoul, South Korea"
+        - "<a href='https://www.linkedin.com/in/chuabeelee/' target='_blank'>LinkedIn Profile</a>"
+        - "<em>Academic supervisor and research mentor</em>"

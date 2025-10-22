@@ -93,7 +93,7 @@ Interested in LLMs, software innovation, or just a friendly chat about the lates
 - 📫 You can reach me at [untilhamza@gmail.com](mailto:untilhamza@gmail.com)
 - 🚀  I'm currently working on a [privacy first video learning technology ](http://www.hovernotes.io)
 - :microscope: My research interests are in **Generative AI**, **Large Language Models** and **Responsible AI**.
-- :briefcase: [My Resume](/assets/pdf/240619_Kyamanywa-Hamza-NVIDIA-resume.pdf)
+- :briefcase: [My Resume](/assets/pdf/2025-10-22-Kyamanywa_Hamza-resume-final.pdf)
   <!-- - 🧠  I'm learning Django -->
 
 - ⚡ Fun fact **I speak a language from every continent!** 🌎

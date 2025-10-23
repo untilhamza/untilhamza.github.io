@@ -46,7 +46,7 @@ Senior Fullstack Engineer with **4+ years building scalable B2C mobile and web a
 ## PROFESSIONAL EXPERIENCE
 
 ### Technical Founder
-**HoverNotes (AI Video Note-Taking SaaS) | Remote, United States | Jul 2025 - Sep 2025**
+**HoverNotes (AI Video Note-Taking SaaS) | Remote, United States | Jul 2025 - Present**
 
 - Founded and led technical development of **privacy-first AI video note-taking platform** and grew it to over from $0 to $1100 MRR in 4 months
 - **Full-Stack Architecture:** Built three-tier system (Chrome Extension + Next.js 15 Web App + Python AI Backend) with React 19, TypeScript, FastAPI, LangGraph agents, and Docker
@@ -57,7 +57,7 @@ Senior Fullstack Engineer with **4+ years building scalable B2C mobile and web a
 - **Tech Stack:** Next.js 15, React 19, TypeScript, PostgreSQL, Drizzle ORM, Stripe, Supabase, Tailwind CSS, Docker, Python, FastAPI, Docker,  Langchain, AWS (EC2, Route53, S3, Lambda)
 
 ---
-### Senior Full Stack Engineer (Freelance)
+### Senior Full Stack Engineer (Consultancy -> Freelance)
 **GoGymi (EdTech SaaS Platform) | Remote, Switzerland | Jan 2025 - Sep 2025**
 
 - Led full-stack development of TexTutor, an AI-powered educational SaaS platform for Swiss teachers and students
@@ -140,6 +140,9 @@ Senior Fullstack Engineer with **4+ years building scalable B2C mobile and web a
 - **Vercel AI SDK** (18.7K ⭐) - AI-powered streaming UIs
 - **MemGPT** (18.9K ⭐) - LLM agents with long-term memory
 - **Pytube** (13.5K ⭐) - YouTube video downloading library
+- **Vexa** (1.5K+ ⭐) - Real-time multilingual meeting - transcription and streaming bots​
+- **Agno** (19K+ ⭐) - Multi-agent AI framework, runtime and control plane​
+- **FastAPI** (84K ⭐) - High-performance Python API framework
 
 ---
 
@@ -156,6 +159,7 @@ Seoul, South Korea
 Seoul, South Korea  
 📞 +82-10-4196-2689  
 *Academic supervisor and research mentor*
+
 
 
 <!-- Adapted for job posting -->

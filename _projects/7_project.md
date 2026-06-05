@@ -12,7 +12,7 @@ category: work
     <p>Discovered and implemented a method to extract direct YouTube video URLs, enabling server-side processing for mobile platforms. This breakthrough became the foundation for multiple features including mobile video processing and remote capture systems, supporting thousands of concurrent educational requests.</p>
     
     <h3>Project Duration:</h3>
-    <p>2024 (Principal AI Engineer at Slid)</p>
+    <p>2024 (Lead AI Engineer at Slid)</p>
     
     <h3>Key Technical Achievements:</h3>
     <ul>

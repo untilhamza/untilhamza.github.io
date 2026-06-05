@@ -9,7 +9,7 @@ category: work
 
 <div>
     <h3>Description:</h3>
-    <p>Led technical architecture for Textutor AI Platform at GoGymi - a comprehensive AI-powered essay correction and grading system revolutionizing language education. Built sophisticated GPT-4 integration with function calling for structured educational assessment, processing 1000+ student submissions daily with 99.9% uptime.</p>
+    <p>Led technical architecture for TexTutor, an AI-powered educational SaaS platform for Swiss teachers and students. Built full-stack product foundations across authentication, billing, multilingual product flows, AI grammar correction, collaboration, and deployment workflows.</p>
     
     <h3>Project Duration:</h3>
     <p>2024 - 2025 (Technical Lead, Freelance)</p>
@@ -20,7 +20,7 @@ category: work
         <li><strong>Multi-Language Processing:</strong> Implemented LanguageTool integration supporting English, German, Spanish, French, and Italian with cultural adaptations</li>
         <li><strong>Real-Time Collaboration:</strong> Architected Yjs-powered collaborative editing with live feedback, comments, and presence indicators</li>
         <li><strong>Database Architecture:</strong> Designed complex 16-table PostgreSQL schema with audit trails, versioning, and educational analytics</li>
-        <li><strong>Performance Optimization:</strong> Achieved sub-10 second comprehensive essay analysis with 99.9% uptime</li>
+        <li><strong>Product Foundation:</strong> Delivered production-ready dashboards, billing, authentication, AI correction workflows, and deployment infrastructure</li>
         <li><strong>Hybrid Grading System:</strong> Implemented AI-human hybrid grading workflow for quality assurance</li>
     </ul>
     
@@ -35,10 +35,9 @@ category: work
     
     <h3>Business Impact:</h3>
     <ul>
-        <li><strong>Scale:</strong> Platform processes 1000+ student submissions daily across 5 languages</li>
-        <li><strong>Efficiency:</strong> Reduced grading time by 75% while maintaining quality standards</li>
-        <li><strong>Accuracy:</strong> AI-powered suggestions with 95% acceptance rate by human reviewers</li>
-        <li><strong>User Satisfaction:</strong> 4.8/5 rating from students and teachers</li>
+        <li><strong>Delivery:</strong> Contributed 550+ commits across frontend, backend, billing, authentication, AI workflows, and deployment</li>
+        <li><strong>Monetization:</strong> Implemented Stripe subscriptions with webhooks, trials, usage tracking, plan enforcement, and billing dashboards</li>
+        <li><strong>Localization:</strong> Built multilingual product flows and transactional communication across English, German, French, Spanish, and Italian</li>
     </ul>
     
     <h3>Technical Innovations:</h3>

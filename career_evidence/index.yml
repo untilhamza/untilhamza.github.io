@@ -1,0 +1,114 @@
+roles:
+  - id: xai-human-data
+    public_name: xAI Human Data - Software Engineering
+    organization: xAI / Remote Technology Services
+    role: Software Engineering Specialist, Human Data / AI Tutor - Software Engineering (Expert)
+    period: May 2026 - Present
+    evidence_file: roles/xai-human-data.md
+    source_repos:
+      - Private local workspace, not included in this repo.
+    public_artifact_targets:
+      - _pages/about.md
+      - _data/cv.yml
+      - resume markdown files
+    status: Verified from contract, user statement, and public xAI role posting; internal details confidential
+
+  - id: quest-platform
+    public_name: Quest Safari Quotation Platform
+    organization: Quest
+    public_url: https://questheaven.com
+    role: CTO and Co-founder
+    period: 2026 - Present needs confirmation
+    evidence_file: roles/quest-platform.md
+    source_repos:
+      - private-local-workspace/quest/quest-web-app
+    public_artifact_targets:
+      - _pages/about.md
+      - _data/cv.yml
+      - _projects/
+      - resume markdown files
+    status: Verified local repo and user-stated CTO/co-founder role, exact dates need confirmation
+
+  - id: quest-pdf-service
+    public_name: Quest PDF Service
+    organization: Quest
+    role: CTO and Co-founder / PDF infrastructure owner
+    period: 2026 - Present needs confirmation
+    evidence_file: roles/quest-pdf-service.md
+    source_repos:
+      - private-local-workspace/quest/quest-pdf-service
+    public_artifact_targets:
+      - _projects/
+      - resume markdown files
+    status: Verified local repo and user-stated CTO/co-founder role, dates need confirmation
+
+  - id: hovernotes
+    public_name: HoverNotes
+    organization: HoverNotes
+    role: Technical Founder and CEO
+    period: Jul 2025 - Present
+    evidence_file: roles/hovernotes.md
+    source_repos:
+      - private-local-workspace/hovernotes/hover-notes-web-app
+    public_artifact_targets:
+      - _pages/about.md
+      - _data/cv.yml
+      - resume markdown files
+    status: Repo-backed working draft, user-confirmed revenue/install metrics as of 2026-06-05
+
+  - id: jonjabird
+    public_name: JonjaBird
+    organization: JonjaBird
+    role: Founder, product operator, and automation engineer
+    period: Mar 2026 - Present needs confirmation
+    evidence_file: roles/jonjabird.md
+    source_repos:
+      - private-local-workspace/inmate-letters-business
+    public_artifact_targets:
+      - _pages/about.md
+      - _data/cv.yml
+      - _projects/
+      - resume markdown files
+    status: Verified local business workspace, public framing and metrics need confirmation
+
+  - id: uganda-community-korea
+    public_name: Uganda Community in South Korea
+    organization: USKA / UISKA / UCISK needs confirmation
+    role: Vice President / executive community leadership
+    period: 2026 - Present needs confirmation
+    evidence_file: roles/uganda-community-korea.md
+    source_repos:
+      - private-local-workspace/uganda-community-in-korea
+    public_artifact_targets:
+      - _pages/about.md
+      - _data/cv.yml
+      - _projects/
+      - resume markdown files
+    status: Verified local artifacts and user-stated VP role, public naming and dates need confirmation
+
+  - id: bebridge-slid
+    public_name: Slid
+    organization: Bebridge Inc.
+    role: Full Stack Engineer to AI Engineer and Team Lead
+    period: Jun 2022 - Jun 2025
+    evidence_file: roles/bebridge-slid.md
+    source_repos: []
+    public_artifact_targets:
+      - _pages/about.md
+      - _data/cv.yml
+      - _projects/
+      - resume markdown files
+    status: Strong draft from existing resume/site/project pages
+
+  - id: gogymi-textutor
+    public_name: TexTutor
+    organization: GoGymi
+    role: Senior Full Stack Engineer / freelance technical lead
+    period: Jan 2025 - Sep 2025
+    evidence_file: roles/gogymi-textutor.md
+    source_repos: []
+    public_artifact_targets:
+      - _pages/about.md
+      - _data/cv.yml
+      - resume markdown files
+    status: Verified from contribution reports, final wording needs review

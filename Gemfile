@@ -17,6 +17,7 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
+    gem 'ostruct', '~> 0.6'
     gem 'unicode_utils'
     gem 'webrick'
 end

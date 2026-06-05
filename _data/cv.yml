@@ -1,164 +1,114 @@
 - title: Professional Summary
   type: list
   contents:
-    - Senior Fullstack Engineer with <strong>4+ years building scalable B2C mobile and web applications</strong> at a leading Korean EdTech company (50K+ MAU). Expertise in <strong>React Native, Node.js, MongoDB, and AWS</strong> with proven track record delivering high-impact features that <strong>increased user retention by 40%</strong> and drove <strong>25% premium subscription growth</strong>. <strong>Fluent in Korean (TOPIK 5)</strong> and English, with strong AI/LLM engineering capabilities. Award-winning engineer (<strong>2x Hero Awards</strong>) with rapid promotion from Level 2 to Level 4 in 18 months.
+    - Founder-CTO and senior AI/full-stack engineer with <strong>4+ years building AI-powered education, productivity, travel, and workflow products</strong>. Currently building <strong>HoverNotes</strong>, a privacy-first AI video note-taking product with over <strong>$10K/month revenue</strong> and around <strong>20K Chrome/Edge installs</strong>, and co-founding <strong>Quest</strong> as CTO while leading a 3-person engineering/product team. Contracted with <strong>xAI Human Data</strong> on software-engineering model evaluation. Strong across <strong>TypeScript, React, Next.js, Python/FastAPI, PostgreSQL, browser extensions, LLM systems, payments, analytics, and document infrastructure</strong>. Fluent in Korean and English.
 
-- title: Technical Skills
+- title: Core Skills
   type: nested_list
   contents:
-    - title: Mobile & Frontend
+    - title: AI/LLM Systems
       items:
-        - "<strong>React Native (iOS/Android)</strong>, ReactJS, Next.js 15, React 19, TailwindCSS, Lexical Editor, EditorJS"
-    - title: Backend & APIs
+        - OpenAI API, Whisper, LangChain, LangGraph, RAG, vector search, prompt engineering, multimodal AI workflows, coding-model evaluation
+    - title: Frontend & Product
       items:
-        - "<strong>Node.js</strong>, FastAPI, Django, Express.js, RESTful APIs, WebSocket, Socket.io"
-    - title: Databases
+        - Next.js, React, TypeScript, React Native, Tailwind CSS, Lexical, Chrome/Edge extensions, Obsidian/local-first workflows
+    - title: Backend & Data
       items:
-        - "<strong>MongoDB</strong>, PostgreSQL, MySQL, Redis, Firebase, Supabase, Pinecone (Vector DB)"
-    - title: Cloud & DevOps
+        - Python, FastAPI, Node.js, Express, PostgreSQL, Supabase, Drizzle ORM, MongoDB, Redis
+    - title: Infrastructure & Ops
       items:
-        - "<strong>AWS (Lambda, ECS, S3, EC2, EventBridge)</strong>, Docker, GCP, CI/CD, Serverless Architecture"
-    - title: Cross-Platform
+        - AWS Lambda, S3, EventBridge, Docker, Vercel, Cloudflare R2, Hetzner, CI/CD, PostHog, Sentry
+    - title: Business & Document Systems
       items:
-        - "React Native, Electron, Chrome Extensions (Manifest V3), PWA, Desktop Apps"
-    - title: AI/ML
-      items:
-        - "LangChain, LangGraph, OpenAI API, Whisper, RAG, Vector Embeddings, Prompt Engineering"
+        - Stripe, Razorpay, webhooks, subscriptions, trials, pricing, PDF/document generation, email delivery
     - title: Languages
       items:
-        - "<strong>Korean (Fluent - TOPIK 5)</strong>, English (TOEFL 111, IELTS 7.5), Luganda (Native)"
-    - title: Programming
-      items:
-        - "Python, JavaScript / TypeScript, C++, SQL"
+        - Korean (TOPIK 5), English, Luganda
 
 - title: Professional Experience
   type: time_table
   contents:
-    - title: Technical Founder
-      institution: HoverNotes (AI Video Note-Taking SaaS) | Remote, United States
-      year: Jul 2025 - Sep 2025
+    - title: Technical Founder & CEO
+      institution: HoverNotes | AI video note-taking SaaS | Remote / Seoul
+      year: Jul 2025 - Present
       description:
-        - Founded and led technical development of <strong>privacy-first AI video note-taking platform</strong> and grew it to over from $0 to $1100 MRR in 4 months
-        - "<strong>Full-Stack Architecture:</strong> Built three-tier system (Chrome Extension + Next.js 15 Web App + Python AI Backend) with React 19, TypeScript, FastAPI, LangGraph agents, and Docker"
-        - "<strong>Privacy Innovation:</strong> Implemented local-first architecture with direct Obsidian vault integration and zero cloud storage"
-        - "<strong>Universal Video Compatibility:</strong> Engineered advanced video detection working across YouTube, Udemy, LinkedIn Learning, Bilibili, and all major platforms"
-        - "<strong>AI Integration:</strong> Built multi-modal processing with real-time streaming note generation using LangGraph reasoning agents"
-        - "<strong>Global Reach:</strong> Developed 45+ language localization with culturally-adapted AI note generation and phased market rollout strategy"
-        - "<strong>Tech Stack:</strong> Next.js 15, React 19, TypeScript, PostgreSQL, Drizzle ORM, Stripe, Supabase, Tailwind CSS, Docker, Python, FastAPI, Langchain, AWS (EC2, Route53, S3, Lambda)"
+        - Founded and built HoverNotes into a privacy-first AI video note-taking product with over <strong>$10K/month revenue</strong> and around <strong>20K installs</strong> across Chrome and Edge.
+        - Built the product across Chrome/Edge extension workflows, a Next.js web app, local-first Obsidian workflows, payments, analytics, SEO/i18n, and AI note generation.
+        - Designed a multimodal video-in, notes-out pipeline where the extension captures realtime video learning context, the web app deduplicates/ranks visual frames, and the backend generates structured notes from transcript plus selected visual context.
+        - Implemented regional monetization across Stripe for global card payments, China one-time passes via WeChat Pay/Alipay, and India payments via Razorpay/UPI.
+        - Used product analytics to diagnose AI Notes activation, paywall behavior, platform-specific drop-off, media payload size, warnings, and active-session health.
 
-    - title: Senior Full Stack Engineer (Freelance)
-      institution: GoGymi (EdTech SaaS Platform) | Remote, Switzerland
+    - title: CTO & Co-founder
+      institution: Quest | Safari quotation platform for tour operators | Remote | questheaven.com
+      year: 2026 - Present
+      description:
+        - Co-founded <a href="https://questheaven.com">Quest</a> as CTO and lead a 3-person engineering/product team building a Next.js safari quotation platform for Uganda-based tour operators.
+        - Built operator workflows for travel requests, tourists, itinerary planning, quote generation, PDF preview/export, quote email delivery, billing, analytics, and content libraries.
+        - Designed quote economics for real operator constraints, including USD/UGX exchange-rate settings, live/manual rate refresh, transport fuel conversion, room pricing, service fees, and quote-level cost summaries.
+        - Built branded A4 safari PDFs, page previews, edit overrides, Cloudflare R2 storage, Resend quote emails, merge tags, sender flows, and PDF attachments.
+        - Designed the Free + Pro launch model with company-level Stripe subscriptions, full-access trials, billing settings, plan badges, and output-level gates for clean PDFs, email sending, and branding.
+
+    - title: Software Engineering Specialist, Human Data / AI Tutor - Software Engineering
+      institution: xAI / Remote Technology Services | Contract | Remote
+      year: May 2026 - Present
+      description:
+        - Contracted with xAI's Human Data software-engineering track to create and review high-quality coding data for training, benchmarking, and improving large language models.
+        - Evaluate AI-generated code across correctness, maintainability, performance, security, test coverage, task alignment, and production plausibility.
+        - Rank model outputs using evidence from prompts, diffs, traces, responses, tests, and container checks, then write concise justifications for model training and benchmarking workflows.
+
+    - title: Senior Full Stack Engineer / Freelance Technical Lead
+      institution: GoGymi / TexTutor | AI EdTech SaaS | Remote, Switzerland
       year: Jan 2025 - Sep 2025
       description:
-        - Led full-stack development of TexTutor, an AI-powered educational SaaS platform for Swiss teachers and students
-        - "<strong>Full-Stack Architecture:</strong> Built complete platform using <strong>Next.js 15, React 19, PostgreSQL, TypeScript</strong> with comprehensive responsive design"
-        - "<strong>Billing & Monetization:</strong> Implemented <strong>Stripe subscription system</strong> with multi-tier plans, free trials, and automated workflows"
-        - "<strong>Multi-Language Platform:</strong> Delivered internationalization supporting 5 languages (EN/DE/ES/FR/IT) with localized billing"
-        - "<strong>Authentication & Security:</strong> Built complete user management with email verification, password reset, and secure session handling"
-        - "<strong>Rich Features:</strong> Implemented Lexical editor with collaborative features, LiveBlocks integration, and PDF export capabilities"
-        - "<strong>Tech Stack:</strong> Next.js 15, React 19, TypeScript, PostgreSQL, Drizzle ORM, Stripe, Supabase, Tailwind CSS, Docker"
+        - Delivered TexTutor, an AI-powered EdTech SaaS platform for Swiss teachers and students, across architecture, dashboards, authentication, billing, AI correction, collaboration, and deployment.
+        - Built the full-stack product foundation with Next.js 15, React 19, TypeScript, PostgreSQL, Drizzle ORM, Supabase, Tailwind CSS, and Docker.
+        - Implemented Stripe subscription infrastructure with webhooks, trials, usage tracking, plan enforcement, billing dashboards, and multilingual billing emails.
+        - Built AI grammar-correction and feedback workflows with formatting preservation, preset/rule management, usage validation, Lexical editing, LiveBlocks collaboration, comments, sharing, and PDF export.
+        - Contributed 550+ commits across frontend, backend, billing, authentication, AI workflows, and deployment.
 
-    - title: AI Engineer & Team Lead (Level 4)
-      institution: Bebridge Inc. (Slid - EdTech Platform, 50K+ MAU) | Seoul, South Korea
+    - title: Lead AI Engineer / Team Lead
+      institution: Bebridge Inc. / Slid | 50K+ MAU EdTech platform | Seoul, South Korea
       year: Jan 2024 - Jun 2025
       description:
-        - Led AI innovation transforming Slid into industry-leading AI-powered educational platform with 50,000+ monthly active users
-        - "<strong>Mobile App Development:</strong> Spearheaded <strong>React Native iOS/Android app launch</strong> with server-side video processing, increasing user base by 21% and mobile retention by 40%"
-        - "<strong>AI Auto-Notes Pioneer:</strong> Built end-to-end LLM/Whisper-based auto-notes from video, increasing videos opened by 12% and overall retention by 25%"
-        - "<strong>Cost Optimization:</strong> Achieved 60% API cost reduction through intelligent buffering and multi-provider optimization"
-        - "<strong>Server-Side Video Processing:</strong> Developed FFmpeg-based screenshot solution on AWS Lambda overcoming mobile platform limitations"
-        - "<strong>AI Agent Systems:</strong> Built LangGraph multi-agent pipeline for transcript correction with custom reasoning tools"
-        - "<strong>Backend Innovation:</strong> Reverse-engineered YouTube video delivery for direct URL access, enabling mobile processing at scale"
-        - "<strong>Tech Stack:</strong> React Native, Python, FastAPI, <strong>AWS Lambda, EventBridge, S3</strong>, FFmpeg, LangGraph, OpenAI/Whisper APIs"
+        - Led AI product development for Slid, taking on principal-level AI engineering work across web, mobile, and backend systems.
+        - Shipped LLM-powered auto-notes, AI chat, semantic search, transcript correction, and mobile AI workflows.
+        - Set technical direction for hard AI/product problems across video learning, mobile constraints, AI quality, and production cost.
+        - Spearheaded React Native mobile AI features backed by AWS Lambda and FFmpeg video processing.
+        - Designed LangGraph multi-agent transcript-correction workflows with custom reasoning tools.
 
-    - title: Senior Software Engineer (Level 3) - R&D Team
-      institution: Bebridge Inc. | Seoul, South Korea
-      year: Jun 2023 - Dec 2023
+    - title: Senior Software Engineer / Full Stack Engineer
+      institution: Bebridge Inc. / Slid | Seoul, South Korea
+      year: Jun 2022 - Dec 2023
       description:
-        - "<strong>AI Sliddy Chat (Industry First):</strong> Built AI chat for notes before Notion AI, using LangChain, Pinecone vector DB, and streaming responses"
-        - "<strong>Semantic Search:</strong> Implemented RAG-based search increasing session duration by 25%"
-        - "<strong>LLM Video Summarization:</strong> Built scalable event-driven cloud engine achieving 1,500 MAU and 25% weekly retention"
-        - "<strong>Cost Reduction:</strong> Reduced summarization costs by 40% through result caching and API optimization"
-        - "<strong>Performance:</strong> Improved summarization speed by 66% via parallel processing and lazy evaluation"
-        - "<strong>Universal Export:</strong> Built multi-format export (Word, PDF, Markdown, Notion) with 96% accuracy, reducing support by 75%"
-        - "<strong>Open Source:</strong> Contributed to LangChain, Vercel AI SDK, and Quivr"
-        - "<strong>Recognition:</strong> Awarded Hero Award 2023, promoted to Level 4"
-
-    - title: Full Stack Engineer (Level 2)
-      institution: Bebridge Inc. | Seoul, South Korea
-      year: Jun 2022 - May 2023
-      description:
-        - "<strong>Real-Time Transcription:</strong> Pioneered WebRTC → Socket.io → Google Cloud Speech STT, increasing premium subscriptions by 51%"
-        - "<strong>Stack Overflow Impact:</strong> Solution helped 5,000+ developers with WebRTC/STT implementation"
-        - "<strong>Cost Optimization:</strong> Achieved 90% transcription cost reduction through provider evolution (Whisper → Google → Groq)"
-        - "<strong>Authentication System:</strong> Designed cross-platform auth using <strong>AWS Cognito</strong> for Web, Chrome Extension, Mobile (React Native), and Desktop"
-        - "<strong>Payment Integration:</strong> Built <strong>Stripe + Payple</strong> multi-gateway system with 35% checkout improvement and 98%+ success rate"
-        - "<strong>Cross-Platform Development:</strong> React Web App, <strong>React Native Mobile</strong>, Electron Desktop, Chrome Extension (200+ commits)"
-        - "<strong>Performance:</strong> Reduced load time by 57% through lazy loading and optimization"
-        - "<strong>Open Source:</strong> Contributed to EditorJS and Redux Toolkit"
-        - "<strong>Recognition:</strong> Awarded Hero Award 2022, promoted to Level 3"
+        - Joined as an early engineer and built core product systems across web, Chrome extension, desktop, mobile, payments, authentication, and AI learning features.
+        - Built early RAG and conversational AI experiences for learning notes using LangChain, Pinecone, embeddings, and streaming responses.
+        - Pioneered real-time transcription using WebRTC, Socket.io, and cloud speech-to-text providers, then optimized provider strategy for major cost reductions.
+        - Built cross-platform authentication and payment systems across web, extension, mobile, and desktop, including AWS Cognito, Stripe, and Payple.
+        - Earned Bebridge Hero Awards in 2022 and 2023 and was promoted from Level 2 to Level 4 in 18 months.
 
 - title: Education
   type: time_table
   contents:
     - title: Bachelor of Science in Electrical and Electronics Engineering
       institution: Korea University, Seoul
-      year: March 2019 - February 2023
+      year: Mar 2019 - Feb 2023
       description:
-        - "<strong>GPA:</strong> 4.02/4.5 (Magna Cum Laude)"
-        - "<strong>Publication:</strong> 'Responsible Music Genre Classification using Interpretable Model-agnostic Visual Explainers' in Springer Nature Computer Science Journal (4th ICDSA 2023)"
-        - "<strong>Scholarships:</strong> Global Korea Scholarship (2018-2023), Ugandan Government Scholarship (2017)"
+        - <strong>GPA:</strong> 4.02/4.5, Magna Cum Laude
+        - <strong>Scholarships:</strong> Global Korea Scholarship and Ugandan Government Scholarship
+        - <strong>Publication:</strong> Co-authored "Responsible Music Genre Classification using Interpretable Model-agnostic Visual Explainers," Springer Nature Computer Science.
 
-- title: Awards & Recognition
+- title: Leadership & Community
   type: time_table
   contents:
-    - year: 2022, 2023
-      items:
-        - "<strong>Bebridge-Slid Hero Award</strong> (2 consecutive years) - Top performer company-wide"
-    - year: 2022 - 2023
-      items:
-        - "<strong>Rapid Promotion:</strong> Level 2 → Level 3 (2022) → Level 4 (2023) in 18 months"
-    - year: July 2020
-      items:
-        - "<strong>Korea University Academic Excellence Award</strong>"
-    - year: 2019 - 2020
-      items:
-        - "<strong>Korea University Dean's List</strong> (3 semesters)"
+    - title: Vice President
+      institution: Ugandan Community in South Korea
+      year: 2026 - Present
+      description:
+        - Support governance, embassy-facing communication, partnership strategy, and community engagement for the Ugandan diaspora association in South Korea.
+        - Helped formalize leadership values and governance materials around respect, servant leadership, integrity, transparency, and accountability.
 
-- title: Open Source Contributions
-  type: time_table
+- title: Open Source & Developer Community
+  type: list
   contents:
-    - title: <a href="https://github.com/langchain-ai/langchain">LangChain</a>
-      year: 118K ⭐
-      description: Framework for LLM applications
-    - title: <a href="https://github.com/codex-team/editor.js">Editor.JS</a>
-      year: 25.1K ⭐
-      description: Block-style text editor
-    - title: <a href="https://github.com/reduxjs/redux-toolkit">Redux Toolkit</a>
-      year: 11.1K ⭐
-      description: Official Redux toolset
-    - title: <a href="https://github.com/vercel/ai">Vercel AI SDK</a>
-      year: 18.7K ⭐
-      description: AI-powered streaming UIs
-    - title: <a href="https://github.com/cpacker/MemGPT">MemGPT</a>
-      year: 18.9K ⭐
-      description: LLM agents with long-term memory
-    - title: <a href="https://github.com/pytube/pytube">Pytube</a>
-      year: 13.5K ⭐
-      description: YouTube video downloading library
-
-- title: References
-  type: nested_list
-  contents:
-    - title: Junghyun Park
-      items:
-        - "<strong>CEO & Founder, BEBRIDGE INC.</strong>"
-        - "Seoul, South Korea"
-        - "<a href='https://www.linkedin.com/in/jhyunpark/' target='_blank'>LinkedIn Profile</a>"
-        - "<em>Direct supervisor during tenure at Bebridge Inc. (Slid platform)</em>"
-    - title: Beelee Chua
-      items:
-        - "<strong>Associate Professor, Korea University</strong>"
-        - "Seoul, South Korea"
-        - "<a href='https://www.linkedin.com/in/chuabeelee/' target='_blank'>LinkedIn Profile</a>"
-        - "<em>Academic supervisor and research mentor</em>"
+    - Contributed to developer tools and AI/open-source ecosystems including LangChain, Vercel AI SDK, Editor.js, Redux Toolkit, MemGPT, Pytube, FastAPI, and related projects.
+    - Published technical answers and references used by thousands of developers working with WebRTC, speech-to-text, and AI application patterns.

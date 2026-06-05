@@ -12,7 +12,7 @@ category: work
     <p>Built sophisticated multi-agent system for AI dubbing pipeline transcript correction using LangGraph. Developed specialized correction agents with custom reasoning tools, confidence scoring, and validation mechanisms that seamlessly integrated with existing dubbing workflows while significantly improving quality metrics.</p>
     
     <h3>Project Duration:</h3>
-    <p>2024 (Principal AI Engineer at Slid/Bebridge)</p>
+    <p>2024 (Lead AI Engineer at Slid/Bebridge)</p>
     
     <h3>Key Technical Achievements:</h3>
     <ul>

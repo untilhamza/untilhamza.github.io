@@ -12,7 +12,7 @@ category: work
     <p>Built sophisticated remote screenshot capture system leveraging the YouTube URL extractor discovery to solve mobile platforms' lack of video screenshot capabilities. Implemented server-side FFmpeg processing providing pixel-perfect video frame capture for mobile users with sub-second latency.</p>
     
     <h3>Project Duration:</h3>
-    <p>2024 (Principal AI Engineer at Slid)</p>
+    <p>2024 (Lead AI Engineer at Slid)</p>
     
     <h3>Key Technical Achievements:</h3>
     <ul>

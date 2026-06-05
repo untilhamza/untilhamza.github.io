@@ -12,7 +12,7 @@ category: work
     <p>Pioneered the development of AI-powered auto note generation from video content at Slid, starting as a side project before the AI boom. Built an end-to-end system that transforms video content into structured, actionable notes using advanced AI processing, achieving significant cost optimization and establishing new revenue streams.</p>
     
     <h3>Project Duration:</h3>
-    <p>2024 (Principal AI Engineer at Slid)</p>
+    <p>2024 (Lead AI Engineer at Slid)</p>
     
     <h3>Key Technical Achievements:</h3>
     <ul>

@@ -21,7 +21,7 @@ category: work
         <li><strong>Anti-Detection Excellence:</strong> Advanced systems with IP rotation and behavioral mimicking</li>
         <li><strong>Global Architecture:</strong> Multi-region deployment with automatic failover</li>
         <li><strong>Intelligent Caching:</strong> Multi-layer caching reducing processing by 70%</li>
-        <li><strong>Reliability:</strong> 99.9% uptime with automatic recovery systems</li>
+        <li><strong>Reliability:</strong> Production reliability work with automatic recovery systems</li>
     </ul>
     
     <h3>Infrastructure Architecture:</h3>
@@ -101,7 +101,7 @@ category: work
         <li><strong>Scalability:</strong> Support for 10x user growth without infrastructure changes</li>
         <li><strong>Cost Efficiency:</strong> 60% reduction in processing costs through optimization</li>
         <li><strong>User Experience:</strong> Near-instantaneous video processing</li>
-        <li><strong>Reliability:</strong> 99.9% uptime with enterprise-grade reliability</li>
+        <li><strong>Reliability:</strong> Improved reliability through monitoring, recovery paths, and production hardening</li>
         <li><strong>Global Reach:</strong> Consistent performance across all regions</li>
     </ul>
     

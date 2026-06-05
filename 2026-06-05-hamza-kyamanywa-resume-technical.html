@@ -1,0 +1,208 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Hamza Kyamanywa Technical Resume Draft - 2026-06-05</title>
+  <style>
+    @page {
+      size: A4;
+      margin: 12mm 12.5mm 11mm;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      color: #151515;
+      font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
+      font-size: 8.15pt;
+      line-height: 1.16;
+    }
+
+    h1,
+    h2,
+    h3,
+    p {
+      margin: 0;
+    }
+
+    .header {
+      border-bottom: 1.2px solid #111;
+      padding-bottom: 4px;
+      margin-bottom: 5.5px;
+    }
+
+    h1 {
+      font-size: 21pt;
+      line-height: 1;
+      letter-spacing: 0;
+    }
+
+    .headline {
+      margin-top: 2.5px;
+      font-size: 9.7pt;
+      font-weight: 700;
+    }
+
+    .contact {
+      margin-top: 2.5px;
+      color: #333;
+      font-size: 8pt;
+    }
+
+    h2 {
+      margin-top: 5.8px;
+      padding-bottom: 1.6px;
+      border-bottom: 0.7px solid #cfcfcf;
+      color: #111;
+      font-size: 9.5pt;
+      text-transform: uppercase;
+      letter-spacing: 0;
+    }
+
+    h3 {
+      margin-top: 5px;
+      font-size: 9.15pt;
+    }
+
+    .role-meta {
+      margin-top: 0.8px;
+      color: #333;
+      font-size: 7.9pt;
+      font-weight: 700;
+    }
+
+    .summary {
+      margin-top: 3px;
+    }
+
+    .skills p,
+    .opensource p,
+    .education p {
+      margin-top: 2.4px;
+    }
+
+    ul {
+      margin: 1.8px 0 0 12px;
+      padding: 0;
+    }
+
+    li {
+      margin: 0.9px 0;
+      padding-left: 1px;
+    }
+
+    strong {
+      font-weight: 700;
+    }
+  </style>
+</head>
+<body>
+  <section class="header">
+    <h1>Hamza Kyamanywa</h1>
+    <p class="headline">Technical Founder, CTO &amp; Senior AI Product Engineer</p>
+    <p class="contact">Seoul, South Korea | untilhamza@gmail.com | (+82) 10-9899-9793 | linkedin.com/in/untilhamza | github.com/untilhamza</p>
+  </section>
+
+  <section>
+    <h2>Professional Summary</h2>
+    <p class="summary">Technical founder, CTO, and senior AI product engineer focused on HoverNotes and Quest, with 4+ years building AI-powered education, productivity, travel, and workflow systems. Founded HoverNotes, now over $10K/month revenue with around 20K Chrome/Edge installs, and co-founded Quest as CTO, leading a 3-person team building safari quotation software and PDF infrastructure. Also contracted with xAI Human Data on software-engineering model evaluation. Strong in TypeScript/React/Next.js, Python/FastAPI, browser extensions, LLM systems, payments, analytics, document generation, and production reliability. Fluent in Korean and English.</p>
+  </section>
+
+  <section class="skills">
+    <h2>Technical Skills</h2>
+    <p><strong>AI/LLM:</strong> OpenAI API, Whisper, LangChain, LangGraph, RAG, vector search, prompt engineering, multimodal AI workflows</p>
+    <p><strong>Frontend/Product:</strong> Next.js, React, TypeScript, React Native, Tailwind CSS, Lexical, Chrome/Edge extensions, Obsidian/local-first workflows</p>
+    <p><strong>Backend/Data:</strong> Python, FastAPI, Node.js, Express, PostgreSQL, Supabase, Drizzle ORM, MongoDB, Redis</p>
+    <p><strong>Infrastructure/Ops:</strong> AWS Lambda, S3, EventBridge, Docker, Vercel, Cloudflare R2, Hetzner, CI/CD, PostHog, Sentry</p>
+    <p><strong>Business Systems:</strong> Stripe, Razorpay, webhooks, subscriptions, trials, pricing, credits, PDF/document generation</p>
+    <p><strong>Languages:</strong> Korean (TOPIK 5), English, Luganda</p>
+  </section>
+
+  <section>
+    <h2>Professional Experience</h2>
+
+    <h3>Technical Founder &amp; CEO</h3>
+    <p class="role-meta">HoverNotes | AI video note-taking SaaS | Remote / Seoul | Jul 2025 - Present</p>
+    <ul>
+      <li>Founded and built HoverNotes, a privacy-first AI video note-taking product with over $10K/month revenue and around 20K installs across Chrome and Edge.</li>
+      <li>Built the product across a Chrome/Edge extension, Next.js web app, local-first Obsidian workflows, payments, analytics, SEO/i18n, and AI note generation.</li>
+      <li>Architected AI Notes workflows that coordinate browser capture, editor state, backend routing, asynchronous job polling, telemetry, and recovery across legacy and modern AI pipelines.</li>
+      <li>Designed a multimodal video-in, notes-out pipeline where the extension captures realtime video learning context, the web app deduplicates and ranks visual frames, and the backend generates structured notes from transcript plus selected visual context.</li>
+      <li>Built local-first note-taking workflows with Obsidian vault saving, screenshot handling, note history, reconnect/recovery paths, and guardrails against destructive auto-save behavior.</li>
+      <li>Implemented monetization and billing infrastructure across Stripe for global card payments, China one-time passes via WeChat Pay/Alipay, and India payments via Razorpay/UPI, including subscription APIs, webhook cleanup, and recurring billing workflow handling.</li>
+      <li>Used product analytics to diagnose AI Notes activation, paywall behavior, platform-specific drop-off, media payload size, warnings, and active-session health.</li>
+    </ul>
+
+    <h3>CTO &amp; Co-founder</h3>
+    <p class="role-meta">Quest | Safari quotation platform and PDF infrastructure | Remote | 2026 - Present</p>
+    <ul>
+      <li>Co-founded Quest and lead technology plus a 3-person engineering/product team for a Next.js safari quotation platform for Uganda-based tour operators.</li>
+      <li>Built operator workflows for travel requests, tourists, itinerary planning, quote generation, PDF preview/export, quote email delivery, billing, analytics, and content libraries.</li>
+      <li>Designed role-aware platform surfaces for Quest admins and tour operators using Next.js App Router, TypeScript, NextAuth v5, PostgreSQL/Supabase, and Drizzle ORM.</li>
+      <li>Implemented structured data workflows for destinations, activities, hotels/lodges, room rates, transport, companies, users, and geography to support more accurate quote operations.</li>
+      <li>Built a TypeScript/Express PDF generation service that converts quote JSON into branded A4 safari PDFs with Handlebars, Puppeteer, Cloudflare R2, per-page previews, and an in-browser pagination engine.</li>
+      <li>Designed Quest's Free + Pro launch model with company-level Stripe subscriptions, full-access trials, billing settings, plan badges, and output-level gates for clean PDFs, email, and branding.</li>
+      <li>Established Vercel QA/release workflows across feature branches, personal QA branches, shared QA, release branches, and production; deployed PDF infrastructure via Docker/Hetzner.</li>
+    </ul>
+
+    <h3>Software Engineering Specialist, Human Data / AI Tutor - Software Engineering (Expert)</h3>
+    <p class="role-meta">xAI / Remote Technology Services | Contract | Remote | May 2026 - Present</p>
+    <ul>
+      <li>Contracted with xAI's Human Data software engineering track to create and review high-quality coding data for training, benchmarking, and advancing large language models.</li>
+      <li>Evaluate AI-generated code across correctness, maintainability, performance, security, test coverage, and alignment with task requirements.</li>
+      <li>Rank model outputs using evidence from prompts, diffs, traces, responses, tests, and container checks, then write concise justifications for model training and benchmarking workflows.</li>
+      <li>Review coding tasks across Python, TypeScript/JavaScript, Java, Go, Rust, C/C++, databases, distributed systems, AI/ML, security, and performance domains.</li>
+    </ul>
+
+    <h3>Senior Full Stack Engineer / Freelance Technical Lead</h3>
+    <p class="role-meta">GoGymi / TexTutor | AI EdTech SaaS | Remote, Switzerland | Jan 2025 - Sep 2025</p>
+    <ul>
+      <li>Delivered TexTutor, an AI-powered EdTech SaaS platform for Swiss teachers and students, across architecture, dashboards, authentication, billing, AI correction, collaboration, and deployment workflows.</li>
+      <li>Built the full-stack product foundation with Next.js 15, React 19, TypeScript, PostgreSQL, Drizzle ORM, Supabase, Tailwind CSS, and Docker.</li>
+      <li>Implemented Stripe subscription infrastructure with webhooks, trials, usage tracking, plan enforcement, billing dashboards, and multilingual billing emails.</li>
+      <li>Built multilingual product flows across English, German, French, Spanish, and Italian for UI and transactional communication.</li>
+      <li>Integrated AI grammar correction workflows with formatting preservation, preset/rule management, usage validation, and educational feedback loops.</li>
+      <li>Built rich assignment and feedback experiences with Lexical, LiveBlocks collaboration, comments, notifications, sharing, and PDF export; contributed 550+ commits across the platform.</li>
+    </ul>
+
+    <h3>AI Engineer &amp; Team Lead</h3>
+    <p class="role-meta">Bebridge Inc. / Slid | 50K+ MAU EdTech platform | Seoul, South Korea | Jan 2024 - Jun 2025</p>
+    <ul>
+      <li>Led AI product development for Slid's learning platform, shipping LLM-powered auto-notes, AI chat, semantic search, transcript correction, and mobile AI workflows.</li>
+      <li>Built LLM/Whisper-based auto-notes from video lectures and helped drive measurable engagement and retention gains across learning workflows.</li>
+      <li>Spearheaded React Native mobile AI features backed by server-side AWS Lambda and FFmpeg video processing to overcome mobile platform constraints.</li>
+      <li>Designed LangGraph multi-agent transcript correction workflows with custom reasoning tools to improve AI-generated learning content quality.</li>
+      <li>Optimized AI processing costs through buffering, caching, provider strategy, and production pipeline improvements.</li>
+    </ul>
+
+    <h3>Senior Software Engineer / Full Stack Engineer</h3>
+    <p class="role-meta">Bebridge Inc. / Slid | Seoul, South Korea | Jun 2022 - Dec 2023</p>
+    <ul>
+      <li>Joined as an early engineer and built core product systems across web, Chrome extension, desktop, mobile, payments, authentication, and AI learning features.</li>
+      <li>Built early RAG and conversational AI experiences for learning notes using LangChain, Pinecone, embeddings, and streaming responses.</li>
+      <li>Pioneered real-time transcription using WebRTC, Socket.io, and cloud speech-to-text providers, then optimized provider strategy for major cost reductions.</li>
+      <li>Built cross-platform authentication and payment systems across web, extension, mobile, and desktop, including AWS Cognito, Stripe, and Payple.</li>
+      <li>Shipped multi-format export workflows to Word, PDF, Markdown, and Notion, improving portability and reducing export-related support burden.</li>
+      <li>Earned Bebridge Hero Awards in 2022 and 2023 and was promoted from Level 2 to Level 4 in 18 months.</li>
+    </ul>
+  </section>
+
+  <section class="opensource">
+    <h2>Open Source &amp; Community</h2>
+    <ul>
+      <li>Contributed to developer tools and AI/open-source ecosystems including LangChain, Vercel AI SDK, Editor.js, Redux Toolkit, MemGPT, Pytube, FastAPI, and related projects.</li>
+      <li>Published widely used technical answers and references for WebRTC, speech-to-text, AI application patterns, and production integration issues.</li>
+      <li>Served as Vice President of the Ugandan Community in South Korea, supporting governance, embassy-facing communication, partnership strategy, and community engagement.</li>
+    </ul>
+  </section>
+
+  <section class="education">
+    <h2>Education</h2>
+    <p><strong>Korea University, Seoul:</strong> B.S. Electrical and Electronics Engineering, Mar 2019 - Feb 2023, GPA 4.02/4.5. Magna Cum Laude; Global Korea Scholarship and Ugandan Government Scholarship recipient.</p>
+    <p>Co-authored "Responsible Music Genre Classification using Interpretable Model-agnostic Visual Explainers," Springer Nature Computer Science.</p>
+  </section>
+</body>
+</html>

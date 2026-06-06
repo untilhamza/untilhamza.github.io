@@ -49,7 +49,7 @@ Technical founder, CTO, and senior AI product engineer focused on HoverNotes and
 - Established Vercel QA/release workflows across feature branches, personal QA branches, shared QA, release branches, and production; deployed PDF infrastructure via Docker/Hetzner.
 
 ### Software Engineering Specialist, Human Data / AI Tutor - Software Engineering (Expert)
-**xAI / Remote Technology Services | Contract | Remote | May 2026 - Present**
+**xAI / Remote Technology Services | Contract | Remote, USA | May 2026 - Present**
 
 - Contracted with xAI's Human Data software engineering track to create and review high-quality coding data for training, benchmarking, and advancing large language models.
 - Evaluate AI-generated code across correctness, maintainability, performance, security, test coverage, and alignment with task requirements.
@@ -66,7 +66,7 @@ Technical founder, CTO, and senior AI product engineer focused on HoverNotes and
 - Integrated AI grammar correction workflows with formatting preservation, preset/rule management, usage validation, and educational feedback loops.
 - Built rich assignment and feedback experiences with Lexical, LiveBlocks collaboration, comments, notifications, sharing, and PDF export; contributed 550+ commits across the platform.
 
-### AI Engineer & Team Lead
+### Lead AI Engineer
 **Bebridge Inc. / Slid | 50K+ MAU EdTech platform | Seoul, South Korea | Jan 2024 - Jun 2025**
 
 - Led AI product development for Slid's learning platform, shipping LLM-powered auto-notes, AI chat, semantic search, transcript correction, and mobile AI workflows.

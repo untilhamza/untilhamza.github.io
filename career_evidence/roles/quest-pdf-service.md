@@ -2,12 +2,12 @@
 
 ## Metadata
 
-- Evidence status: Verified local repo and user-stated CTO/co-founder role, dates need confirmation
+- Evidence status: Verified local repo and user-stated CTO/co-founder role and Kampala/Uganda setup, dates need confirmation
 - Public name: Quest PDF Service
-- Organization/client: Quest
+- Organization/client: Quest, Kampala, Uganda
 - Role/title: CTO and Co-founder / PDF infrastructure owner
 - Period: 2026 - Present needs confirmation
-- Location: Needs confirmation
+- Location: Kampala, Uganda; Hamza works remotely from Seoul, South Korea
 - Source repo: `private-local-workspace/quest/quest-pdf-service`
 - Existing public artifacts: Not yet integrated into site/resume
 
@@ -17,7 +17,7 @@ Led the PDF infrastructure for Quest, building a production microservice that tu
 
 ## Context
 
-Quest needs professional quote documents for safari operators and travelers. The web app sends structured quote data to this service, which renders branded templates, paginates content, generates PDFs in headless Chrome, and uploads the result to Cloudflare R2.
+Quest needs professional quote documents for safari operators and travelers from its Kampala, Uganda-based platform. The web app sends structured quote data to this service, which renders branded templates, paginates content, generates PDFs in headless Chrome, and uploads the result to Cloudflare R2.
 
 The PDF service is part of the broader Quest CTO/co-founder role and pairs with the web app's quote builder, page settings, preview/edit drawers, quote email workflow, R2 asset handling, and output-level monetization.
 

@@ -46,7 +46,7 @@ Founder-CTO and AI product engineer who builds products where domain workflows, 
 - Established release and QA discipline across Vercel production, shared test branches, personal QA branches, Docker/Hetzner PDF service deployment, and documented handoff workflows.
 
 ### Software Engineering Specialist, Human Data / AI Tutor - Software Engineering (Expert)
-**xAI / Remote Technology Services | Contract | Remote | May 2026 - Present**
+**xAI / Remote Technology Services | Contract | Remote, USA | May 2026 - Present**
 
 - Contracted with xAI's Human Data software-engineering track to create and review high-quality coding data for training, benchmarking, and improving large language models.
 - Evaluate AI-generated code across correctness, maintainability, performance, security, test coverage, task alignment, and production plausibility.
@@ -61,7 +61,7 @@ Founder-CTO and AI product engineer who builds products where domain workflows, 
 - Built AI grammar-correction and feedback workflows with formatting preservation, preset/rule management, usage validation, Lexical editing, LiveBlocks collaboration, comments, sharing, and PDF export.
 - Contributed 550+ commits across frontend, backend, billing, authentication, AI workflows, and deployment.
 
-### AI Engineer & Team Lead / Senior Software Engineer
+### Lead AI Engineer / Senior Software Engineer
 **Bebridge Inc. / Slid | 50K+ MAU EdTech platform | Seoul, South Korea | Jun 2022 - Jun 2025**
 
 - Grew from early full-stack engineer to AI team lead while building core systems across web, Chrome extension, desktop, mobile, payments, authentication, and AI learning workflows.

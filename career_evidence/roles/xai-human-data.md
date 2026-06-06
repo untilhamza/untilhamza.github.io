@@ -7,7 +7,7 @@
 - Organization/client: xAI / Remote Technology Services
 - Role/title: Software Engineering Specialist, Human Data / AI Tutor - Software Engineering (Expert)
 - Period: May 11, 2026 - Present
-- Location: Remote from South Korea
+- Location: Remote, USA
 - Source workspace:
   - Private local workspace, not included in this repo.
 - Contract evidence:
@@ -96,3 +96,4 @@ Internal task details should be treated as confidential and not copied into publ
 - Whether to mention `Remote Technology Services` as the contracting entity or omit it.
 - Whether to use `May 2026 - Present` or `May 11, 2026 - Present`.
 - How much of the coding-model evaluation workflow can be described publicly beyond the official role posting.
+- Location confirmed by user on 2026-06-06: remote, USA.

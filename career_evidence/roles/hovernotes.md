@@ -2,12 +2,12 @@
 
 ## Metadata
 
-- Evidence status: Repo-backed working draft, user-confirmed revenue/install metrics as of 2026-06-05
+- Evidence status: Repo-backed working draft; user-confirmed revenue/install metrics and U.S. company setup as of 2026-06-05/06
 - Public name: HoverNotes
-- Organization/client: HoverNotes
+- Organization/client: HoverNotes, U.S. company
 - Role/title: Technical Founder and CEO
 - Period: Jul 2025 - Present
-- Location: Remote, United States / Seoul, South Korea needs confirmation
+- Location: U.S. company; operated remotely from Seoul, South Korea
 - Source repos:
   - `private-local-workspace/hovernotes/hover-notes-web-app`
   - Remote: `https://github.com/HoverNotes/hover-notes-web-app.git`
@@ -16,11 +16,11 @@
 
 ## One-Line Positioning
 
-Founded and built HoverNotes, a privacy-first AI video note-taking product with around 20K Chrome/Edge installs and over $10K/month revenue as of June 5, 2026, turning online videos into structured notes through a browser extension, a Next.js web app, local-first Obsidian workflows, and multimodal AI note generation.
+Founded and built HoverNotes, a U.S. company and privacy-first AI video note-taking product operated remotely from Seoul, with around 20K Chrome/Edge installs and over $10K/month revenue as of June 5, 2026, turning online videos into structured notes through a browser extension, a Next.js web app, local-first Obsidian workflows, and multimodal AI note generation.
 
 ## Context
 
-HoverNotes is a privacy-first video learning platform. The product spans a Chrome/Edge browser extension, a Next.js web app, local file/vault integrations, payment and subscription systems, analytics, SEO/content infrastructure, and an AI backend integration for transcript, screenshot, and multimodal note generation.
+HoverNotes is a U.S.-based privacy-first video learning platform that Hamza operates remotely from Seoul. The product spans a Chrome/Edge browser extension, a Next.js web app, local file/vault integrations, payment and subscription systems, analytics, SEO/content infrastructure, and an AI backend integration for transcript, screenshot, and multimodal note generation.
 
 The local web app repo is currently a production Next.js app (`hover-notes`, version `1.17.17` in `package.json`) with active changelog entries through June 2026.
 
@@ -170,7 +170,7 @@ The local web app repo is currently a production Next.js app (`hover-notes`, ver
 - Exact revenue wording and whether to publish publicly: over $10K/month revenue, not MRR because annual subscriptions are included.
 - Exact Chrome/Edge install count and whether to round publicly as 20K+ installs.
 - Exact job title to use publicly: `Technical Founder and CEO`, `Founder`, `Founder/Engineer`, or another framing.
-- Location phrasing.
+- Location phrasing confirmed by user on 2026-06-06: officially a U.S. company; Hamza works on it remotely from Seoul.
 - Extension repo path, backend repo path, and whether they can be named.
 - Backend provider details: OpenAI/GPT-4, Whisper/Groq, LangChain, LangGraph, FastAPI.
 - Whether internal funnel metrics can be used publicly, and at what precision.

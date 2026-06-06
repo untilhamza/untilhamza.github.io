@@ -29,7 +29,7 @@
   type: time_table
   contents:
     - title: Technical Founder & CEO
-      institution: HoverNotes | AI video note-taking SaaS | Remote / Seoul
+      institution: HoverNotes | AI video note-taking SaaS | U.S. company; remote from Seoul
       year: Jul 2025 - Present
       description:
         - Founded and built HoverNotes into a privacy-first AI video note-taking product with over <strong>$10K/month revenue</strong> and around <strong>20K installs</strong> across Chrome and Edge.
@@ -39,7 +39,7 @@
         - Used product analytics to diagnose AI Notes activation, paywall behavior, platform-specific drop-off, media payload size, warnings, and active-session health.
 
     - title: CTO & Co-founder
-      institution: Quest | Safari quotation platform for tour operators | Remote | questheaven.com
+      institution: Quest | Safari quotation platform for tour operators | Kampala, Uganda; remote from Seoul | questheaven.com
       year: 2026 - Present
       description:
         - Co-founded <a href="https://questheaven.com">Quest</a> as CTO and lead a 3-person engineering/product team building a Next.js safari quotation platform for Uganda-based tour operators.

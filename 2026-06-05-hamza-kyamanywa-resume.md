@@ -25,7 +25,7 @@ Founder-CTO and AI product engineer who builds products where domain workflows, 
 ## Professional Experience
 
 ### Technical Founder & CEO
-**HoverNotes | AI video learning and note-taking SaaS | Remote / Seoul | Jul 2025 - Present**
+**HoverNotes | AI video learning and note-taking SaaS | U.S. company; remote from Seoul | Jul 2025 - Present**
 
 - Founded and built HoverNotes into a revenue-generating AI learning product with over $10K/month revenue and around 20K installs across Chrome and Edge.
 - Created a video-in, notes-out product for people who learn from online video: users turn lectures, tutorials, and course videos into structured notes that can live in their own Obsidian/Markdown workflow instead of another closed note silo.
@@ -35,7 +35,7 @@ Founder-CTO and AI product engineer who builds products where domain workflows, 
 - Used product analytics to move beyond feature shipping: diagnosed first-value latency, platform-specific activation drop-off, paywall performance, media payload size, and AI Notes session health.
 
 ### CTO & Co-founder
-**Quest | Safari quotation platform for tour operators | Remote | 2026 - Present**
+**Quest | Safari quotation platform for tour operators | Kampala, Uganda; remote from Seoul | 2026 - Present**
 
 - Co-founded Quest as CTO and lead a 3-person engineering/product team turning safari-operator quoting from spreadsheets, scattered assets, and manual documents into a structured SaaS workflow for requests, itineraries, pricing, professional PDFs, and quote emails.
 - Lead product and platform architecture across operator dashboards, Quest admin tools, travel requests, tourists, content libraries, quote building, analytics, billing, company settings, and role-aware access.

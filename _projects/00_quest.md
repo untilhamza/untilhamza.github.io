@@ -9,7 +9,7 @@ category: work
 
 <div>
   <h3>Overview</h3>
-  <p><a href="https://questheaven.com">Quest</a> is a safari quotation platform for tour operators. I co-founded Quest as CTO and lead a 3-person engineering/product team building the platform: operator dashboards, admin tools, travel requests, itinerary planning, pricing, branded PDF generation, quote email delivery, content libraries, billing, and release workflows.</p>
+  <p><a href="https://questheaven.com">Quest</a> is a Kampala, Uganda-based safari quotation platform for tour operators that I work on remotely from Seoul. I co-founded Quest as CTO and lead a 3-person engineering/product team building the platform: operator dashboards, admin tools, travel requests, itinerary planning, pricing, branded PDF generation, quote email delivery, content libraries, billing, and release workflows.</p>
 
   <h3>Problem</h3>
   <p>Tour operators often build quotes through spreadsheets, scattered assets, manual document editing, and repeated back-and-forth with travelers. Quest turns that workflow into structured software: requests become itineraries, pricing becomes traceable, and final proposals become branded PDF and email outputs.</p>

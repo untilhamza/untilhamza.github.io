@@ -13,9 +13,9 @@ I’m a technical founder, CTO, and AI/full-stack engineer building products whe
 
 Right now I spend most of my time on two products:
 
-**HoverNotes** - a privacy-first AI video note-taking product that turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows. I founded and built the product across the Chrome/Edge extension, Next.js web app, realtime video-in notes-out AI workflows, payments, analytics, localization, SEO, and production operations. As of June 2026, HoverNotes is doing over $10K/month in revenue with around 20K installs across Chrome and Edge.
+**HoverNotes** - a U.S. company and privacy-first AI video note-taking product that I operate remotely from Seoul. It turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows. I founded and built the product across the Chrome/Edge extension, Next.js web app, realtime video-in notes-out AI workflows, payments, analytics, localization, SEO, and production operations. As of June 2026, HoverNotes is doing over $10K/month in revenue with around 20K installs across Chrome and Edge.
 
-**Quest** - a safari quotation platform for tour operators. I co-founded Quest as CTO and lead a 3-person engineering/product team building the platform: operator dashboards, admin tools, travel requests, itinerary planning, pricing, branded PDF generation, quote email delivery, content libraries, billing, and release workflows.
+**Quest** - a Kampala, Uganda-based safari quotation platform for tour operators that I work on remotely from Seoul. I co-founded Quest as CTO and lead a 3-person engineering/product team building the platform: operator dashboards, admin tools, travel requests, itinerary planning, pricing, branded PDF generation, quote email delivery, content libraries, billing, and release workflows.
 
 I also contract with xAI Human Data on software-engineering model evaluation, reviewing AI-generated code across languages and domains to help improve coding-model quality.
 
@@ -40,9 +40,9 @@ My work sits at the intersection of product judgment and deep engineering execut
 
 Right now I’m focused on two products:
 
-**HoverNotes** - a privacy-first AI video note-taking product that turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows. I founded and built the product across the Chrome/Edge extension, Next.js web app, realtime video-in notes-out AI workflows, payments, analytics, localization, SEO, and production operations. As of June 2026, HoverNotes is doing over $10K/month in revenue with around 20K installs across Chrome and Edge.
+**HoverNotes** - a U.S. company and privacy-first AI video note-taking product that I operate remotely from Seoul. It turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows. I founded and built the product across the Chrome/Edge extension, Next.js web app, realtime video-in notes-out AI workflows, payments, analytics, localization, SEO, and production operations. As of June 2026, HoverNotes is doing over $10K/month in revenue with around 20K installs across Chrome and Edge.
 
-**Quest** - a safari quotation platform for tour operators. I co-founded Quest as CTO and lead a 3-person engineering/product team building operator dashboards, admin tools, travel requests, itinerary planning, pricing, branded PDF generation, quote email delivery, content libraries, billing, and release workflows.
+**Quest** - a Kampala, Uganda-based safari quotation platform for tour operators that I work on remotely from Seoul. I co-founded Quest as CTO and lead a 3-person engineering/product team building operator dashboards, admin tools, travel requests, itinerary planning, pricing, branded PDF generation, quote email delivery, content libraries, billing, and release workflows.
 
 I also contract with xAI Human Data on software-engineering model evaluation, reviewing AI-generated code across languages and domains to help improve coding-model quality.
 
@@ -74,9 +74,9 @@ My work sits at the intersection of product judgment and deep engineering execut
 
 Right now I’m focused on two products:
 
-**HoverNotes** - a privacy-first AI video note-taking product that turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows. I founded and built the product across the Chrome/Edge extension, Next.js web app, realtime video-in notes-out AI workflows, payments, analytics, localization, SEO, and production operations. As of June 2026, HoverNotes is doing over $10K/month in revenue with around 20K installs across Chrome and Edge.
+**HoverNotes** - a U.S. company and privacy-first AI video note-taking product that I operate remotely from Seoul. It turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows. I founded and built the product across the Chrome/Edge extension, Next.js web app, realtime video-in notes-out AI workflows, payments, analytics, localization, SEO, and production operations. As of June 2026, HoverNotes is doing over $10K/month in revenue with around 20K installs across Chrome and Edge.
 
-**Quest** - a safari quotation platform for tour operators. I co-founded Quest as CTO and lead a 3-person engineering/product team building operator dashboards, admin tools, travel requests, itinerary planning, pricing, branded PDF generation, quote email delivery, content libraries, billing, and release workflows.
+**Quest** - a Kampala, Uganda-based safari quotation platform for tour operators that I work on remotely from Seoul. I co-founded Quest as CTO and lead a 3-person engineering/product team building operator dashboards, admin tools, travel requests, itinerary planning, pricing, branded PDF generation, quote email delivery, content libraries, billing, and release workflows.
 
 I also contract with xAI Human Data on software-engineering model evaluation, reviewing AI-generated code across languages and domains to help improve coding-model quality.
 
@@ -96,9 +96,9 @@ I’m a technical founder, CTO, and AI/full-stack engineer building products whe
 
 Currently, I’m focused on **HoverNotes** and **Quest**.
 
-At HoverNotes, I founded and built a privacy-first AI video note-taking product with over $10K/month revenue and around 20K Chrome/Edge installs. The product turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows.
+At HoverNotes, I founded and built a U.S. company and privacy-first AI video note-taking product with over $10K/month revenue and around 20K Chrome/Edge installs, working remotely from Seoul. The product turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows.
 
-At Quest, I’m CTO and co-founder, leading a 3-person engineering/product team building a safari quotation platform for tour operators: requests, itineraries, pricing, branded PDFs, quote emails, content libraries, billing, and release workflows.
+At Quest, I’m CTO and co-founder, leading a 3-person engineering/product team building a Kampala, Uganda-based safari quotation platform for tour operators while working remotely from Seoul: requests, itineraries, pricing, branded PDFs, quote emails, content libraries, billing, and release workflows.
 
 I also contract with xAI Human Data on software-engineering model evaluation, reviewing AI-generated code across languages and domains to improve coding-model quality.
 

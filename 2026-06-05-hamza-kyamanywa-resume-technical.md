@@ -27,7 +27,7 @@ Technical founder, CTO, and senior AI product engineer focused on HoverNotes and
 ## Professional Experience
 
 ### Technical Founder & CEO
-**HoverNotes | AI video note-taking SaaS | Remote / Seoul | Jul 2025 - Present**
+**HoverNotes | AI video note-taking SaaS | U.S. company; remote from Seoul | Jul 2025 - Present**
 
 - Founded and built HoverNotes, a privacy-first AI video note-taking product with over $10K/month revenue and around 20K installs across Chrome and Edge.
 - Built the product across a Chrome/Edge extension, Next.js web app, local-first Obsidian workflows, payments, analytics, SEO/i18n, and AI note generation.
@@ -38,7 +38,7 @@ Technical founder, CTO, and senior AI product engineer focused on HoverNotes and
 - Used product analytics to diagnose AI Notes activation, paywall behavior, platform-specific drop-off, media payload size, warnings, and active-session health.
 
 ### CTO & Co-founder
-**Quest | Safari quotation platform and PDF infrastructure | Remote | 2026 - Present**
+**Quest | Safari quotation platform and PDF infrastructure | Kampala, Uganda; remote from Seoul | 2026 - Present**
 
 - Co-founded Quest and lead technology plus a 3-person engineering/product team for a Next.js safari quotation platform for Uganda-based tour operators.
 - Built operator workflows for travel requests, tourists, itinerary planning, quote generation, PDF preview/export, quote email delivery, billing, analytics, and content libraries.

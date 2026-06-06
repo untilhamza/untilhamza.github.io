@@ -225,11 +225,11 @@ Suggested skills:
 
 Next.js, React, TypeScript, PostgreSQL, Drizzle ORM, Stripe, Supabase, Lexical, LiveBlocks, Docker, EdTech
 
-### Bebridge / Slid - Lead AI Engineer / Team Lead
+### Bebridge / Slid - Lead AI Engineer
 
 Recommended LinkedIn title:
 
-Lead AI Engineer / Team Lead
+Lead AI Engineer
 
 Dates:
 

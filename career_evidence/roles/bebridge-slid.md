@@ -6,7 +6,7 @@
 - Public name: Slid
 - Organization/client: Bebridge Inc.
 - Role/title progression: Full Stack Engineer (Level 2), Senior Software Engineer (Level 3), AI Engineer and Team Lead (Level 4)
-- Public title preference for LinkedIn: Lead AI Engineer / Team Lead. User noted on 2026-06-05 that principal-level AI engineering scope is accurate because he set direction and solved the hardest problems, but `Principal AI Engineer` should be treated as scope language unless confirmed as an official title.
+- Public title preference for LinkedIn/resume: Lead AI Engineer. User noted on 2026-06-05 that principal-level AI engineering scope is accurate because he set direction and solved the hardest problems, but `Principal AI Engineer` should be treated as scope language unless confirmed as an official title. User clarified on 2026-06-06 that the `AI Engineer & Team Lead` resume label should be converted to `Lead AI Engineer`.
 - Period: Jun 2022 - Jun 2025
 - Location: Seoul, South Korea
 - Source repos: Private/not currently linked
@@ -14,7 +14,7 @@
 
 ## One-Line Positioning
 
-Joined Bebridge as an early engineer and grew into a Lead AI Engineer / Team Lead, building cross-platform EdTech and AI features for Slid's 50K+ MAU learning platform.
+Joined Bebridge as an early engineer and grew into a Lead AI Engineer, building cross-platform EdTech and AI features for Slid's 50K+ MAU learning platform.
 
 ## Context
 
@@ -133,5 +133,5 @@ Slid is an EdTech platform for learning from online videos. Existing site/resume
 ## Needs Confirmation
 
 - Exact public-safe metrics and whether all can be published.
-- Whether to use `Lead AI Engineer / Team Lead` as the public title on homepage/resume/LinkedIn while keeping `AI Engineer and Team Lead (Level 4)` as the internal/official progression.
+- Use `Lead AI Engineer` as the public title on homepage/resume/LinkedIn while keeping team-lead responsibilities in the description.
 - Which project pages are too inflated, outdated, or need pruning.

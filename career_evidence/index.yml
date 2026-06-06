@@ -4,6 +4,7 @@ roles:
     organization: xAI / Remote Technology Services
     role: Software Engineering Specialist, Human Data / AI Tutor - Software Engineering (Expert)
     period: May 2026 - Present
+    location: Remote, USA
     evidence_file: roles/xai-human-data.md
     source_repos:
       - Private local workspace, not included in this repo.
@@ -92,7 +93,7 @@ roles:
   - id: bebridge-slid
     public_name: Slid
     organization: Bebridge Inc.
-    role: Full Stack Engineer to AI Engineer and Team Lead
+    role: Full Stack Engineer to Lead AI Engineer
     period: Jun 2022 - Jun 2025
     evidence_file: roles/bebridge-slid.md
     source_repos: []

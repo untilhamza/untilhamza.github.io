@@ -13,13 +13,13 @@
 
 ## One-Line Positioning
 
-Led the PDF infrastructure for Quest, building a production microservice that turns quote JSON into branded, paginated A4 safari quote PDFs, previews, and stored outputs in Cloudflare R2.
+Led the document infrastructure for Quest, building a production microservice that turns structured travel planning data into branded, paginated A4 trip documents, quote PDFs, previews, and stored outputs in Cloudflare R2.
 
 ## Context
 
-Quest needs professional quote documents for safari operators and travelers from its Kampala, Uganda-based platform. The web app sends structured quote data to this service, which renders branded templates, paginates content, generates PDFs in headless Chrome, and uploads the result to Cloudflare R2.
+Quest needs professional trip documents and quote materials for tour companies and travelers from its Kampala, Uganda-based travel planning platform. The web app sends structured trip, itinerary, pricing, company, and quote data to this service, which renders branded templates, paginates content, generates PDFs in headless Chrome, and uploads the result to Cloudflare R2.
 
-The PDF service is part of the broader Quest CTO/co-founder role and pairs with the web app's quote builder, page settings, preview/edit drawers, quote email workflow, R2 asset handling, and output-level monetization.
+The PDF service is part of the broader Quest CTO/co-founder role and pairs with the web app's travel planning, itinerary, quote builder, page settings, preview/edit drawers, quote email workflow, R2 asset handling, and output-level monetization.
 
 ## Ownership
 
@@ -36,7 +36,7 @@ The PDF service is part of the broader Quest CTO/co-founder role and pairs with 
 
 ### Quote PDF Rendering
 
-- Problem: Quest needs pixel-perfect safari quote documents from structured app data.
+- Problem: Quest needs pixel-perfect travel quote and trip documents from structured app data.
 - What Hamza built: JSON-to-HTML-to-PDF pipeline using Handlebars templates and Puppeteer.
 - Technologies: Node.js 20, TypeScript, Express, Handlebars, Puppeteer.
 - Result: Quote data can be converted into branded PDFs via `/generate-pdf` and supporting preview flows.
@@ -47,7 +47,7 @@ The PDF service is part of the broader Quest CTO/co-founder role and pairs with 
 - Problem: Dynamic itinerary and pricing content can overflow fixed A4 pages.
 - What Hamza built: In-browser pagination that measures rendered content, splits overflowing pages, adds continuation headers, and controls footers.
 - Technologies: Puppeteer, browser DOM measurement, TypeScript.
-- Result: More reliable document output for variable-length safari quotes.
+- Result: More reliable document output for variable-length travel plans and quotes.
 - Evidence: `quest-pdf-service/README.md`, `src/paginator.ts`.
 
 ### Template System
@@ -84,7 +84,7 @@ The PDF service is part of the broader Quest CTO/co-founder role and pairs with 
 
 ## Resume Bullet Bank
 
-- Built Quest's PDF generation microservice, converting quote JSON into branded A4 safari quote PDFs with Puppeteer, Handlebars, and TypeScript.
+- Built Quest's PDF generation microservice, converting structured travel quote JSON into branded A4 trip documents and quote PDFs with Puppeteer, Handlebars, and TypeScript.
 - Designed a pre-pagination engine that measures rendered content in headless Chrome, splits overflowing itinerary/pricing sections, and injects continuation headers and controlled footers.
 - Implemented Cloudflare R2 upload/delete workflows with dev/prod storage targeting and company-scoped folder organization.
 - Created modular quote templates with configurable page order, company theming, full-bleed covers, itinerary pages, pricing pages, terms, vehicles, about pages, back covers, and per-page previews.

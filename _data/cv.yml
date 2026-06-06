@@ -1,7 +1,7 @@
 - title: Professional Summary
   type: list
   contents:
-    - Founder-CTO and senior AI/full-stack engineer with <strong>4+ years building AI-powered education, productivity, travel, and workflow products</strong>. Currently building <strong>HoverNotes</strong>, a privacy-first AI video note-taking product with over <strong>$10K/month revenue</strong> and around <strong>20K Chrome/Edge installs</strong>, and co-founding <strong>Quest</strong> as CTO while leading a 3-person engineering/product team. Contracted with <strong>xAI Human Data</strong> on software-engineering model evaluation. Strong across <strong>TypeScript, React, Next.js, Python/FastAPI, PostgreSQL, browser extensions, LLM systems, payments, analytics, and document infrastructure</strong>. Fluent in Korean and English.
+    - Founder-CTO and senior AI/full-stack engineer with <strong>4+ years building AI-powered education, productivity, travel, and workflow products</strong>. Currently building <strong>HoverNotes</strong>, a privacy-first AI video note-taking product with over <strong>$10K/month revenue</strong> and around <strong>20K Chrome/Edge installs</strong>, and co-founding <strong>Quest</strong> as CTO while leading a 3-person team building travel planning software for tour and travel companies in Uganda. Contracted with <strong>xAI Human Data</strong> on software-engineering model evaluation. Strong across <strong>TypeScript, React, Next.js, Python/FastAPI, PostgreSQL, browser extensions, LLM systems, payments, analytics, and document infrastructure</strong>. Fluent in Korean and English.
 
 - title: Core Skills
   type: nested_list
@@ -39,13 +39,14 @@
         - Used product analytics to diagnose AI Notes activation, paywall behavior, platform-specific drop-off, media payload size, warnings, and active-session health.
 
     - title: CTO & Co-founder
-      institution: Quest | Safari quotation platform for tour operators | Kampala, Uganda; remote from Seoul | questheaven.com
+      institution: Quest | Travel planning software for tour and travel companies | Kampala, Uganda; remote from Seoul | questheaven.com
       year: 2026 - Present
       description:
-        - Co-founded <a href="https://questheaven.com">Quest</a> as CTO and lead a 3-person engineering/product team building a Next.js safari quotation platform for Uganda-based tour operators.
-        - Built operator workflows for travel requests, tourists, itinerary planning, quote generation, PDF preview/export, quote email delivery, billing, analytics, and content libraries.
+        - Co-founded <a href="https://questheaven.com">Quest</a> as CTO and lead a 3-person engineering/product team building travel planning software for tour and travel companies in Uganda.
+        - Built operator workflows for travel requests, destination/accommodation/activity selection, tourists, itinerary planning, accurate pricing, quote generation, travel documents, quote email delivery, billing, analytics, and content libraries.
+        - Built structured destination/activity/accommodation/transport data workflows across Uganda and East Africa to support itinerary planning, pricing accuracy, documents, and marketing materials.
         - Designed quote economics for real operator constraints, including USD/UGX exchange-rate settings, live/manual rate refresh, transport fuel conversion, room pricing, service fees, and quote-level cost summaries.
-        - Built branded A4 safari PDFs, page previews, edit overrides, Cloudflare R2 storage, Resend quote emails, merge tags, sender flows, and PDF attachments.
+        - Built branded A4 trip documents and quote PDFs, page previews, edit overrides, Cloudflare R2 storage, Resend quote emails, merge tags, sender flows, and PDF attachments.
         - Designed the Free + Pro launch model with company-level Stripe subscriptions, full-access trials, billing settings, plan badges, and output-level gates for clean PDFs, email sending, and branding.
 
     - title: Software Engineering Specialist, Human Data / AI Tutor - Software Engineering

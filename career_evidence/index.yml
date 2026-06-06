@@ -15,7 +15,7 @@ roles:
     status: Verified from contract, user statement, and public xAI role posting; internal details confidential
 
   - id: quest-platform
-    public_name: Quest Safari Quotation Platform
+    public_name: Quest Travel Planning Platform
     organization: Quest, Kampala, Uganda
     public_url: https://questheaven.com
     role: CTO and Co-founder

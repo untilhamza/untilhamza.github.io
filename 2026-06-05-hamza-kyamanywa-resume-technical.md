@@ -13,7 +13,7 @@ LinkedIn: https://www.linkedin.com/in/untilhamza/ | GitHub: https://github.com/u
 
 ## Professional Summary
 
-Technical founder, CTO, and senior AI product engineer focused on HoverNotes and Quest, with 4+ years building AI-powered education, productivity, travel, and workflow systems. Founded HoverNotes, now over $10K/month revenue with around 20K Chrome/Edge installs, and co-founded Quest as CTO, leading a 3-person team building safari quotation software and PDF infrastructure. Also contracted with xAI Human Data on software-engineering model evaluation. Strong in TypeScript/React/Next.js, Python/FastAPI, browser extensions, LLM systems, payments, analytics, document generation, and production reliability. Fluent in Korean and English.
+Technical founder, CTO, and senior AI product engineer focused on HoverNotes and Quest, with 4+ years building AI-powered education, productivity, travel, and workflow systems. Founded HoverNotes, now over $10K/month revenue with around 20K Chrome/Edge installs, and co-founded Quest as CTO, leading a 3-person team building travel planning software for tour and travel companies in Uganda. Also contracted with xAI Human Data on software-engineering model evaluation. Strong in TypeScript/React/Next.js, Python/FastAPI, browser extensions, LLM systems, payments, analytics, document generation, and production reliability. Fluent in Korean and English.
 
 ## Technical Skills
 
@@ -38,13 +38,13 @@ Technical founder, CTO, and senior AI product engineer focused on HoverNotes and
 - Used product analytics to diagnose AI Notes activation, paywall behavior, platform-specific drop-off, media payload size, warnings, and active-session health.
 
 ### CTO & Co-founder
-**Quest | Safari quotation platform and PDF infrastructure | Kampala, Uganda; remote from Seoul | 2026 - Present**
+**Quest | Travel planning software and documentation infrastructure | Kampala, Uganda; remote from Seoul | 2026 - Present**
 
-- Co-founded Quest and lead technology plus a 3-person engineering/product team for a Next.js safari quotation platform for Uganda-based tour operators.
-- Built operator workflows for travel requests, tourists, itinerary planning, quote generation, PDF preview/export, quote email delivery, billing, analytics, and content libraries.
+- Co-founded Quest and lead technology plus a 3-person engineering/product team for a Next.js travel planning platform for tour and travel companies in Uganda.
+- Built operator workflows for travel requests, tourists, destination/accommodation/activity selection, itinerary planning, accurate pricing, quote generation, PDF preview/export, quote email delivery, billing, analytics, and content libraries.
 - Designed role-aware platform surfaces for Quest admins and tour operators using Next.js App Router, TypeScript, NextAuth v5, PostgreSQL/Supabase, and Drizzle ORM.
-- Implemented structured data workflows for destinations, activities, hotels/lodges, room rates, transport, companies, users, and geography to support more accurate quote operations.
-- Built a TypeScript/Express PDF generation service that converts quote JSON into branded A4 safari PDFs with Handlebars, Puppeteer, Cloudflare R2, per-page previews, and an in-browser pagination engine.
+- Implemented structured data workflows for destinations, activities, hotels/lodges, room rates, transport, entry fees, companies, travelers, users, and geography to support more accurate travel planning and quote operations.
+- Built a TypeScript/Express PDF generation service that converts travel quote JSON into branded A4 trip documents and quote PDFs with Handlebars, Puppeteer, Cloudflare R2, per-page previews, and an in-browser pagination engine.
 - Designed Quest's Free + Pro launch model with company-level Stripe subscriptions, full-access trials, billing settings, plan badges, and output-level gates for clean PDFs, email, and branding.
 - Established Vercel QA/release workflows across feature branches, personal QA branches, shared QA, release branches, and production; deployed PDF infrastructure via Docker/Hetzner.
 

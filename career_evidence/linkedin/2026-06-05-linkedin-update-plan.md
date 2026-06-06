@@ -92,7 +92,7 @@ Full-time
 
 Location:
 
-Remote / Seoul
+U.S. company; remote from Seoul
 
 Dates:
 
@@ -136,7 +136,7 @@ Jan 2026 - Present if you want to match the xAI parser inference; otherwise 2026
 
 Description:
 
-Co-founded Quest as CTO and lead a 3-person engineering/product team building a safari quotation platform for Uganda-based tour operators.
+Co-founded Quest as CTO and lead a 3-person engineering/product team building a Kampala, Uganda-based safari quotation platform for Uganda-based tour operators while working remotely from Seoul.
 
 Quest turns operator quoting from spreadsheets, scattered assets, and manual documents into a structured workflow for travel requests, itineraries, quote pricing, branded PDFs, quote email delivery, billing, analytics, and content libraries.
 
@@ -165,7 +165,7 @@ Contract
 
 Location:
 
-Remote
+Kampala, Uganda; remote from Seoul
 
 Dates:
 
@@ -369,7 +369,8 @@ Additional skills worth keeping:
 
 - Remove or reduce emoji-heavy section labels in older experience entries. They are memorable, but the profile now needs a cleaner senior/founder tone.
 - Add Quest and xAI as current roles so LinkedIn reflects current reality.
-- Update HoverNotes location from `United States - Hybrid` if that is no longer the desired public framing.
+- HoverNotes location confirmed on 2026-06-06: officially a U.S. company, with Hamza working on it remotely from Seoul.
+- Quest location confirmed on 2026-06-06: set up in Kampala, Uganda, with Hamza working on it remotely from Seoul.
 - Avoid saying `zero cloud data storage` unless it is strictly true. Safer phrasing: `local-first workflows` and `privacy-first note ownership`.
 - Replace `45+ language localization` if current supported production locales are closer to 10. Safer phrasing: `localized UI/content and multilingual AI note workflows`.
 - Keep Slid technical depth, but compress it slightly so HoverNotes + Quest feel like the current center of gravity.

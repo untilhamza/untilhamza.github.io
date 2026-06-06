@@ -2,24 +2,24 @@
 
 ## Metadata
 
-- Evidence status: Verified local repo and user-stated CTO/co-founder role and 3-person team leadership, exact dates need confirmation
+- Evidence status: Verified local repo and user-stated CTO/co-founder role, 3-person team leadership, Kampala/Uganda setup, and remote-from-Seoul work location; exact dates need confirmation
 - Public name: Quest Safari Quotation Platform
-- Organization/client: Quest
+- Organization/client: Quest, Kampala, Uganda
 - Public URL: https://questheaven.com
 - Role/title: CTO and Co-founder
 - Period: 2026 - Present needs confirmation
-- Location: Needs confirmation
+- Location: Kampala, Uganda; Hamza works remotely from Seoul, South Korea
 - Source repo: `private-local-workspace/quest/quest-web-app`
 - Repo remote: `https://github.com/questdev-canine/quest-web-app.git`
 - Existing public artifacts: Not yet integrated into site/resume
 
 ## One-Line Positioning
 
-Co-founded and leads technology for Quest (https://questheaven.com), a production Next.js platform that helps Uganda-based tour operators create accurate safari quotations, manage itinerary data, deliver branded quotes, and run operator-facing quote workflows.
+Co-founded and leads technology for Quest (https://questheaven.com), a Kampala, Uganda-based production Next.js platform that helps Uganda-based tour operators create accurate safari quotations, manage itinerary data, deliver branded quotes, and run operator-facing quote workflows while Hamza works remotely from Seoul.
 
 ## Context
 
-Quest is a web application for Uganda-based tour operators. The platform supports Quest/admin operations, operator dashboards, company onboarding, document verification, content libraries, travel requests, itinerary building, quote generation, quote email delivery, PDF previews/exports, tourist tracking, billing, and analytics.
+Quest is a Kampala, Uganda-based web application for Uganda-based tour operators. The platform supports Quest/admin operations, operator dashboards, company onboarding, document verification, content libraries, travel requests, itinerary building, quote generation, quote email delivery, PDF previews/exports, tourist tracking, billing, and analytics.
 
 ## Ownership
 
@@ -131,5 +131,6 @@ Quest is a web application for Uganda-based tour operators. The platform support
 
 - Exact start month and whether to use `2026 - Present` or a specific month.
 - Exact public role title: user stated CTO and co-founder.
+- Location phrasing confirmed by user on 2026-06-06: Quest is set up in Kampala, Uganda, and Hamza works on it remotely from Seoul.
 - Launch status, customer/user scale, and any measurable business outcomes.
 - Which features Hamza personally built versus inherited.

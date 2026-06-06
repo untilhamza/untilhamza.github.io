@@ -15,10 +15,11 @@ roles:
 
   - id: quest-platform
     public_name: Quest Safari Quotation Platform
-    organization: Quest
+    organization: Quest, Kampala, Uganda
     public_url: https://questheaven.com
     role: CTO and Co-founder
     period: 2026 - Present needs confirmation
+    location: Kampala, Uganda; remote from Seoul, South Korea
     evidence_file: roles/quest-platform.md
     source_repos:
       - private-local-workspace/quest/quest-web-app
@@ -31,9 +32,10 @@ roles:
 
   - id: quest-pdf-service
     public_name: Quest PDF Service
-    organization: Quest
+    organization: Quest, Kampala, Uganda
     role: CTO and Co-founder / PDF infrastructure owner
     period: 2026 - Present needs confirmation
+    location: Kampala, Uganda; remote from Seoul, South Korea
     evidence_file: roles/quest-pdf-service.md
     source_repos:
       - private-local-workspace/quest/quest-pdf-service
@@ -44,9 +46,10 @@ roles:
 
   - id: hovernotes
     public_name: HoverNotes
-    organization: HoverNotes
+    organization: HoverNotes, U.S. company
     role: Technical Founder and CEO
     period: Jul 2025 - Present
+    location: U.S. company; remote from Seoul, South Korea
     evidence_file: roles/hovernotes.md
     source_repos:
       - private-local-workspace/hovernotes/hover-notes-web-app

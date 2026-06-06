@@ -9,7 +9,7 @@ category: work
 
 <div>
   <h3>Overview</h3>
-  <p>HoverNotes is a privacy-first AI video note-taking product that turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows. I founded and built the product across browser-extension workflows, a Next.js web app, AI note-generation systems, payments, analytics, localization, SEO, and production operations.</p>
+  <p>HoverNotes is a U.S. company and privacy-first AI video note-taking product that I operate remotely from Seoul. It turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows. I founded and built the product across browser-extension workflows, a Next.js web app, AI note-generation systems, payments, analytics, localization, SEO, and production operations.</p>
 
   <h3>Current Scale</h3>
   <ul>

@@ -4,7 +4,7 @@ roles:
     organization: xAI / Remote Technology Services
     role: Software Engineering Specialist, Human Data / AI Tutor - Software Engineering (Expert)
     period: May 2026 - Present
-    location: Remote, USA
+    location: Remote, United States
     evidence_file: roles/xai-human-data.md
     source_repos:
       - Private local workspace, not included in this repo.
@@ -20,7 +20,7 @@ roles:
     public_url: https://questheaven.com
     role: CTO and Co-founder
     period: 2026 - Present needs confirmation
-    location: Kampala, Uganda; remote from Seoul, South Korea
+    location: Remote, Kampala (Uganda)
     evidence_file: roles/quest-platform.md
     source_repos:
       - private-local-workspace/quest/quest-web-app
@@ -36,7 +36,7 @@ roles:
     organization: Quest, Kampala, Uganda
     role: CTO and Co-founder / PDF infrastructure owner
     period: 2026 - Present needs confirmation
-    location: Kampala, Uganda; remote from Seoul, South Korea
+    location: Remote, Kampala (Uganda)
     evidence_file: roles/quest-pdf-service.md
     source_repos:
       - private-local-workspace/quest/quest-pdf-service
@@ -50,7 +50,7 @@ roles:
     organization: HoverNotes, U.S. company
     role: Technical Founder and CEO
     period: Jul 2025 - Present
-    location: U.S. company; remote from Seoul, South Korea
+    location: Remote, United States
     evidence_file: roles/hovernotes.md
     source_repos:
       - private-local-workspace/hovernotes/hover-notes-web-app

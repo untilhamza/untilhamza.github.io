@@ -8,7 +8,7 @@
 - Public URL: https://questheaven.com
 - Role/title: CTO and Co-founder
 - Period: 2026 - Present needs confirmation
-- Location: Kampala, Uganda; Hamza works remotely from Seoul, South Korea
+- Location: Remote, Kampala (Uganda)
 - Source repo: `private-local-workspace/quest/quest-web-app`
 - Repo remote: `https://github.com/questdev-canine/quest-web-app.git`
 - Existing public artifacts: Not yet integrated into site/resume
@@ -19,7 +19,7 @@ Co-founded and leads technology for Quest (https://questheaven.com), a Kampala, 
 
 ## Context
 
-Quest is a Kampala, Uganda-based web application for tour and travel companies in Uganda and East Africa. The platform supports Quest/admin operations, operator dashboards, company onboarding, destination and activity databases, accommodation/transport data, travel requests, itinerary building, quote generation, travel document generation, marketing content, quote email delivery, PDF previews/exports, tourist tracking, billing, and analytics.
+Quest is a Kampala, Uganda-based web application for tour and travel companies in Uganda and East Africa. The platform supports Quest/admin operations, operator dashboards, company onboarding, destination and activity databases, accommodation/transport data, travel requests, itinerary building, quote generation, automated travel document generation, marketing content, quote email delivery, PDF previews/exports, tourist tracking, billing, and analytics.
 
 User clarification on 2026-06-06: describe Quest as travel planning software, not just safari quotation software or PDF infrastructure. The quote/PDF/email layer is an important output surface, but the larger product is the operational system around destination data, trip preparation, itineraries, accurate pricing, documents, and marketing materials for tour/travel companies.
 

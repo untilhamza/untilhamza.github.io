@@ -35,7 +35,7 @@ Before this, I was a **Lead AI Engineer at Bebridge/Slid**, a 50K+ MAU EdTech pl
 
 - **AI product systems:** LLM workflows, multimodal AI, RAG, coding-model evaluation, AI note generation, transcript correction, and learning tools.
 - **Full-stack platforms:** TypeScript, React, Next.js, Python/FastAPI, Node.js/Express, PostgreSQL, Supabase, Drizzle ORM, MongoDB, and Redis.
-- **Workflow infrastructure:** browser extensions, local-first Obsidian workflows, rich editors, PDF/document generation, email delivery, Cloudflare R2, Stripe, Razorpay, Vercel, AWS, Docker, PostHog, and Sentry.
+- **Workflow infrastructure:** browser extensions, local-first Obsidian workflows, rich editors, PDF/automated document generation, email delivery, Cloudflare R2, Stripe, Razorpay, Vercel, AWS, Docker, PostHog, and Sentry.
 
 My engineering philosophy is simple: put users at the center, move fast but measure real behavior, build the whole loop from product to reliability, and stay calm under ambiguity.
 

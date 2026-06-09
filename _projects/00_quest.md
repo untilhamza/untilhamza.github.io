@@ -9,7 +9,7 @@ category: work
 
 <div>
   <h3>Overview</h3>
-  <p><a href="https://questheaven.com">Quest</a> is a Kampala, Uganda-based travel planning platform for tour and travel companies that I work on remotely from Seoul. I co-founded Quest as CTO and lead a 3-person engineering/product team building the platform: operator dashboards, admin tools, Uganda/East Africa destination data, travel requests, itinerary planning, accurate pricing, branded document generation, quote email delivery, reusable content libraries, billing, and release workflows.</p>
+  <p><a href="https://questheaven.com">Quest</a> is a Kampala, Uganda-based travel planning platform for tour and travel companies that I work on remotely from Seoul. I co-founded Quest as CTO and lead a 3-person engineering/product team building the platform: operator dashboards, admin tools, Uganda/East Africa destination data, travel requests, itinerary planning, accurate pricing, branded automated document generation, quote email delivery, reusable content libraries, billing, and release workflows.</p>
 
   <h3>Problem</h3>
   <p>Tour operators often prepare trips through spreadsheets, scattered destination/accommodation data, manual document editing, and repeated back-and-forth with travelers. Quest turns that workflow into structured software: shared travel data becomes reusable, requests become itineraries, pricing becomes traceable, and final plans become branded quotes, documents, emails, and marketing materials.</p>

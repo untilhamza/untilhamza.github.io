@@ -8,7 +8,7 @@
   contents:
     - title: AI/LLM Systems
       items:
-        - OpenAI API, Whisper, LangChain, LangGraph, RAG, vector search, prompt engineering, multimodal AI workflows, coding-model evaluation
+        - LLM APIs, Whisper, LangChain, LangGraph, RAG, vector search, prompt engineering, multimodal AI workflows, coding-model evaluation
     - title: Frontend & Product
       items:
         - Next.js, React, TypeScript, React Native, Tailwind CSS, Lexical, Chrome/Edge extensions, Obsidian/local-first workflows
@@ -20,7 +20,7 @@
         - AWS Lambda, S3, EventBridge, Docker, Vercel, Cloudflare R2, Hetzner, CI/CD, PostHog, Sentry
     - title: Business & Document Systems
       items:
-        - Stripe, Razorpay, webhooks, subscriptions, trials, pricing, PDF/document generation, email delivery
+        - Stripe, Razorpay, webhooks, subscriptions, trials, pricing, PDF/automated document generation, email delivery
     - title: Languages
       items:
         - Korean (TOPIK 5), English, Luganda
@@ -29,7 +29,7 @@
   type: time_table
   contents:
     - title: Technical Founder & CEO
-      institution: HoverNotes | AI video note-taking SaaS | U.S. company; remote from Seoul
+      institution: HoverNotes | AI video note-taking SaaS | Remote, United States
       year: Jul 2025 - Present
       description:
         - Founded and built HoverNotes into a privacy-first AI video note-taking product with over <strong>$10K/month revenue</strong> and around <strong>20K installs</strong> across Chrome and Edge.
@@ -39,7 +39,7 @@
         - Used product analytics to diagnose AI Notes activation, paywall behavior, platform-specific drop-off, media payload size, warnings, and active-session health.
 
     - title: CTO & Co-founder
-      institution: Quest | Travel planning software for tour and travel companies | Kampala, Uganda; remote from Seoul | questheaven.com
+      institution: Quest | Travel planning software for tour and travel companies | Remote, Kampala (Uganda) | questheaven.com
       year: 2026 - Present
       description:
         - Co-founded <a href="https://questheaven.com">Quest</a> as CTO and lead a 3-person engineering/product team building travel planning software for tour and travel companies in Uganda.
@@ -50,7 +50,7 @@
         - Designed the Free + Pro launch model with company-level Stripe subscriptions, full-access trials, billing settings, plan badges, and output-level gates for clean PDFs, email sending, and branding.
 
     - title: Software Engineering Specialist, Human Data / AI Tutor - Software Engineering
-      institution: xAI / Remote Technology Services | Contract | Remote, USA
+      institution: xAI / Remote Technology Services | Contract | Remote, United States
       year: May 2026 - Present
       description:
         - Contracted with xAI's Human Data software-engineering track to create and review high-quality coding data for training, benchmarking, and improving large language models.

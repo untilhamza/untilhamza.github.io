@@ -7,7 +7,7 @@
 - Organization/client: Quest, Kampala, Uganda
 - Role/title: CTO and Co-founder / PDF infrastructure owner
 - Period: 2026 - Present needs confirmation
-- Location: Kampala, Uganda; Hamza works remotely from Seoul, South Korea
+- Location: Remote, Kampala (Uganda)
 - Source repo: `private-local-workspace/quest/quest-pdf-service`
 - Existing public artifacts: Not yet integrated into site/resume
 

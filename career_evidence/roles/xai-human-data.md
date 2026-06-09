@@ -7,7 +7,7 @@
 - Organization/client: xAI / Remote Technology Services
 - Role/title: Software Engineering Specialist, Human Data / AI Tutor - Software Engineering (Expert)
 - Period: May 11, 2026 - Present
-- Location: Remote, USA
+- Location: Remote, United States
 - Source workspace:
   - Private local workspace, not included in this repo.
 - Contract evidence:

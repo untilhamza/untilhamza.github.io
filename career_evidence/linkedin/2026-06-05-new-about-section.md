@@ -53,7 +53,7 @@ A few things I’m proud of beyond the role titles:
 - Co-authored a Springer Nature Computer Science paper on responsible AI and interpretable machine learning.
 - Contributed to developer tools and AI/open-source ecosystems including LangChain, Vercel AI SDK, Editor.js, Redux Toolkit, MemGPT, Pytube, FastAPI, and related projects.
 - Published technical answers and references used by thousands of developers working with WebRTC, speech-to-text, and AI application patterns.
-- Serve as Vice President of the Ugandan Community in South Korea, supporting governance, embassy-facing communication, partnership strategy, and community engagement.
+- Serve as **Vice President of the Ugandan Community in South Korea**, supporting governance, embassy-facing communication, partnership strategy, and community engagement.
 
 My engineering philosophy is simple:
 
@@ -82,7 +82,7 @@ I also contract with xAI Human Data on software-engineering model evaluation, re
 
 Previously, I was a Lead AI Engineer at Bebridge/Slid, a 50K+ MAU EdTech platform, doing principal-level AI engineering work: setting technical direction, solving hard AI/product problems, and shipping LLM-powered auto-notes, AI chat, semantic search, transcript correction, mobile AI workflows, real-time transcription, and cross-platform product systems.
 
-Beyond role titles, I’ve co-authored a Springer Nature Computer Science paper on responsible AI, contributed to developer tools and AI/open-source ecosystems, published technical answers used by thousands of developers, and serve as Vice President of the Ugandan Community in South Korea.
+Beyond role titles, I’ve co-authored a Springer Nature Computer Science paper on responsible AI, contributed to developer tools and AI/open-source ecosystems, published technical answers used by thousands of developers, and serve as **Vice President of the Ugandan Community in South Korea**.
 
 My engineering philosophy: put users at the center, move fast but measure real behavior, build the whole loop from product to reliability, and stay calm under ambiguity.
 

@@ -18,7 +18,7 @@
 
 Hamza should not look like a generic AI engineer with a long tool list. The strongest LinkedIn story is:
 
-> Technical founder and CTO who builds AI products for real workflows: video learning, travel plans and quotes, and coding-model evaluation. Strong across product strategy, full-stack systems, LLM workflows, browser extensions, payments, document generation, and production reliability.
+> Technical founder and CTO who builds AI products for real workflows: video learning, travel plans and quotes, and coding-model evaluation. Strong across product strategy, full-stack systems, LLM workflows, browser extensions, payments, automated document generation, and production reliability.
 
 The profile should make three things obvious:
 
@@ -92,7 +92,7 @@ Full-time
 
 Location:
 
-U.S. company; remote from Seoul
+Remote, United States
 
 Dates:
 
@@ -114,7 +114,7 @@ Key work:
 
 Suggested skills:
 
-Next.js, TypeScript, React, Chrome Extensions, Browser Extensions, OpenAI API, LangGraph, FastAPI, Stripe, Razorpay, PostHog, Obsidian, Product Analytics, SEO
+Next.js, TypeScript, React, Chrome Extensions, Browser Extensions, LLM APIs, LangGraph, FastAPI, Stripe, Razorpay, PostHog, Obsidian, Product Analytics, SEO
 
 ### Quest
 
@@ -165,7 +165,7 @@ Contract
 
 Location:
 
-Kampala, Uganda; remote from Seoul
+Remote, Kampala (Uganda)
 
 Dates:
 
@@ -296,7 +296,7 @@ Dates:
 
 Description:
 
-Serve as Vice President of the Ugandan Community in South Korea, supporting governance, embassy-facing communication, partnership strategy, and community engagement.
+Serve as **Vice President of the Ugandan Community in South Korea**, supporting governance, embassy-facing communication, partnership strategy, and community engagement.
 
 Key work:
 
@@ -340,7 +340,7 @@ Additional skills worth keeping:
 - FastAPI
 - LangChain
 - LangGraph
-- OpenAI API
+- LLM APIs
 - Whisper
 - RAG
 - Vector Search

@@ -13,9 +13,9 @@ I’m a technical founder, CTO, and AI/full-stack engineer building products whe
 
 Right now I spend most of my time on two products:
 
-**HoverNotes** - a U.S. company and privacy-first AI video note-taking product that I operate remotely from Seoul. It turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows. I founded and built the product across the Chrome/Edge extension, Next.js web app, realtime video-in notes-out AI workflows, payments, analytics, localization, SEO, and production operations. As of June 2026, HoverNotes is doing over $10K/month in revenue with around 20K installs across Chrome and Edge.
+**HoverNotes** - a privacy-first AI video note-taking product. It turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows. I founded and built the product across the Chrome/Edge extension, Next.js web app, realtime video-in notes-out AI workflows, payments, analytics, localization, SEO, and production operations. As of June 2026, HoverNotes is doing over $10K/month in revenue with around 20K installs across Chrome and Edge.
 
-**Quest** - a Kampala, Uganda-based safari quotation platform for tour operators that I work on remotely from Seoul. I co-founded Quest as CTO and lead a 3-person engineering/product team building the platform: operator dashboards, admin tools, travel requests, itinerary planning, pricing, branded PDF generation, quote email delivery, content libraries, billing, and release workflows.
+**Quest** - a Kampala, Uganda-based travel planning software for tour and travel companies that I work on remotely from Seoul. I co-founded Quest as CTO and lead a 3-person engineering/product team building the platform: operator dashboards, admin tools, destination/accommodation/activity data, travel requests, itinerary planning, accurate pricing, branded documents, quote email delivery, reusable content libraries, billing, and release workflows.
 
 I also contract with xAI Human Data on software-engineering model evaluation, reviewing AI-generated code across languages and domains to help improve coding-model quality.
 
@@ -40,9 +40,9 @@ My work sits at the intersection of product judgment and deep engineering execut
 
 Right now I’m focused on two products:
 
-**HoverNotes** - a U.S. company and privacy-first AI video note-taking product that I operate remotely from Seoul. It turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows. I founded and built the product across the Chrome/Edge extension, Next.js web app, realtime video-in notes-out AI workflows, payments, analytics, localization, SEO, and production operations. As of June 2026, HoverNotes is doing over $10K/month in revenue with around 20K installs across Chrome and Edge.
+**HoverNotes** - a privacy-first AI video note-taking product. It turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows. I founded and built the product across the Chrome/Edge extension, Next.js web app, realtime video-in notes-out AI workflows, payments, analytics, localization, SEO, and production operations. As of June 2026, HoverNotes is doing over $10K/month in revenue with around 20K installs across Chrome and Edge.
 
-**Quest** - a Kampala, Uganda-based safari quotation platform for tour operators that I work on remotely from Seoul. I co-founded Quest as CTO and lead a 3-person engineering/product team building operator dashboards, admin tools, travel requests, itinerary planning, pricing, branded PDF generation, quote email delivery, content libraries, billing, and release workflows.
+**Quest** - a Kampala, Uganda-based travel planning software for tour and travel companies that I work on remotely from Seoul. I co-founded Quest as CTO and lead a 3-person engineering/product team building operator dashboards, admin tools, destination/accommodation/activity data, travel requests, itinerary planning, accurate pricing, branded documents, quote email delivery, reusable content libraries, billing, and release workflows.
 
 I also contract with xAI Human Data on software-engineering model evaluation, reviewing AI-generated code across languages and domains to help improve coding-model quality.
 
@@ -53,7 +53,7 @@ A few things I’m proud of beyond the role titles:
 - Co-authored a Springer Nature Computer Science paper on responsible AI and interpretable machine learning.
 - Contributed to developer tools and AI/open-source ecosystems including LangChain, Vercel AI SDK, Editor.js, Redux Toolkit, MemGPT, Pytube, FastAPI, and related projects.
 - Published technical answers and references used by thousands of developers working with WebRTC, speech-to-text, and AI application patterns.
-- Serve as Vice President of the Ugandan Community in South Korea, supporting governance, embassy-facing communication, partnership strategy, and community engagement.
+- Serve as **Vice President of the Ugandan Community in South Korea**, supporting governance, embassy-facing communication, partnership strategy, and community engagement.
 
 My engineering philosophy is simple:
 
@@ -74,15 +74,15 @@ My work sits at the intersection of product judgment and deep engineering execut
 
 Right now I’m focused on two products:
 
-**HoverNotes** - a U.S. company and privacy-first AI video note-taking product that I operate remotely from Seoul. It turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows. I founded and built the product across the Chrome/Edge extension, Next.js web app, realtime video-in notes-out AI workflows, payments, analytics, localization, SEO, and production operations. As of June 2026, HoverNotes is doing over $10K/month in revenue with around 20K installs across Chrome and Edge.
+**HoverNotes** - a privacy-first AI video note-taking product. It turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows. I founded and built the product across the Chrome/Edge extension, Next.js web app, realtime video-in notes-out AI workflows, payments, analytics, localization, SEO, and production operations. As of June 2026, HoverNotes is doing over $10K/month in revenue with around 20K installs across Chrome and Edge.
 
-**Quest** - a Kampala, Uganda-based safari quotation platform for tour operators that I work on remotely from Seoul. I co-founded Quest as CTO and lead a 3-person engineering/product team building operator dashboards, admin tools, travel requests, itinerary planning, pricing, branded PDF generation, quote email delivery, content libraries, billing, and release workflows.
+**Quest** - a Kampala, Uganda-based travel planning software for tour and travel companies that I work on remotely from Seoul. I co-founded Quest as CTO and lead a 3-person engineering/product team building operator dashboards, admin tools, destination/accommodation/activity data, travel requests, itinerary planning, accurate pricing, branded documents, quote email delivery, reusable content libraries, billing, and release workflows.
 
 I also contract with xAI Human Data on software-engineering model evaluation, reviewing AI-generated code across languages and domains to help improve coding-model quality.
 
 Previously, I was a Lead AI Engineer at Bebridge/Slid, a 50K+ MAU EdTech platform, doing principal-level AI engineering work: setting technical direction, solving hard AI/product problems, and shipping LLM-powered auto-notes, AI chat, semantic search, transcript correction, mobile AI workflows, real-time transcription, and cross-platform product systems.
 
-Beyond role titles, I’ve co-authored a Springer Nature Computer Science paper on responsible AI, contributed to developer tools and AI/open-source ecosystems, published technical answers used by thousands of developers, and serve as Vice President of the Ugandan Community in South Korea.
+Beyond role titles, I’ve co-authored a Springer Nature Computer Science paper on responsible AI, contributed to developer tools and AI/open-source ecosystems, published technical answers used by thousands of developers, and serve as **Vice President of the Ugandan Community in South Korea**.
 
 My engineering philosophy: put users at the center, move fast but measure real behavior, build the whole loop from product to reliability, and stay calm under ambiguity.
 
@@ -96,9 +96,9 @@ I’m a technical founder, CTO, and AI/full-stack engineer building products whe
 
 Currently, I’m focused on **HoverNotes** and **Quest**.
 
-At HoverNotes, I founded and built a U.S. company and privacy-first AI video note-taking product with over $10K/month revenue and around 20K Chrome/Edge installs, working remotely from Seoul. The product turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows.
+At HoverNotes, I founded and built a privacy-first AI video note-taking product with over $10K/month revenue and around 20K Chrome/Edge installs. The product turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows.
 
-At Quest, I’m CTO and co-founder, leading a 3-person engineering/product team building a Kampala, Uganda-based safari quotation platform for tour operators while working remotely from Seoul: requests, itineraries, pricing, branded PDFs, quote emails, content libraries, billing, and release workflows.
+At Quest, I’m CTO and co-founder, leading a 3-person engineering/product team building Kampala, Uganda-based travel planning software for tour and travel companies while working remotely from Seoul: destination/accommodation/activity data, requests, itineraries, pricing, branded documents, quote emails, content libraries, billing, and release workflows.
 
 I also contract with xAI Human Data on software-engineering model evaluation, reviewing AI-generated code across languages and domains to improve coding-model quality.
 

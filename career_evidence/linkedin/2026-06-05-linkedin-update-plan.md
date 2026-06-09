@@ -18,13 +18,13 @@
 
 Hamza should not look like a generic AI engineer with a long tool list. The strongest LinkedIn story is:
 
-> Technical founder and CTO who builds AI products for real workflows: video learning, safari quotations, and coding-model evaluation. Strong across product strategy, full-stack systems, LLM workflows, browser extensions, payments, document generation, and production reliability.
+> Technical founder and CTO who builds AI products for real workflows: video learning, travel plans and quotes, and coding-model evaluation. Strong across product strategy, full-stack systems, LLM workflows, browser extensions, payments, automated document generation, and production reliability.
 
 The profile should make three things obvious:
 
 1. Current work is HoverNotes + Quest.
 2. HoverNotes is real and monetized: `$10K+/month revenue`, around `20K Chrome/Edge installs`.
-3. Quest is real CTO/co-founder work: leading a `3-person engineering/product team`, building B2B SaaS and PDF infrastructure for safari operators.
+3. Quest is real CTO/co-founder work: leading a `3-person engineering/product team`, building travel planning software for tour and travel companies in Uganda.
 
 ## Headline Options
 
@@ -52,7 +52,7 @@ Right now I spend most of my time on two products:
 
 **HoverNotes** - a privacy-first AI video note-taking product that turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows. I founded and built the product across the Chrome/Edge extension, Next.js web app, AI note-generation flows, payments, analytics, localization, SEO, and production operations. As of June 2026, HoverNotes is doing over $10K/month in revenue with around 20K Chrome/Edge installs.
 
-**Quest** - a safari quotation platform for tour operators. I co-founded Quest as CTO and lead a 3-person engineering/product team building the platform: operator dashboards, admin tools, travel requests, itinerary planning, pricing, branded PDF generation, quote email delivery, content libraries, billing, and release workflows.
+**Quest** - travel planning software for tour and travel companies in Uganda. I co-founded Quest as CTO and lead a 3-person engineering/product team building the platform: operator dashboards, admin tools, destination/accommodation/activity data, travel requests, itinerary planning, accurate pricing, branded documents, quote email delivery, reusable content libraries, billing, and release workflows.
 
 I also contract with xAI Human Data on software-engineering model evaluation, reviewing AI-generated code across languages and domains to help improve coding-model quality.
 
@@ -70,7 +70,7 @@ My current focus is HoverNotes and Quest.
 
 At **HoverNotes**, I founded and built a privacy-first AI video note-taking SaaS with over $10K/month revenue and around 20K Chrome/Edge installs. The product spans a Chrome/Edge extension, Next.js web app, local-first Obsidian workflows, AI note-generation pipelines, regional payments, analytics, SEO/i18n, and production reliability.
 
-At **Quest**, I’m CTO and co-founder, leading a 3-person team building a Next.js safari quotation platform for Uganda-based tour operators. The platform includes operator/admin workflows, structured destination/activity/hotel/transport data, quote pricing, PDF preview/export, Resend quote email delivery, Stripe billing, Cloudflare R2 storage, and a TypeScript/Express + Puppeteer PDF service.
+At **Quest**, I’m CTO and co-founder, leading a 3-person team building a Next.js travel planning platform for tour and travel companies in Uganda. The platform includes operator/admin workflows, structured destination/activity/hotel/transport data across Uganda and East Africa, itinerary planning, quote pricing, PDF preview/export, Resend quote email delivery, Stripe billing, Cloudflare R2 storage, and a TypeScript/Express + Puppeteer PDF service.
 
 I also work with xAI Human Data as a software-engineering specialist / AI Tutor, evaluating AI-generated code for model training and benchmarking across Python, TypeScript, Java, Go, Rust, C/C++, databases, distributed systems, AI/ML, security, and performance domains.
 
@@ -92,7 +92,7 @@ Full-time
 
 Location:
 
-U.S. company; remote from Seoul
+Remote, United States
 
 Dates:
 
@@ -114,7 +114,7 @@ Key work:
 
 Suggested skills:
 
-Next.js, TypeScript, React, Chrome Extensions, Browser Extensions, OpenAI API, LangGraph, FastAPI, Stripe, Razorpay, PostHog, Obsidian, Product Analytics, SEO
+Next.js, TypeScript, React, Chrome Extensions, Browser Extensions, LLM APIs, LangGraph, FastAPI, Stripe, Razorpay, PostHog, Obsidian, Product Analytics, SEO
 
 ### Quest
 
@@ -136,16 +136,16 @@ Jan 2026 - Present if you want to match the xAI parser inference; otherwise 2026
 
 Description:
 
-Co-founded Quest as CTO and lead a 3-person engineering/product team building a Kampala, Uganda-based safari quotation platform for Uganda-based tour operators while working remotely from Seoul.
+Co-founded Quest as CTO and lead a 3-person engineering/product team building a Kampala, Uganda-based travel planning platform for tour and travel companies while working remotely from Seoul.
 
-Quest turns operator quoting from spreadsheets, scattered assets, and manual documents into a structured workflow for travel requests, itineraries, quote pricing, branded PDFs, quote email delivery, billing, analytics, and content libraries.
+Quest turns trip preparation from spreadsheets, scattered destination/accommodation data, and manual documents into a structured workflow for travel requests, itineraries, accurate pricing, branded documents, quote email delivery, billing, analytics, and reusable content/marketing libraries.
 
 Key work:
 
 - Lead product and platform architecture across operator dashboards, Quest admin tools, travel requests, tourists, content libraries, quote building, analytics, billing, company settings, and role-aware access.
-- Built structured domain workflows for destinations, activities, hotels/lodges, room rates, transport, geography, company content, vehicles, staff, reviews, and per-company settings.
+- Built structured domain workflows for destinations, activities, hotels/lodges, room rates, transport, entry fees, geography, company content, vehicles, staff, reviews, and per-company settings.
 - Designed quote economics for real operator constraints, including USD/UGX exchange rates, transport fuel conversion, room pricing, service fees, and quote-level cost summaries.
-- Built the document delivery system as a core product surface: branded A4 safari PDFs, page previews, edit overrides, Cloudflare R2 storage, Resend quote emails, merge tags, sender flows, and PDF attachments.
+- Built the document delivery system as a core product surface: branded A4 trip documents and quote PDFs, page previews, edit overrides, Cloudflare R2 storage, Resend quote emails, merge tags, sender flows, and PDF attachments.
 - Designed the Free + Pro launch model with company-level Stripe subscriptions, full-access trials, billing settings, plan badges, and output-level gates for clean PDFs, email sending, and branding.
 - Established Vercel QA/release workflows and deployed PDF infrastructure with Docker/Hetzner.
 
@@ -165,7 +165,7 @@ Contract
 
 Location:
 
-Kampala, Uganda; remote from Seoul
+Remote, Kampala (Uganda)
 
 Dates:
 
@@ -296,7 +296,7 @@ Dates:
 
 Description:
 
-Serve as Vice President of the Ugandan Community in South Korea, supporting governance, embassy-facing communication, partnership strategy, and community engagement.
+Serve as **Vice President of the Ugandan Community in South Korea**, supporting governance, embassy-facing communication, partnership strategy, and community engagement.
 
 Key work:
 
@@ -314,7 +314,7 @@ Add 3-5 featured items if possible:
 
 1. HoverNotes website or Chrome Web Store listing.
 2. Quest website or a public product/demo page if available.
-3. Resume PDF: `2026-06-05-Hamza-Kyamanywa-Resume-Technical-Draft.pdf`.
+3. Resume PDF: `2026-06-09-Hamza-Kyamanywa-Resume-Technical-Draft.pdf`.
 4. Selected open-source contribution or GitHub profile.
 5. Springer Nature paper or research publication.
 
@@ -340,7 +340,7 @@ Additional skills worth keeping:
 - FastAPI
 - LangChain
 - LangGraph
-- OpenAI API
+- LLM APIs
 - Whisper
 - RAG
 - Vector Search

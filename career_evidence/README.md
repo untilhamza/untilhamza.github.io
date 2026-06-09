@@ -27,7 +27,7 @@ Before editing the site or resume:
 - `_TEMPLATE.md` - template for adding future roles/projects.
 - `linkedin/` - LinkedIn-specific profile, About, experience, skills, and Featured section drafts.
 - `resume_ai_extractions/` - diagnostic notes on how AI/ATS/platform parsers interpret generated resumes.
-- `roles/quest-platform.md` - Quest safari quotation platform work.
+- `roles/quest-platform.md` - Quest travel planning platform work.
 - `roles/quest-pdf-service.md` - Quest PDF generation service work.
 - `roles/xai-human-data.md` - xAI Human Data / AI Tutor software engineering contract work.
 - `roles/hovernotes.md` - HoverNotes founder work.

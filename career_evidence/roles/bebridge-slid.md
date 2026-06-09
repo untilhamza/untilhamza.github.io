@@ -46,7 +46,7 @@ Slid is an EdTech platform for learning from online videos. Existing site/resume
 
 - Problem: Learners needed automatic notes from video lectures.
 - What Hamza built: LLM/Whisper-based automatic note generation from video.
-- Technologies: OpenAI API, Whisper, Python/FastAPI, AWS, LangGraph.
+- Technologies: LLM APIs, Whisper, Python/FastAPI, AWS, LangGraph.
 - Result: Existing resume claims 12% video engagement lift and 25% overall retention boost.
 - Evidence: Existing resume/CV and project pages. Metrics should be confirmed before heavy external use.
 
@@ -102,7 +102,7 @@ Slid is an EdTech platform for learning from online videos. Existing site/resume
 
 - Frontend/mobile: React, React Native, Chrome Extension, Electron.
 - Backend: Python, FastAPI, Node.js.
-- AI: OpenAI API, Whisper, LangChain, LangGraph, Pinecone, embeddings.
+- AI: LLM APIs, Whisper, LangChain, LangGraph, Pinecone, embeddings.
 - Realtime/media: WebRTC, Socket.io, FFmpeg.
 - Cloud: AWS Lambda, EventBridge, S3, Cognito.
 - Payments: Stripe, Payple, Apple In-App Purchase needs confirmation.

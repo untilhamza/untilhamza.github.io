@@ -1,6 +1,6 @@
 ---
 name: Hamza Kyamanywa
-draft_date: 2026-06-05
+draft_date: 2026-06-09
 status: Technical draft for review
 variant: technical
 ---
@@ -13,21 +13,21 @@ LinkedIn: https://www.linkedin.com/in/untilhamza/ | GitHub: https://github.com/u
 
 ## Professional Summary
 
-Technical founder, CTO, and senior AI product engineer focused on HoverNotes and Quest, with 4+ years building AI-powered education, productivity, travel, and workflow systems. Founded HoverNotes, now over $10K/month revenue with around 20K Chrome/Edge installs, and co-founded Quest as CTO, leading a 3-person team building safari quotation software and PDF infrastructure. Also contracted with xAI Human Data on software-engineering model evaluation. Strong in TypeScript/React/Next.js, Python/FastAPI, browser extensions, LLM systems, payments, analytics, document generation, and production reliability. Fluent in Korean and English.
+Technical founder, CTO, and senior AI product engineer focused on HoverNotes and Quest, with 4+ years building AI-powered education, productivity, travel, and workflow systems. Founded HoverNotes, now over $10K/month revenue with around 20K Chrome/Edge installs, and co-founded Quest as CTO, leading a 3-person team building travel planning software for tour and travel companies in Uganda. Also contracted with xAI Human Data on software-engineering model evaluation. Strong in TypeScript/React/Next.js, Python/FastAPI, browser extensions, LLM systems, payments, analytics, automated document generation, and production reliability. Fluent in Korean and English.
 
 ## Technical Skills
 
-**AI/LLM:** OpenAI API, Whisper, LangChain, LangGraph, RAG, vector search, prompt engineering, multimodal AI workflows  
+**AI/LLM:** LLM APIs, Whisper, LangChain, LangGraph, RAG, vector search, prompt engineering, multimodal AI workflows  
 **Frontend/Product:** Next.js, React, TypeScript, React Native, Tailwind CSS, Lexical, Chrome/Edge extensions, Obsidian/local-first workflows  
 **Backend/Data:** Python, FastAPI, Node.js, Express, PostgreSQL, Supabase, Drizzle ORM, MongoDB, Redis  
 **Infrastructure/Ops:** AWS Lambda, S3, EventBridge, Docker, Vercel, Cloudflare R2, Hetzner, CI/CD, PostHog, Sentry  
-**Business Systems:** Stripe, Razorpay, webhooks, subscriptions, trials, pricing, credits, PDF/document generation  
+**Business Systems:** Stripe, Razorpay, webhooks, subscriptions, trials, pricing, credits, PDF/automated document generation  
 **Languages:** Korean (TOPIK 5), English, Luganda
 
 ## Professional Experience
 
 ### Technical Founder & CEO
-**HoverNotes | AI video note-taking SaaS | U.S. company; remote from Seoul | Jul 2025 - Present**
+**HoverNotes | AI video note-taking SaaS | Remote, United States | Jul 2025 - Present**
 
 - Founded and built HoverNotes, a privacy-first AI video note-taking product with over $10K/month revenue and around 20K installs across Chrome and Edge.
 - Built the product across a Chrome/Edge extension, Next.js web app, local-first Obsidian workflows, payments, analytics, SEO/i18n, and AI note generation.
@@ -38,18 +38,18 @@ Technical founder, CTO, and senior AI product engineer focused on HoverNotes and
 - Used product analytics to diagnose AI Notes activation, paywall behavior, platform-specific drop-off, media payload size, warnings, and active-session health.
 
 ### CTO & Co-founder
-**Quest | Safari quotation platform and PDF infrastructure | Kampala, Uganda; remote from Seoul | 2026 - Present**
+**Quest | Travel planning software and documentation infrastructure | Remote, Kampala (Uganda) | 2026 - Present**
 
-- Co-founded Quest and lead technology plus a 3-person engineering/product team for a Next.js safari quotation platform for Uganda-based tour operators.
-- Built operator workflows for travel requests, tourists, itinerary planning, quote generation, PDF preview/export, quote email delivery, billing, analytics, and content libraries.
+- Co-founded Quest and lead technology plus a 3-person engineering/product team for a Next.js travel planning platform for tour and travel companies in Uganda.
+- Built operator workflows for travel requests, tourists, destination/accommodation/activity selection, itinerary planning, accurate pricing, quote generation, PDF preview/export, quote email delivery, billing, analytics, and content libraries.
 - Designed role-aware platform surfaces for Quest admins and tour operators using Next.js App Router, TypeScript, NextAuth v5, PostgreSQL/Supabase, and Drizzle ORM.
-- Implemented structured data workflows for destinations, activities, hotels/lodges, room rates, transport, companies, users, and geography to support more accurate quote operations.
-- Built a TypeScript/Express PDF generation service that converts quote JSON into branded A4 safari PDFs with Handlebars, Puppeteer, Cloudflare R2, per-page previews, and an in-browser pagination engine.
+- Implemented structured data workflows for destinations, activities, hotels/lodges, room rates, transport, entry fees, companies, travelers, users, and geography to support more accurate travel planning and quote operations.
+- Built a TypeScript/Express PDF generation service that converts travel quote JSON into branded A4 trip documents and quote PDFs with Handlebars, Puppeteer, Cloudflare R2, per-page previews, and an in-browser pagination engine.
 - Designed Quest's Free + Pro launch model with company-level Stripe subscriptions, full-access trials, billing settings, plan badges, and output-level gates for clean PDFs, email, and branding.
 - Established Vercel QA/release workflows across feature branches, personal QA branches, shared QA, release branches, and production; deployed PDF infrastructure via Docker/Hetzner.
 
 ### Software Engineering Specialist, Human Data / AI Tutor - Software Engineering (Expert)
-**xAI / Remote Technology Services | Contract | Remote, USA | May 2026 - Present**
+**xAI / Remote Technology Services | Contract | Remote, United States | May 2026 - Present**
 
 - Contracted with xAI's Human Data software engineering track to create and review high-quality coding data for training, benchmarking, and advancing large language models.
 - Evaluate AI-generated code across correctness, maintainability, performance, security, test coverage, and alignment with task requirements.
@@ -89,7 +89,7 @@ Technical founder, CTO, and senior AI product engineer focused on HoverNotes and
 
 - Contributed to developer tools and AI/open-source ecosystems including LangChain, Vercel AI SDK, Editor.js, Redux Toolkit, MemGPT, Pytube, FastAPI, and related projects.
 - Published widely used technical answers and references for WebRTC, speech-to-text, AI application patterns, and production integration issues.
-- Served as Vice President of the Ugandan Community in South Korea, supporting governance, embassy-facing communication, partnership strategy, and community engagement.
+- Served as **Vice President of the Ugandan Community in South Korea**, supporting governance, embassy-facing communication, partnership strategy, and community engagement.
 
 ## Education
 

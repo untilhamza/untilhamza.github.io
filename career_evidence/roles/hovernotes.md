@@ -7,7 +7,7 @@
 - Organization/client: HoverNotes, U.S. company
 - Role/title: Technical Founder and CEO
 - Period: Jul 2025 - Present
-- Location: U.S. company; operated remotely from Seoul, South Korea
+- Location: Remote, United States
 - Source repos:
   - `private-local-workspace/hovernotes/hover-notes-web-app`
   - Remote: `https://github.com/HoverNotes/hover-notes-web-app.git`

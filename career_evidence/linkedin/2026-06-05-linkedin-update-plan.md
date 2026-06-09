@@ -314,7 +314,7 @@ Add 3-5 featured items if possible:
 
 1. HoverNotes website or Chrome Web Store listing.
 2. Quest website or a public product/demo page if available.
-3. Resume PDF: `2026-06-05-Hamza-Kyamanywa-Resume-Technical-Draft.pdf`.
+3. Resume PDF: `2026-06-09-Hamza-Kyamanywa-Resume-Technical-Draft.pdf`.
 4. Selected open-source contribution or GitHub profile.
 5. Springer Nature paper or research publication.
 

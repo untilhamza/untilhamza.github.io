@@ -1,6 +1,6 @@
 ---
 name: Hamza Kyamanywa
-draft_date: 2026-06-05
+draft_date: 2026-06-09
 status: Technical draft for review
 variant: technical
 ---

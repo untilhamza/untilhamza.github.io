@@ -13,7 +13,7 @@ I’m a technical founder, CTO, and AI/full-stack engineer building products whe
 
 Right now I spend most of my time on two products:
 
-**HoverNotes** - a U.S. company and privacy-first AI video note-taking product that I operate remotely from Seoul. It turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows. I founded and built the product across the Chrome/Edge extension, Next.js web app, realtime video-in notes-out AI workflows, payments, analytics, localization, SEO, and production operations. As of June 2026, HoverNotes is doing over $10K/month in revenue with around 20K installs across Chrome and Edge.
+**HoverNotes** - a privacy-first AI video note-taking product. It turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows. I founded and built the product across the Chrome/Edge extension, Next.js web app, realtime video-in notes-out AI workflows, payments, analytics, localization, SEO, and production operations. As of June 2026, HoverNotes is doing over $10K/month in revenue with around 20K installs across Chrome and Edge.
 
 **Quest** - a Kampala, Uganda-based travel planning software for tour and travel companies that I work on remotely from Seoul. I co-founded Quest as CTO and lead a 3-person engineering/product team building the platform: operator dashboards, admin tools, destination/accommodation/activity data, travel requests, itinerary planning, accurate pricing, branded documents, quote email delivery, reusable content libraries, billing, and release workflows.
 
@@ -40,7 +40,7 @@ My work sits at the intersection of product judgment and deep engineering execut
 
 Right now I’m focused on two products:
 
-**HoverNotes** - a U.S. company and privacy-first AI video note-taking product that I operate remotely from Seoul. It turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows. I founded and built the product across the Chrome/Edge extension, Next.js web app, realtime video-in notes-out AI workflows, payments, analytics, localization, SEO, and production operations. As of June 2026, HoverNotes is doing over $10K/month in revenue with around 20K installs across Chrome and Edge.
+**HoverNotes** - a privacy-first AI video note-taking product. It turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows. I founded and built the product across the Chrome/Edge extension, Next.js web app, realtime video-in notes-out AI workflows, payments, analytics, localization, SEO, and production operations. As of June 2026, HoverNotes is doing over $10K/month in revenue with around 20K installs across Chrome and Edge.
 
 **Quest** - a Kampala, Uganda-based travel planning software for tour and travel companies that I work on remotely from Seoul. I co-founded Quest as CTO and lead a 3-person engineering/product team building operator dashboards, admin tools, destination/accommodation/activity data, travel requests, itinerary planning, accurate pricing, branded documents, quote email delivery, reusable content libraries, billing, and release workflows.
 
@@ -74,7 +74,7 @@ My work sits at the intersection of product judgment and deep engineering execut
 
 Right now I’m focused on two products:
 
-**HoverNotes** - a U.S. company and privacy-first AI video note-taking product that I operate remotely from Seoul. It turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows. I founded and built the product across the Chrome/Edge extension, Next.js web app, realtime video-in notes-out AI workflows, payments, analytics, localization, SEO, and production operations. As of June 2026, HoverNotes is doing over $10K/month in revenue with around 20K installs across Chrome and Edge.
+**HoverNotes** - a privacy-first AI video note-taking product. It turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows. I founded and built the product across the Chrome/Edge extension, Next.js web app, realtime video-in notes-out AI workflows, payments, analytics, localization, SEO, and production operations. As of June 2026, HoverNotes is doing over $10K/month in revenue with around 20K installs across Chrome and Edge.
 
 **Quest** - a Kampala, Uganda-based travel planning software for tour and travel companies that I work on remotely from Seoul. I co-founded Quest as CTO and lead a 3-person engineering/product team building operator dashboards, admin tools, destination/accommodation/activity data, travel requests, itinerary planning, accurate pricing, branded documents, quote email delivery, reusable content libraries, billing, and release workflows.
 
@@ -96,7 +96,7 @@ I’m a technical founder, CTO, and AI/full-stack engineer building products whe
 
 Currently, I’m focused on **HoverNotes** and **Quest**.
 
-At HoverNotes, I founded and built a U.S. company and privacy-first AI video note-taking product with over $10K/month revenue and around 20K Chrome/Edge installs, working remotely from Seoul. The product turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows.
+At HoverNotes, I founded and built a privacy-first AI video note-taking product with over $10K/month revenue and around 20K Chrome/Edge installs. The product turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows.
 
 At Quest, I’m CTO and co-founder, leading a 3-person engineering/product team building Kampala, Uganda-based travel planning software for tour and travel companies while working remotely from Seoul: destination/accommodation/activity data, requests, itineraries, pricing, branded documents, quote emails, content libraries, billing, and release workflows.
 

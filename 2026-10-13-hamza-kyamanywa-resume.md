@@ -16,7 +16,6 @@ Technical founder and full-stack AI engineer based in Seoul. A zero-to-one produ
 
 HoverNotes | AI video note-taking SaaS | Remote, United States | Jul 2025 - Present
 - Founded and built a privacy-first AI tool for online video learners, with over $10K/month revenue and around 20K Chrome/Edge installs as of June 2026.
-- Returned to full-time focus on HoverNotes after completing the SpaceXAI contract in September 2026.
 - Built the product across Chrome/Edge extension workflows, a Next.js web app, local-first Obsidian workflows, payments, analytics, SEO/i18n, and AI note generation.
 - Designed a multimodal video-in, notes-out pipeline where the extension captures realtime video learning context, the web app deduplicates/ranks visual frames, and the backend generates structured notes from transcript plus selected visual context.
 - Implemented regional monetization across Stripe for global card payments, China one-time passes via WeChat Pay/Alipay, and India payments via Razorpay/UPI.

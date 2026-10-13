@@ -3,7 +3,7 @@ layout: page
 title: Payment & Pricing System
 description: Multi-gateway payment system with subscription management and privilege control
 img:
-importance: 11
+importance: 21
 category: work
 ---
 

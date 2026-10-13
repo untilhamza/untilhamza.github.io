@@ -4,8 +4,8 @@ permalink: /cv/
 title: resume
 nav: true
 nav_order: 4
-cv_pdf: 2026-06-05-Hamza-Kyamanywa-Resume-Technical-Draft.pdf
-description: #NOTE: This is a description of the page. You can modify it in 'pages/_cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: 2026-10-13-Hamza-Kyamanywa-Resume.pdf
+description: Technical founder, zero-to-one product builder, and full-stack AI engineer based in Seoul. Updated October 2026.
 toc:
   sidebar: left
 ---

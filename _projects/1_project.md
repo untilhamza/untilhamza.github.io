@@ -1,7 +1,7 @@
 ---
 layout: page
 title: HoverNotes
-description: Privacy-first AI video note-taking product with 20K Chrome/Edge installs and over $10K/month revenue
+description: Technical founder building privacy-first AI notes for online video learners and local Obsidian workflows
 img:
 importance: 1
 category: work
@@ -11,10 +11,10 @@ category: work
   <h3>Overview</h3>
   <p>HoverNotes is a U.S. company and privacy-first AI video note-taking product that I operate remotely from Seoul. It turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows. I founded and built the product across browser-extension workflows, a Next.js web app, AI note-generation systems, payments, analytics, localization, SEO, and production operations.</p>
 
-  <h3>Current Scale</h3>
+  <h3>June 2026 Milestone</h3>
   <ul>
     <li>Over <strong>$10K/month revenue</strong> as of June 2026.</li>
-    <li>Around <strong>20K installs</strong> across Chrome and Edge.</li>
+    <li>Around <strong>20K installs</strong> across Chrome and Edge as of June 2026.</li>
     <li>Global monetization through Stripe, WeChat Pay/Alipay one-time passes, and Razorpay/UPI.</li>
   </ul>
 

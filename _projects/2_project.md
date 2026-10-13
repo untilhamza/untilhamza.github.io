@@ -3,7 +3,7 @@ layout: page
 title: Auto Notes System
 description: Pioneered AI-powered auto note generation from video content at Slid
 img: # assets/img/12.jpg
-importance: 2
+importance: 12
 category: work
 ---
 

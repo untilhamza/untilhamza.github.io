@@ -5,7 +5,7 @@
 - Evidence status: Repo-backed working draft; user-confirmed revenue/install metrics and U.S. company setup as of 2026-06-05/06
 - Public name: HoverNotes
 - Organization/client: HoverNotes, U.S. company
-- Role/title: Technical Founder and CEO
+- Role/title: Technical Founder (current public preference confirmed 2026-10-13)
 - Period: Jul 2025 - Present
 - Location: Remote, United States
 - Source repos:
@@ -15,6 +15,8 @@
 - Existing public artifacts: `_pages/about.md`, `_data/cv.yml`, `2025-10-25-hamza-kyamanywa-openai-resume.md`
 
 ## One-Line Positioning
+
+Current positioning confirmed by Hamza on 2026-10-13: technical founder, back focused full-time on HoverNotes after the SpaceXAI contract ended September 30, 2026. Describe HoverNotes as a privacy-first AI tool for online video learners. Revenue and install figures below are June 2026 historical evidence, not current figures.
 
 Founded and built HoverNotes, a U.S. company and privacy-first AI video note-taking product operated remotely from Seoul, with around 20K Chrome/Edge installs and over $10K/month revenue as of June 5, 2026, turning online videos into structured notes through a browser extension, a Next.js web app, local-first Obsidian workflows, and multimodal AI note generation.
 
@@ -166,7 +168,7 @@ The local web app repo is currently a production Next.js app (`hover-notes`, ver
 
 ## Needs Confirmation
 
-- Current status of HoverNotes.
+- Current status resolved 2026-10-13: active, Hamza's full-time focus.
 - Exact revenue wording and whether to publish publicly: over $10K/month revenue, not MRR because annual subscriptions are included.
 - Exact Chrome/Edge install count and whether to round publicly as 20K+ installs.
 - Exact job title to use publicly: `Technical Founder and CEO`, `Founder`, `Founder/Engineer`, or another framing.
@@ -174,4 +176,4 @@ The local web app repo is currently a production Next.js app (`hover-notes`, ver
 - Extension repo path, backend repo path, and whether they can be named.
 - Backend provider details: OpenAI/GPT-4, Whisper/Groq, LangChain, LangGraph, FastAPI.
 - Whether internal funnel metrics can be used publicly, and at what precision.
-- Whether period should still be `Present`.
+- Period confirmed current as of 2026-10-13; original founding date retained.

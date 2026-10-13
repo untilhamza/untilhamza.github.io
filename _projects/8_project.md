@@ -3,7 +3,7 @@ layout: page
 title: Remote Capture System
 description: Server-side video screenshot system enabling mobile video processing
 img:
-importance: 8
+importance: 18
 category: work
 ---
 

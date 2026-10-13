@@ -3,7 +3,7 @@ layout: page
 title: AI Sliddy Chat
 description: Built industry-first AI chat for notes years before Notion AI and competitors
 img:
-importance: 4
+importance: 14
 category: work
 ---
 

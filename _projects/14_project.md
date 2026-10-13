@@ -3,7 +3,7 @@ layout: page
 title: Extension Communication System
 description: Sophisticated cross-platform messaging between browser extension, web app, and desktop
 img:
-importance: 14
+importance: 24
 category: work
 ---
 

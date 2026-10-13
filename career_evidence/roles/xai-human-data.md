@@ -3,11 +3,11 @@
 ## Metadata
 
 - Evidence status: Verified from contract, user statement, and public xAI role posting; internal task details confidential
-- Public name: xAI Human Data - Software Engineering
-- Organization/client: xAI / Remote Technology Services
+- Public name: SpaceXAI - Grok Model Evaluation (formerly xAI)
+- Organization/client: SpaceXAI; original contract evidence names xAI / Remote Technology Services
 - Role/title: Software Engineering Specialist, Human Data / AI Tutor - Software Engineering (Expert)
-- Period: May 11, 2026 - Present
-- Location: Remote, United States
+- Period: May 11, 2026 - September 30, 2026
+- Location: Seoul, South Korea · Remote
 - Source workspace:
   - Private local workspace, not included in this repo.
 - Contract evidence:
@@ -18,7 +18,13 @@
 
 ## One-Line Positioning
 
-Contracted on xAI's Human Data software engineering track to create and review high-quality coding data for training, benchmarking, and improving large language models.
+Contracted with SpaceXAI on Grok model evaluation, reviewing AI-generated code and assessing how well it met real software-engineering requirements.
+
+## October 2026 Update
+
+- Verified by Hamza in this conversation on 2026-10-13: the contract ended September 30, 2026; public employer wording is SpaceXAI; Grok model evaluation may be mentioned publicly.
+- The live LinkedIn entry reviewed on 2026-10-13 was Software Engineer Specialist, Contract, May 2026, Seoul, South Korea, Remote. Its end date is now September 2026.
+- Historical xAI and Remote Technology Services wording below records the original contract and evidence, not a current role.
 
 ## Context
 
@@ -94,6 +100,6 @@ Internal task details should be treated as confidential and not copied into publ
 - Exact public title preference: `Software Engineering Specialist, Human Data`, `AI Tutor - Software Engineering (Expert)`, or both.
 - Whether to name `xAI` directly on the public resume, given contract/confidentiality posture.
 - Whether to mention `Remote Technology Services` as the contracting entity or omit it.
-- Whether to use `May 2026 - Present` or `May 11, 2026 - Present`.
+- End date resolved by Hamza on 2026-10-13: September 30, 2026. Use May 2026 - Sep 2026 in public month-based timelines.
 - How much of the coding-model evaluation workflow can be described publicly beyond the official role posting.
 - Location confirmed by user on 2026-06-06: remote, USA.

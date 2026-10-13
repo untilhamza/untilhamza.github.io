@@ -3,7 +3,7 @@ layout: page
 title: Textutor AI Platform
 description: Led technical architecture for AI-powered essay correction and grading system at GoGymi
 img: # assets/img/7.jpg
-importance: 3
+importance: 13
 category: work
 ---
 

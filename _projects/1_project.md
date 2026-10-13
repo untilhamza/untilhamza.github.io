@@ -11,9 +11,9 @@ category: work
   <h3>Overview</h3>
   <p>HoverNotes is a U.S. company and privacy-first AI video note-taking product that I operate remotely from Seoul. It turns online lectures, tutorials, and course videos into structured notes users can keep in their own Obsidian/Markdown workflows. I founded and built the product across browser-extension workflows, a Next.js web app, AI note-generation systems, payments, analytics, localization, SEO, and production operations.</p>
 
-  <h3>June 2026 Milestone</h3>
+  <h3>Growth Milestones</h3>
   <ul>
-    <li>Over <strong>$10K/month revenue</strong> as of June 2026.</li>
+    <li>Built and grew HoverNotes to <strong>five-figure MRR within its first year</strong>, owning product, engineering, and growth.</li>
     <li>Around <strong>20K installs</strong> across Chrome and Edge as of June 2026.</li>
     <li>Global monetization through Stripe, WeChat Pay/Alipay one-time passes, and Razorpay/UPI.</li>
   </ul>

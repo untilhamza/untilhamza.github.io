@@ -1,14 +1,14 @@
 - title: Professional Summary
   type: list
   contents:
-    - Founder-CTO and senior AI/full-stack engineer with <strong>4+ years building AI-powered education, productivity, travel, and workflow products</strong>. Currently building <strong>HoverNotes</strong>, a privacy-first AI video note-taking product with over <strong>$10K/month revenue</strong> and around <strong>20K Chrome/Edge installs</strong>, and co-founding <strong>Quest</strong> as CTO while leading a 3-person team building travel planning software for tour and travel companies in Uganda. Contracted with <strong>xAI Human Data</strong> on software-engineering model evaluation. Strong across <strong>TypeScript, React, Next.js, Python/FastAPI, PostgreSQL, browser extensions, LLM systems, payments, analytics, and document infrastructure</strong>. Fluent in Korean and English.
+    - Technical founder and full-stack AI engineer based in Seoul. A <strong>zero-to-one product builder with end-to-end ownership</strong>, turning ideas into usable products and refining them toward product-market fit through customer feedback and observed behavior. Currently focused full-time on <strong>HoverNotes</strong>, co-founder and CTO at <strong>Quest</strong>, founder of <strong>JonjaBird</strong>, and president of <strong>USKA</strong>. Previously contracted with <strong>SpaceXAI</strong> on Grok model evaluation. I now write all my code with AI agents.
 
 - title: Core Skills
   type: nested_list
   contents:
     - title: AI/LLM Systems
       items:
-        - LLM APIs, Whisper, LangChain, LangGraph, RAG, vector search, prompt engineering, multimodal AI workflows, coding-model evaluation
+        - AI-agent-assisted development, LLM APIs, Whisper, LangChain, LangGraph, RAG, vector search, prompt engineering, multimodal AI workflows, coding-model evaluation
     - title: Frontend & Product
       items:
         - Next.js, React, TypeScript, React Native, Tailwind CSS, Lexical, Chrome/Edge extensions, Obsidian/local-first workflows
@@ -23,16 +23,17 @@
         - Stripe, Razorpay, webhooks, subscriptions, trials, pricing, PDF/automated document generation, email delivery
     - title: Languages
       items:
-        - Korean (TOPIK 5), English, Luganda
+        - Korean (professional working proficiency, TOPIK 5), English and Luganda (native or bilingual)
 
 - title: Professional Experience
   type: time_table
   contents:
-    - title: Technical Founder & CEO
+    - title: Technical Founder
       institution: HoverNotes | AI video note-taking SaaS | Remote, United States
       year: Jul 2025 - Present
       description:
-        - Founded and built HoverNotes into a privacy-first AI video note-taking product with over <strong>$10K/month revenue</strong> and around <strong>20K installs</strong> across Chrome and Edge.
+        - Founded and built a privacy-first AI tool for online video learners, with over <strong>$10K/month revenue</strong> and around <strong>20K Chrome/Edge installs</strong> as of June 2026.
+        - Returned to full-time focus on HoverNotes after completing the SpaceXAI contract in September 2026.
         - Built the product across Chrome/Edge extension workflows, a Next.js web app, local-first Obsidian workflows, payments, analytics, SEO/i18n, and AI note generation.
         - Designed a multimodal video-in, notes-out pipeline where the extension captures realtime video learning context, the web app deduplicates/ranks visual frames, and the backend generates structured notes from transcript plus selected visual context.
         - Implemented regional monetization across Stripe for global card payments, China one-time passes via WeChat Pay/Alipay, and India payments via Razorpay/UPI.
@@ -40,7 +41,7 @@
 
     - title: CTO & Co-founder
       institution: Quest | Travel planning software for tour and travel companies | Remote, Kampala (Uganda) | questheaven.com
-      year: 2026 - Present
+      year: Dec 2025 - Present
       description:
         - Co-founded <a href="https://questheaven.com">Quest</a> as CTO and lead a 3-person engineering/product team building travel planning software for tour and travel companies in Uganda.
         - Built operator workflows for travel requests, destination/accommodation/activity selection, tourists, itinerary planning, accurate pricing, quote generation, travel documents, quote email delivery, billing, analytics, and content libraries.
@@ -49,13 +50,24 @@
         - Built branded A4 trip documents and quote PDFs, page previews, edit overrides, Cloudflare R2 storage, Resend quote emails, merge tags, sender flows, and PDF attachments.
         - Designed the Free + Pro launch model with company-level Stripe subscriptions, full-access trials, billing settings, plan badges, and output-level gates for clean PDFs, email sending, and branding.
 
-    - title: Software Engineering Specialist, Human Data / AI Tutor - Software Engineering
-      institution: xAI / Remote Technology Services | Contract | Remote, United States
-      year: May 2026 - Present
+    - title: Founder
+      institution: JonjaBird | Agentic AI mailroom | Seoul, South Korea
+      year: 2026 - Present
       description:
-        - Contracted with xAI's Human Data software-engineering track to create and review high-quality coding data for training, benchmarking, and improving large language models.
-        - Evaluate AI-generated code across correctness, maintainability, performance, security, test coverage, task alignment, and production plausibility.
-        - Rank model outputs using evidence from prompts, diffs, traces, responses, tests, and container checks, then write concise justifications for model training and benchmarking workflows.
+        - Founded <a href="https://jonjabird.com">JonjaBird</a>, an end-to-end agentic AI system connecting foreign inmates in Korea with families abroad, after seeing the need through USKA.
+        - Built agent-led mail intake, multimodal letter review, sender/recipient matching, private-audience separation, correspondence routing, and service-request handling.
+        - Connected the agent to Korea Post through browser automation for outgoing letters, with postal tracking and delivery status flowing back to the member portal.
+        - Built the authenticated operations API and CLI, persistent agent skills, scheduled queue processing, and exception handling; application code enforces recipient access and payment state.
+        - Created a repeatable mailroom benchmark using fictional shifts with real agent skills and tools, scoring workflow outcomes and recording cost and time to compare models and catch regressions.
+        - Built the member/staff portal, private document libraries, Python/WeasyPrint print packets, one-time Stripe Checkout, and private storage supporting the agent's work.
+
+    - title: Software Engineer Specialist
+      institution: SpaceXAI (formerly xAI) | Contract | Seoul, South Korea, Remote
+      year: May 2026 - Sep 2026
+      description:
+        - Contracted on Grok model evaluation, reviewing AI-generated code against real software-engineering requirements.
+        - Evaluated correctness, maintainability, performance, security, and alignment with task requirements.
+        - Wrote evidence-grounded assessments of model-output quality across programming languages and domains.
 
     - title: Senior Full Stack Engineer / Freelance Technical Lead
       institution: GoGymi / TexTutor | AI EdTech SaaS | Remote, Switzerland
@@ -94,19 +106,22 @@
       institution: Korea University, Seoul
       year: Mar 2019 - Feb 2023
       description:
-        - <strong>GPA:</strong> 4.02/4.5, Magna Cum Laude
+        - <strong>GPA:</strong> 4.02/4.5, Cum Laude
         - <strong>Scholarships:</strong> Global Korea Scholarship and Ugandan Government Scholarship
+        - Came to Korea on the Global Korea Scholarship in 2018 and reached TOPIK 5 after eight months of learning Korean.
         - <strong>Publication:</strong> Co-authored "Responsible Music Genre Classification using Interpretable Model-agnostic Visual Explainers," Springer Nature Computer Science.
 
 - title: Leadership & Community
   type: time_table
   contents:
-    - title: Vice President
-      institution: Ugandan Community in South Korea
-      year: 2026 - Present
+    - title: President
+      institution: Ugandans in South Korea Association (USKA)
+      year: Aug 2026 - Present
       description:
-        - Support governance, embassy-facing communication, partnership strategy, and community engagement for the Ugandan diaspora association in South Korea.
+        - Lead <a href="https://ugkorea.org">USKA</a>, supporting community welfare, governance, embassy-facing communication, and Uganda-Korea connections.
+        - Previously served as vice president before taking over as president in 2026.
         - Helped formalize leadership values and governance materials around respect, servant leadership, integrity, transparency, and accountability.
+        - Community work led to founding JonjaBird to help foreign inmates in Korea communicate with their families abroad.
 
 - title: Open Source & Developer Community
   type: list

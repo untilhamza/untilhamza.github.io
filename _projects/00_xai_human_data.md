@@ -1,24 +1,23 @@
 ---
 layout: page
-title: xAI Human Data - Software Engineering
-description: Contract software-engineering model evaluation work for coding-model training and benchmarking
+title: SpaceXAI - Grok Model Evaluation
+description: Completed software-engineering model evaluation contract, May to September 2026
 img:
-importance: 3
+importance: 4
 category: work
 ---
 
 <div>
   <h3>Overview</h3>
-  <p>I contract with xAI's Human Data software-engineering track to create and review high-quality coding data for training, benchmarking, and improving large language models.</p>
+  <p>From May to September 2026, I contracted with SpaceXAI (formerly xAI) on Grok model evaluation, reviewing AI-generated code and assessing how well it met real software-engineering requirements.</p>
 
   <h3>Work Scope</h3>
   <ul>
-    <li>Evaluate AI-generated code across correctness, maintainability, performance, security, test coverage, task alignment, and production plausibility.</li>
-    <li>Rank model outputs using evidence from prompts, diffs, traces, responses, tests, and container checks.</li>
-    <li>Write concise, evidence-grounded justifications for model training and benchmarking workflows.</li>
-    <li>Review coding tasks across Python, TypeScript/JavaScript, Java, Go, Rust, C/C++, databases, distributed systems, AI/ML, security, and performance domains.</li>
+    <li>Evaluated AI-generated code for correctness, maintainability, performance, security, and alignment with requirements.</li>
+    <li>Reviewed software-engineering model outputs and wrote evidence-grounded assessments of their quality.</li>
+    <li>Worked across multiple programming languages and domains, drawing on production engineering experience.</li>
   </ul>
 
   <h3>Why It Matters</h3>
-  <p>This work sits close to the quality layer of AI coding systems: identifying which outputs actually satisfy real software-engineering tasks, why they work or fail, and how evaluation evidence should be grounded in code behavior rather than vibes.</p>
+  <p>The work applied production engineering judgment to coding-model quality: checking whether generated software satisfied the task and explaining why it worked or failed.</p>
 </div>

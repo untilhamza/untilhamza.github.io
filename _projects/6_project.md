@@ -3,7 +3,7 @@ layout: page
 title: Smart Live Text (STT Pioneer)
 description: First successful WebRTC → Google Cloud Speech implementation helping 5,000+ developers
 img:
-importance: 6
+importance: 16
 category: work
 ---
 

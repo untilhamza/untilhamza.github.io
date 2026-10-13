@@ -3,7 +3,7 @@ layout: page
 title: Authentication Architecture 2.0
 description: Advanced auth system with AWS Cognito extension for multi-platform support
 img:
-importance: 13
+importance: 23
 category: work
 ---
 

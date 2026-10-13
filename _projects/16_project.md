@@ -3,7 +3,7 @@ layout: page
 title: Real-Time Video Processing Infrastructure
 description: Production-scale video processing with sub-second latency and anti-detection systems
 img:
-importance: 16
+importance: 26
 category: work
 ---
 

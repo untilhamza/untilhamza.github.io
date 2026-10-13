@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A collection of my projects.
+description: Products I build, previous engineering work, and community leadership.
 nav: true
 nav_order: 2
-display_categories: [work] # [work, fun]
+display_categories: [work, community]
 horizontal: true
 ---
 

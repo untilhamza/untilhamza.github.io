@@ -3,7 +3,7 @@ layout: page
 title: Mobile App Innovation
 description: Overcome platform limitations through sophisticated backend video processing
 img:
-importance: 15
+importance: 25
 category: work
 ---
 

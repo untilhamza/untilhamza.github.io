@@ -3,7 +3,7 @@ layout: page
 title: Editor & Block System Innovation
 description: React-EditorJS integration breakthrough replacing vanilla JavaScript implementations
 img:
-importance: 12
+importance: 22
 category: work
 ---
 

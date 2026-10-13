@@ -8,11 +8,11 @@ middle_name:
 last_name: Kyamanywa
 email: untilhamza@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Founder-CTO and AI/full-stack engineer building HoverNotes, Quest, and AI products where product judgment meets deep engineering execution.
+  Hamza Kyamanywa is a technical founder and full-stack AI engineer building HoverNotes, Quest, and JonjaBird, and president of the Ugandans in South Korea Association (USKA).
 footer_text: >
 
 keywords: >
-  Hamza Kyamanywa, Founder CTO, Technical Founder, HoverNotes, Quest, xAI Human Data, AI Engineer, Full-Stack Engineer, AI Product Engineer, Privacy-First AI, EdTech, Travel SaaS, Safari Quotation Software, Uganda, South Korea, Global Korea Scholarship, TypeScript, Python, React, Next.js, FastAPI, LangChain, LangGraph, OpenAI, Whisper, Chrome Extension, Browser Extension Development, Obsidian, Local-First Architecture, Multimodal AI, WebRTC, Real-time Processing, Speech-to-Text, RAG, Vector Databases, Stripe, Razorpay, Puppeteer, Cloudflare R2, AWS, Docker, PostgreSQL, MongoDB, Redis, Springer Publication, Open Source, GitHub, Stack Overflow
+  Hamza Kyamanywa, Technical Founder, HoverNotes, Quest, JonjaBird, USKA, SpaceXAI, Grok Model Evaluation, AI Engineer, Full-Stack Engineer, Zero-to-One Product Builder, Privacy-First AI, EdTech, Travel SaaS, Uganda, South Korea, Global Korea Scholarship, TypeScript, Python, React, Next.js, FastAPI, LangChain, LangGraph, Browser Extensions, Obsidian, Local-First Architecture, PostgreSQL, Open Source
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: /favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
@@ -205,6 +205,13 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
+  - career_evidence
+  - project_contributions
+  - linkedin-backup
+  - AGENTS.md
+  - .zvec-grep
+  - output
+  - tmp
 keep_files:
   - CNAME
   - .nojekyll
@@ -416,9 +423,9 @@ medium_zoom:
 # Get external JSON data
 # -----------------------------------------------------------------------------
 
-jekyll_get_json:
-  - data: resume
-    json: assets/json/resume.json # it can also be an url
+# The rendered resume uses _data/cv.yml. A JSON Resume export is generated
+# separately by bin/build_resume.py from the same source.
+jekyll_get_json: []
 jsonresume:
   - basics
   - work

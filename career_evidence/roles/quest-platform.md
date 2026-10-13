@@ -7,7 +7,7 @@
 - Organization/client: Quest, Kampala, Uganda
 - Public URL: https://questheaven.com
 - Role/title: CTO and Co-founder
-- Period: 2026 - Present needs confirmation
+- Period: Dec 2025 - Present (verified against live LinkedIn profile on 2026-10-13)
 - Location: Remote, Kampala (Uganda)
 - Source repo: `private-local-workspace/quest/quest-web-app`
 - Repo remote: `https://github.com/questdev-canine/quest-web-app.git`
@@ -131,7 +131,7 @@ User clarification on 2026-06-06: describe Quest as travel planning software, no
 
 ## Needs Confirmation
 
-- Exact start month and whether to use `2026 - Present` or a specific month.
+- Start month resolved from the live LinkedIn profile on 2026-10-13: December 2025.
 - Exact public role title: user stated CTO and co-founder.
 - Location phrasing confirmed by user on 2026-06-06: Quest is set up in Kampala, Uganda, and Hamza works on it remotely from Seoul.
 - Launch status, customer/user scale, and any measurable business outcomes.

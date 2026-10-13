@@ -3,7 +3,7 @@ layout: page
 title: Video Integration & Media Management
 description: Universal platform support with seamless video integration across all platforms
 img:
-importance: 10
+importance: 20
 category: work
 ---
 

@@ -2,11 +2,11 @@
 
 ## Metadata
 
-- Evidence status: Verified local business workspace; public framing and metrics need confirmation
+- Evidence status: Public framing and active founder role confirmed by Hamza on 2026-10-13; current portal backed by local repository
 - Public name: JonjaBird
 - Organization/client: JonjaBird / HOVERNOTES LLC product line needs confirmation
 - Role/title: Founder, product operator, and automation engineer
-- Period: Mar 2026 - Present needs confirmation
+- Period: 2026 - Present; exact start month needs confirmation
 - Location: Seoul, South Korea
 - Source workspace:
   - `private-local-workspace/inmate-letters-business`
@@ -19,7 +19,27 @@
 
 ## One-Line Positioning
 
-Founded and operationalized JonjaBird, a hybrid physical-digital mail and support service for foreign inmates in South Korea and their overseas sponsors, combining service design, pricing strategy, legal/privacy docs, client ledgers, and Python/WeasyPrint document automation.
+Founded JonjaBird after seeing a need through USKA: an end-to-end agentic AI system connecting foreign inmates in Korea with families abroad across physical mail intake, multimodal letter review, correspondence routing, service requests, browser-driven postal fulfillment, and tracking.
+
+## October 2026 Update and Evidence
+
+- Hamza confirmed the public founder story, active service, and foreign-inmate/family audience on 2026-10-13. Public site: https://jonjabird.com.
+- Current source: `/Users/untilhamza/Developer/jenga-code-labs/jonjabird/jonjabird-web-app/README.md` and `package.json`, inspected 2026-10-13. These supersede the future-platform description in the June evidence below.
+- The portal now implements member/staff workflows, a letter composer, private document library, packet previews, one-time Stripe Checkout, inbox/sent records, incoming scan intake, recipient access controls, and operator fulfillment.
+- Current stack evidence: Next.js, React, TypeScript, PostgreSQL, Python/WeasyPrint print workflows, Stripe, private Cloudflare R2 services, and Vercel.
+- Never copy client names, letters, account records, payments, or credentials into public portfolio content. No client counts, current revenue, or pricing figures are claimed in this refresh.
+
+### Agentic System - Current October 2026 Evidence
+
+Hamza corrected the portfolio framing on 2026-10-13: JonjaBird is an end-to-end agentic AI system, not merely a mail service with a portal.
+
+- `hermes/README.md`: Hermes is the operational mailroom agent, with persistent/versioned skills, scheduled intake/review/outgoing/admin work, carrier tracking, and exception reporting.
+- `hermes/live/skills/jonjabird/mail-review/SKILL.md`: Hermes takes over the earlier Eve review using the same validated application pipeline for scan reading, identity resolution, envelope sorting, audience separation, recipient routing, and request triage.
+- `docs/ops-api.md`: authenticated agent API and CLI cover intake, review, authorized release, outgoing envelopes, document downloads, and tracking; application rules remain authoritative for grants, payments, and recorded state.
+- `hermes/live/skills/jonjabird/admin-queue/SKILL.md`: agent processes service requests, researches permitted answers, records decisions, and escalates tasks requiring Hamza's judgment.
+- `hermes/live/skills/jonjabird/korea-post-egreen/SKILL.md`: browser-driven Korea Post submission, verified document/address handling, posting records, and tracking integration. Current skill includes October 7 and October 12 live operational evidence; do not copy customer details into public outputs.
+- `exam/README.md`: JonjaBird Bench runs a fictional full shift with actual skills/tools against an isolated portal, mailbox, and mock post office, grading task outcomes and recording time/cost. The mock postal scenario stops at payment; a benchmark result is not a claim that every live postal case has been verified.
+- Sources above were inspected read-only in the local `jonjabird-web-app` repo on 2026-10-13. No production systems or customer data were accessed for this portfolio update.
 
 ## Context
 
@@ -157,7 +177,7 @@ The current operating model is a manual MVP: inbound inmate letters are received
 
 ## Needs Confirmation
 
-- Whether JonjaBird should be public on the site/resume at all, given privacy and legal-adjacent sensitivity.
+- Public inclusion authorized and founder story confirmed by Hamza on 2026-10-13; client information remains private.
 - Public role title: `Founder`, `Founder/Operator`, `Product Founder`, `Founder and Automation Engineer`, or another framing.
 - Period and whether to present it as active.
 - Whether to name HOVERNOTES LLC as the operating entity.

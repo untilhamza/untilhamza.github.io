@@ -1,12 +1,12 @@
-# Uganda Community In South Korea
+# Ugandans In South Korea Association (USKA)
 
 ## Metadata
 
-- Evidence status: Verified from explicit user statement, local community workspace, and local PDF/PPT artifacts; public framing and acronym need confirmation
-- Public name: Uganda Community in South Korea / Ugandans in South Korea Association needs confirmation
-- Organization/client: USKA / UISKA / UCISK needs confirmation
-- Role/title: Vice President
-- Period: 2026 - Present needs confirmation
+- Evidence status: Current title and acronym verified by Hamza on 2026-10-13; supported by local USKA source material
+- Public name: Ugandans in South Korea Association
+- Organization/client: USKA
+- Role/title: President; previously Vice President
+- Period: President, Aug 2026 - Present; previously elected Vice President in February 2026
 - Location: South Korea
 - Source workspace:
   - `private-local-workspace/uganda-community-in-korea`
@@ -24,7 +24,16 @@
 
 ## One-Line Positioning
 
-Served in executive leadership for the Ugandan community in South Korea, helping formalize values, governance culture, diaspora partnership strategy, embassy-facing materials, and community engagement around sports, culture, welfare, and Uganda-Korea relations.
+President of the Ugandans in South Korea Association (USKA), supporting community welfare, governance, embassy-facing communication, cultural exchange, and Uganda-Korea ties. This work led to founding JonjaBird to help foreign inmates in Korea stay in touch with their families abroad.
+
+## October 2026 Update and Evidence
+
+- Hamza explicitly confirmed President and the acronym USKA on 2026-10-13, and confirmed that this work led him to build JonjaBird.
+- Current workspace: `/Users/untilhamza/Developer/jenga-code-labs/USKA` (read-only reference; private operational material must not be copied to the site).
+- `uska-web/project-spec/09-org-facts.md` names Hamza as President and records his election as Vice President on February 15, 2026.
+- `uska-web/project-spec/pending/leadership-transition-cms-update.md` has an Applied August 17, 2026 status; `uska-web/src/scripts/seed-uska.ts` and `src/app/(frontend)/leadership/page.tsx` also name him as President.
+- `My Work as President (what will we be doing).md` documents his focus on service, continuity, governance, and bringing Ugandans together.
+- Public site: https://ugkorea.org. Public naming supersedes the historical UCISK/UISKA variants in older artifacts below. Those older artifacts establish the earlier Vice President role only.
 
 ## Context
 
@@ -155,9 +164,7 @@ The local evidence set spans older constitutional material under `Uganda Communi
 
 ## Needs Confirmation
 
-- Final public name and acronym: `USKA`, `UISKA`, `UCISK`, or another official form.
-- Whether to use `Vice President` alone or a longer public title such as `Executive Committee Vice President`.
-- Exact period: whether to use `2026 - Present`, election/appointment month, or another date range.
+- Public name, acronym, and current title resolved on 2026-10-13: Ugandans in South Korea Association (USKA), President. Current source records the public role transition in August 2026.
 - Which artifacts Hamza personally authored vs reviewed, commissioned, or helped structure.
 - Whether to publish the association's registration number from `USKA_Embassy.pdf`.
 - Whether to publish community demographic figures such as 586/632 Ugandans in Korea, and whether those should be refreshed before publication.

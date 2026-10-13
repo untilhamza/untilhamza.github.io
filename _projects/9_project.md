@@ -3,7 +3,7 @@ layout: page
 title: Multi-Agent Transcript Correction
 description: LangGraph-based agent system for AI dubbing pipeline transcript correction
 img:
-importance: 9
+importance: 19
 category: work
 ---
 

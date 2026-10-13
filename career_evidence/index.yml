@@ -1,10 +1,10 @@
 roles:
   - id: xai-human-data
-    public_name: xAI Human Data - Software Engineering
-    organization: xAI / Remote Technology Services
+    public_name: SpaceXAI - Grok Model Evaluation (formerly xAI)
+    organization: SpaceXAI (original contract xAI / Remote Technology Services)
     role: Software Engineering Specialist, Human Data / AI Tutor - Software Engineering (Expert)
-    period: May 2026 - Present
-    location: Remote, United States
+    period: May 2026 - Sep 2026
+    location: Seoul, South Korea, Remote
     evidence_file: roles/xai-human-data.md
     source_repos:
       - Private local workspace, not included in this repo.
@@ -19,7 +19,7 @@ roles:
     organization: Quest, Kampala, Uganda
     public_url: https://questheaven.com
     role: CTO and Co-founder
-    period: 2026 - Present needs confirmation
+    period: Dec 2025 - Present
     location: Remote, Kampala (Uganda)
     evidence_file: roles/quest-platform.md
     source_repos:
@@ -48,7 +48,7 @@ roles:
   - id: hovernotes
     public_name: HoverNotes
     organization: HoverNotes, U.S. company
-    role: Technical Founder and CEO
+    role: Technical Founder
     period: Jul 2025 - Present
     location: Remote, United States
     evidence_file: roles/hovernotes.md
@@ -73,13 +73,13 @@ roles:
       - _data/cv.yml
       - _projects/
       - resume markdown files
-    status: Verified local business workspace, public framing and metrics need confirmation
+    status: Active founder role and public framing confirmed by Hamza on 2026-10-13; current portal repo verified; exact start month and metrics unconfirmed
 
   - id: uganda-community-korea
-    public_name: Uganda Community in South Korea
-    organization: USKA / UISKA / UCISK needs confirmation
-    role: Vice President / executive community leadership
-    period: 2026 - Present needs confirmation
+    public_name: Ugandans in South Korea Association
+    organization: USKA
+    role: President (previously Vice President)
+    period: Aug 2026 - Present
     evidence_file: roles/uganda-community-korea.md
     source_repos:
       - private-local-workspace/uganda-community-in-korea
@@ -88,7 +88,7 @@ roles:
       - _data/cv.yml
       - _projects/
       - resume markdown files
-    status: Verified local artifacts and user-stated VP role, public naming and dates need confirmation
+    status: President and USKA acronym confirmed by Hamza on 2026-10-13; August transition supported by current USKA website source
 
   - id: bebridge-slid
     public_name: Slid

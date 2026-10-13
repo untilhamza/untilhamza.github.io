@@ -16,6 +16,8 @@
 
 ## One-Line Positioning
 
+Verified update, October 13, 2026: Hamza approved "Built and grew HoverNotes to five-figure MRR within its first year, owning product, engineering, and growth" for the resume and LinkedIn. Use this first-year growth milestone in current public copy instead of the older exact monthly-revenue figure. It does not assert current MRR. Preserve the June 2026 revenue and install observations below as historical evidence, rather than converting that revenue observation into MRR.
+
 Current positioning confirmed by Hamza on 2026-10-13: technical founder, back focused full-time on HoverNotes after the SpaceXAI contract ended September 30, 2026. Describe HoverNotes as a privacy-first AI tool for online video learners. Revenue and install figures below are June 2026 historical evidence, not current figures.
 
 Founded and built HoverNotes, a U.S. company and privacy-first AI video note-taking product operated remotely from Seoul, with around 20K Chrome/Edge installs and over $10K/month revenue as of June 5, 2026, turning online videos into structured notes through a browser extension, a Next.js web app, local-first Obsidian workflows, and multimodal AI note generation.
@@ -125,7 +127,8 @@ The local web app repo is currently a production Next.js app (`hover-notes`, ver
 
 ## Resume Bullet Bank
 
-- Founded HoverNotes, a privacy-first AI video note-taking SaaS, growing it to over $10K/month revenue and around 20K Chrome/Edge installs while owning product strategy, architecture, implementation, and go-to-market.
+- Built and grew HoverNotes to five-figure MRR within its first year, owning product, engineering, and growth.
+- Built a privacy-first AI tool for online video learners, reaching around 20K Chrome/Edge installs as of June 2026.
 - Built the production Next.js/React web app for the extension editor, subscriptions, pricing, localization, SEO, analytics, and local-first note-taking workflows.
 - Architected AI Notes flows that coordinate browser capture, editor state, backend routing, asynchronous job polling, telemetry, and recovery across legacy and modern AI pipelines.
 - Designed a multimodal video-in, notes-out pipeline that captures and deduplicates key frames client-side before sending selected visual context to the backend for AI note generation.

@@ -129,6 +129,18 @@ User clarification on 2026-06-06: describe Quest as travel planning software, no
 - Local repo: `private-local-workspace/quest/quest-web-app`
 - Repo README describes product, stack, user roles, admin panel, operator dashboard, and deployment workflow.
 
+## Direction update - November 4, 2026 (Strong draft; wording not yet approved)
+
+Source: `quest-web-app/docs/progress/quest-content-platform-plan.md` (started 2026-10-28) and `docs/reference/agent-architecture-history.md` (2026-10-31), plus Hamza's statement on 2026-11-04 that Quest "is more of an agentic system... an OS for tour operators" (he is still deciding how to describe it).
+
+- Public URL is now https://questbooking.ai (questheaven.com redirects there, checked 2026-11-04). The live homepage still markets "safari quote software for Uganda tour operators".
+- Direction in the plan: from "quote builder for tour operators" to "the software a travel company runs on". Next to quotes and packages, an operator gets their website (cloned into the HoverSite engine, hosted on Cloudflare, edited and SEO-managed from Quest one page at a time) and their blog (written by the MotiBlog engine).
+- Ask Quest: an in-app agent (AI SDK on Vercel Functions, about 89 typed tools, approval cards, no shell) that acts across Quest data (packages, destinations, quotes), the blog and the website. Long site work runs on a Hetzner worker with Docker-sandboxed builds; durable long jobs on Vercel Workflow.
+- HoverSite and MotiBlog started under Hamza's HoverNotes/Jenga work and are now engines behind Quest, called with a service key per company.
+- Rollout status (from the plan): blog live for the internal test company first; Sites section and Ask Quest-in-site in review/partly deployed late October 2026. Do not claim general availability.
+- Candidate public line (Needs confirmation): "Quest is becoming an agentic operating system for tour operators: one agent, Ask Quest, works across their quotes, packages, website and blog, and asks before it acts."
+- Do not name the internal test company publicly without Hamza's approval.
+
 ## Needs Confirmation
 
 - Start month resolved from the live LinkedIn profile on 2026-10-13: December 2025.

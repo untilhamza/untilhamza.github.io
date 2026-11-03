@@ -1,3 +1,9 @@
+    <!-- untilhamza.com is the canonical host; send github.io visitors there. -->
+    <script>
+      if (location.hostname === "untilhamza.github.io") {
+        location.replace("https://untilhamza.com" + location.pathname + location.search + location.hash);
+      }
+    </script>
     <!-- Metadata, OpenGraph and Schema.org -->
     {% include metadata.html %}
 

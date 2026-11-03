@@ -1,0 +1,13 @@
+{
+  // Interim edge for untilhamza.com: serves the GitHub Pages build of this repo
+  // under the custom domain until the Astro site replaces it.
+  // Deploy: npx wrangler deploy --config edge/untilhamza-com/wrangler.jsonc
+  "name": "untilhamza-com",
+  "main": "src/index.js",
+  "compatibility_date": "2026-11-01",
+  "workers_dev": false,
+  "routes": [
+    { "pattern": "untilhamza.com", "custom_domain": true },
+    { "pattern": "www.untilhamza.com", "custom_domain": true }
+  ]
+}

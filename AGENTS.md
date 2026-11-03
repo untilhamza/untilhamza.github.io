@@ -22,3 +22,10 @@ When tailoring the site or resume for a role:
 3. Prefer concrete outcomes, scale, and ownership over broad summaries.
 4. Preserve facts and dates consistently across the homepage, CV data, project pages, and resume sources.
 5. Leave a short note in the relevant evidence file if you discover stronger proof or a better phrasing.
+
+## Hosting (2026-11-04)
+
+- `untilhamza.com` is the canonical host. The zone is in the Cloudflare account "Untilhamza@gmail.com's Account" (`9a74175b08039eed2e93d47f8e9b6001`); local `wrangler` is already logged in to it via OAuth (`wrangler whoami`). That token can deploy Workers and attach custom domains but cannot edit DNS records or zone settings, so use the dashboard for those.
+- Interim setup: the `untilhamza-com` Worker (`edge/untilhamza-com/`) proxies the GitHub Pages build (`untilhamza.github.io`, `gh-pages` branch) under `untilhamza.com`, 308s `www.` and `http://` to `https://untilhamza.com`, and rewrites absolute github.io URLs. Deploy with `npx wrangler deploy --config edge/untilhamza-com/wrangler.jsonc`.
+- `_config.yml` `url` is `https://untilhamza.com`, so canonicals point there; `_includes/head.html` JS-redirects visitors who land on `untilhamza.github.io`.
+- Planned: an Astro site on Cloudflare Workers (like `hover-notes-web-site`) replaces the proxy on the same custom domain. Design directions: `design/personal-site-2026-11-04/`.

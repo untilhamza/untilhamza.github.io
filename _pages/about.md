@@ -26,7 +26,7 @@ I’m a full-stack AI engineer and technical founder based in Seoul. I’m a zer
 
 My main focus is **[HoverNotes](https://hovernotes.io)**, a privacy-first AI tool for online video learners. It turns lectures, tutorials, and course videos into structured notes while you watch and saves them directly to your local Obsidian vault. I built the product end to end, from the browser extension and AI pipelines to the web app, payments, and local-first storage.
 
-I’m also co-founder and CTO at **[Quest](https://questheaven.com)**, where we help safari tour operators in East Africa turn complex travel plans into priced itineraries and client-ready quotes. I lead the engineering team and own the technical direction.
+I’m also co-founder and CTO at **[Quest](https://questbooking.ai)**, which we’re building into an agentic operating system for tour operators in East Africa. One agent, Ask Quest, works across an operator’s quotes, packages, website and blog, and asks before it acts. I lead the engineering team and own the technical direction.
 
 I also serve as president of the **[Ugandans in South Korea Association (USKA)](https://ugkorea.org)**. That work led me to build **[JonjaBird](https://jonjabird.com)**, an end-to-end agentic AI system that helps foreign inmates in Korea stay in touch with their families abroad.
 

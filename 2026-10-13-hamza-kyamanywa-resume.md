@@ -16,7 +16,7 @@ Technical founder and full-stack AI engineer based in Seoul. A zero-to-one produ
 
 HoverNotes | AI video note-taking SaaS | Remote, United States | Jul 2025 - Present
 - Built and grew HoverNotes to five-figure MRR within its first year, owning product, engineering, and growth.
-- Built a privacy-first AI tool for online video learners, reaching around 20K Chrome/Edge installs as of June 2026.
+- Built a privacy-first AI tool for online video learners, reaching 30,000 Chrome users as of November 2026.
 - Built the product across Chrome/Edge extension workflows, a Next.js web app, local-first Obsidian workflows, payments, analytics, SEO/i18n, and AI note generation.
 - Designed a multimodal video-in, notes-out pipeline where the extension captures realtime video learning context, the web app deduplicates/ranks visual frames, and the backend generates structured notes from transcript plus selected visual context.
 - Implemented regional monetization across Stripe for global card payments, China one-time passes via WeChat Pay/Alipay, and India payments via Razorpay/UPI.
@@ -36,6 +36,7 @@ Quest | Travel planning software for tour and travel companies | Remote, Kampala
 
 JonjaBird | Agentic AI mailroom | Seoul, South Korea | 2026 - Present
 - Founded JonjaBird, an end-to-end agentic AI system connecting foreign inmates in Korea with families abroad, after seeing the need through USKA.
+- Handled over 100 letters between families and inmates in the first year, first by hand and then through the agent-run mailroom.
 - Built agent-led mail intake, multimodal letter review, sender/recipient matching, private-audience separation, correspondence routing, and service-request handling.
 - Connected the agent to Korea Post through browser automation for outgoing letters, with postal tracking and delivery status flowing back to the member portal.
 - Built the authenticated operations API and CLI, persistent agent skills, scheduled queue processing, and exception handling; application code enforces recipient access and payment state.

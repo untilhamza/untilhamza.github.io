@@ -22,6 +22,12 @@ Current positioning confirmed by Hamza on 2026-10-13: technical founder, back fo
 
 Founded and built HoverNotes, a U.S. company and privacy-first AI video note-taking product operated remotely from Seoul, with around 20K Chrome/Edge installs and over $10K/month revenue as of June 5, 2026, turning online videos into structured notes through a browser extension, a Next.js web app, local-first Obsidian workflows, and multimodal AI note generation.
 
+## November 2026 Update
+
+- Verified 2026-11-13: the Chrome Web Store listing (`fhdmbhgpabjkadpaafomaabbdckofphm`) shows **30,000 users**, a 4.6 rating from 108 ratings, version 1.2.42 (updated November 4, 2026). Chrome's figure counts users, rounded by the store, so public copy says "30,000 Chrome users", not "installs". The Edge listing did not render a count when fetched.
+- Hamza told a KAFXA contact on 2026-11-13 that HoverNotes has "over 30,000 installations" and launched officially in 2025. The Chrome figure alone supports 30,000.
+- Public wording now used on the site: "30,000 Chrome users as of November 2026". This replaces the June 2026 "around 20K Chrome/Edge installs" in current copy; the June figure stays below as history.
+
 ## Context
 
 HoverNotes is a U.S.-based privacy-first video learning platform that Hamza operates remotely from Seoul. The product spans a Chrome/Edge browser extension, a Next.js web app, local file/vault integrations, payment and subscription systems, analytics, SEO/content infrastructure, and an AI backend integration for transcript, screenshot, and multimodal note generation.
@@ -173,7 +179,7 @@ The local web app repo is currently a production Next.js app (`hover-notes`, ver
 
 - Current status resolved 2026-10-13: active, Hamza's full-time focus.
 - Exact revenue wording and whether to publish publicly: over $10K/month revenue, not MRR because annual subscriptions are included.
-- Exact Chrome/Edge install count and whether to round publicly as 20K+ installs.
+- Resolved 2026-11-13: public install wording is "30,000 Chrome users" (Chrome Web Store, checked that day). Edge count still unverified.
 - Exact job title to use publicly: `Technical Founder and CEO`, `Founder`, `Founder/Engineer`, or another framing.
 - Location phrasing confirmed by user on 2026-06-06: officially a U.S. company; Hamza works on it remotely from Seoul.
 - Extension repo path, backend repo path, and whether they can be named.

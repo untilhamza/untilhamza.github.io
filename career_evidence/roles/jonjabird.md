@@ -41,6 +41,18 @@ Hamza corrected the portfolio framing on 2026-10-13: JonjaBird is an end-to-end 
 - `exam/README.md`: JonjaBird Bench runs a fictional full shift with actual skills/tools against an isolated portal, mailbox, and mock post office, grading task outcomes and recording time/cost. The mock postal scenario stops at payment; a benchmark result is not a claim that every live postal case has been verified.
 - Sources above were inspected read-only in the local `jonjabird-web-app` repo on 2026-10-13. No production systems or customer data were accessed for this portfolio update.
 
+## November 2026 Update: Letter Volume
+
+Public wording approved by Hamza on 2026-11-13 (sent to a KAFXA contact): JonjaBird "has handled over 100 letters between families and inmates" in its first year.
+
+Counted 2026-11-13 with read-only aggregate queries and file listings; no letter content or client names were copied:
+
+- Production database (Neon `jonjabird`, 2026-09-17 to 2026-11-12): 39 inmate letters delivered to families (17 delivered envelopes, current revision, `kind = letter`), 19 family envelopes posted to prisons (all `sent`, none from test accounts), and 3 letters JonjaBird wrote and posted itself. Abandoned or closed uploads, enclosures and photos are excluded. Subtotal: 58.
+- Manual period before the portal (Dropbox scan folders, Feb 2026 to early Sep 2026): about 87 distinct scan dates or separately named letters across the per-client folders. Counting each dated folder as one letter is a floor; many hold 4 to 12 files.
+- Floor total: about 145. Excluding the four February folders that predate the first receipt (`JB-2026-0001`, 2026-03-10): about 141. Manual-period receipts (about 10 forwarded family letters) and the `hamza-to-*` letters were left out to avoid double counting.
+- Confirmed by Hamza on 2026-11-14 from operating experience: JonjaBird "cuts the time to send and receive a letter from abroad from weeks to days" (his wording to KAFXA, 2026-11-13). Used on the JonjaBird project page. No measured timing comparison yet; postal tracking data in the database could quantify it later.
+- Hamza's KAFXA note says AI agents "handle all of the work". Site copy keeps the more exact framing: the agent runs the mailroom and leaves exceptions for Hamza's review.
+
 ## Context
 
 JonjaBird serves a communication gap for non-Korean inmates in Korean correctional facilities. Inmates have no internet access and international families often cannot reliably manage Korean prison mail, printing, address formatting, translation, payments, or account visibility.

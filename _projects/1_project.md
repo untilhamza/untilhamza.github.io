@@ -14,7 +14,7 @@ category: work
   <h3>Growth Milestones</h3>
   <ul>
     <li>Built and grew HoverNotes to <strong>five-figure MRR within its first year</strong>, owning product, engineering, and growth.</li>
-    <li>Around <strong>20K installs</strong> across Chrome and Edge as of June 2026.</li>
+    <li><strong>30,000 users</strong> on the Chrome Web Store as of November 2026, rated 4.6 from 108 ratings.</li>
     <li>Global monetization through Stripe, WeChat Pay/Alipay one-time passes, and Razorpay/UPI.</li>
   </ul>
 

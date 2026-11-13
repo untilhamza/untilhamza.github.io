@@ -50,7 +50,7 @@ Counted 2026-11-13 with read-only aggregate queries and file listings; no letter
 - Production database (Neon `jonjabird`, 2026-09-17 to 2026-11-12): 39 inmate letters delivered to families (17 delivered envelopes, current revision, `kind = letter`), 19 family envelopes posted to prisons (all `sent`, none from test accounts), and 3 letters JonjaBird wrote and posted itself. Abandoned or closed uploads, enclosures and photos are excluded. Subtotal: 58.
 - Manual period before the portal (Dropbox scan folders, Feb 2026 to early Sep 2026): about 87 distinct scan dates or separately named letters across the per-client folders. Counting each dated folder as one letter is a floor; many hold 4 to 12 files.
 - Floor total: about 145. Excluding the four February folders that predate the first receipt (`JB-2026-0001`, 2026-03-10): about 141. Manual-period receipts (about 10 forwarded family letters) and the `hamza-to-*` letters were left out to avoid double counting.
-- Needs confirmation: "cuts the time to send and receive a letter from abroad from weeks to days" (Hamza's wording to KAFXA, 2026-11-13). No timing comparison has been measured; keep it out of site copy until delivery times are checked against tracking data.
+- Confirmed by Hamza on 2026-11-14 from operating experience: JonjaBird "cuts the time to send and receive a letter from abroad from weeks to days" (his wording to KAFXA, 2026-11-13). Used on the JonjaBird project page. No measured timing comparison yet; postal tracking data in the database could quantify it later.
 - Hamza's KAFXA note says AI agents "handle all of the work". Site copy keeps the more exact framing: the agent runs the mailroom and leaves exceptions for Hamza's review.
 
 ## Context

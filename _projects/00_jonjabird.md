@@ -11,6 +11,8 @@ category: work
 
 My work as president of the Ugandans in South Korea Association (USKA) led me to build [JonjaBird](https://jonjabird.com). Foreign inmates in Korea have no internet access, while their families abroad face language barriers and unfamiliar postal systems when trying to stay in touch. I built an end-to-end agentic AI system to run the mailroom connecting them.
 
+In its first year, JonjaBird has handled over 100 letters between families and inmates: by hand at first, and now through the agent-run system.
+
 ### The End-to-End System
 
 Paper is the inmate’s interface. Families use a digital portal. Between them, the mailroom agent, Hermes, coordinates the work across scanned mail, application tools, browser automation, and postal fulfillment.

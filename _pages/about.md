@@ -28,7 +28,7 @@ My main focus is **[HoverNotes](https://hovernotes.io)**, a privacy-first AI too
 
 I’m also co-founder and CTO at **[Quest](https://questbooking.ai)**, which we’re building into an agentic operating system for tour operators in East Africa. One agent, Ask Quest, works across an operator’s quotes, packages, website and blog, and asks before it acts. I lead the engineering team and own the technical direction.
 
-I also serve as president of the **[Ugandans in South Korea Association (USKA)](https://ugkorea.org)**. That work led me to build **[JonjaBird](https://jonjabird.com)**, an end-to-end agentic AI system that helps foreign inmates in Korea stay in touch with their families abroad.
+I also serve as president of the **[Ugandans in South Korea Association (USKA)](https://ugkorea.org)**. That work led me to build **[JonjaBird](https://jonjabird.com)**, an end-to-end agentic AI system that helps foreign inmates in Korea stay in touch with their families abroad. In its first year it has handled over 100 letters between families and inmates.
 
 JonjaBird’s mailroom agent reads scanned letters, identifies senders and recipients, separates private material, and routes correspondence. It handles service requests and uses browser automation to submit outgoing letters through Korea Post, with delivery tracking connected back to the portal. I built the agent’s tools, operations API, persistent skills, and evaluation environment alongside the customer portal, payments, and document infrastructure. [Read about the system]({{ '/projects/00_jonjabird/' | relative_url }}).
 
